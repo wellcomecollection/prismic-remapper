@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Fist",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xhb9ERAAACYAQJ5Q",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/53d62870-5a13-474f-9563-d0f5be35086e_fist+comic+resized.jpg",
+      "width": 1667,
+      "height": 1678
+    },
+    "width": 1667,
+    "height": 1678,
+    "url": "https://images.prismic.io/wellcomecollection/53d62870-5a13-474f-9563-d0f5be35086e_fist+comic+resized.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Fist comic by Rob Bidder depicts a fist in different four settings. The first slice shows a fist pointed at someone, in the second slice someone is being punched in the face as their teeth fall out, the third is a fist in the air and the final slice is someone knocking on a door.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$bc9b468d-6850-47f7-9088-7c385ea2fd19",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The power of an ordinary fist. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xhb9HBAAACcAQJ6B",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg",
+              "width": 2438,
+              "height": 2012
+            },
+            "width": 2438,
+            "height": 2012,
+            "url": "https://images.prismic.io/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "A raised fist in the air against a pink sky with clouds. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xhb9HBAAACcAQJ6B",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg",
+                  "width": 2438,
+                  "height": 2012
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg?auto=compress,format&rect=0,434,2438,1143&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3125512715340444,
+                  "crop": {
+                    "x": 0,
+                    "y": -570
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A raised fist in the air against a pink sky with clouds. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xhb9HBAAACcAQJ6B",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg",
+                  "width": 2438,
+                  "height": 2012
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg?auto=compress,format&rect=0,320,2438,1371&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3125512715340444,
+                  "crop": {
+                    "x": 0,
+                    "y": -420
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A raised fist in the air against a pink sky with clouds. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xhb9HBAAACcAQJ6B",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg",
+                  "width": 2438,
+                  "height": 2012
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/02b6d5f0-e274-4761-9ea4-c730241e34c8_fist+comic+crop.jpg?auto=compress,format&rect=213,0,2012,2012&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.5904572564612327,
+                  "crop": {
+                    "x": -339,
+                    "y": 0
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A raised fist in the air against a pink sky with clouds. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xhb7whAAACYAQJh8",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xhb9ERAAACYAQJ5Q",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/53d62870-5a13-474f-9563-d0f5be35086e_fist+comic+resized.jpg",
+                "width": 1667,
+                "height": 1678
+              },
+              "width": 1667,
+              "height": 1678,
+              "url": "https://images.prismic.io/wellcomecollection/53d62870-5a13-474f-9563-d0f5be35086e_fist+comic+resized.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Fist comic by Rob Bidder depicts a fist in different four settings. The first slice shows a fist pointed at someone, in the second slice someone is being punched in the face as their teeth fall out, the third is a fist in the air and the final slice is someone knocking on a door.",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

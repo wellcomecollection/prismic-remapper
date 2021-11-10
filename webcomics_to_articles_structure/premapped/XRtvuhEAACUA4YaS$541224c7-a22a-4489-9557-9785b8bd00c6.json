@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ghost",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XRtuVREAACQA4YBE",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc7a28751-b4fd-4d4f-813e-93a2bee44851_ghost.jpg",
+      "width": 2500,
+      "height": 2466
+    },
+    "width": 2500,
+    "height": 2466,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/06e2eb16fc6567c92ebfec50e589815b5bb3f143_ghost.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Ghost|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Ghost comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3e48cb95-537f-44a1-9d2c-ef06a6c8f7b7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It's hard being a ghost when a silent 'boo' is all you have. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XRtuUREAACYA4YA1",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbf959da2-2f3d-491a-b661-b912dc4e05bf_ghost_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/63a48d012400078050f08c0d0f1777bd8adb1d1e_ghost_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Ghost|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Ghost comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XRtuUREAACYA4YA1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbf959da2-2f3d-491a-b661-b912dc4e05bf_ghost_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ae834dd48c8572b643f1af8a42bc948b769a756b_ghost_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Ghost|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ghost comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XRtuUREAACYA4YA1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbf959da2-2f3d-491a-b661-b912dc4e05bf_ghost_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3ff5c36f4d37d48ee16e3b35cf31256c88afc11a_ghost_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Ghost|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ghost comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XRtuUREAACYA4YA1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbf959da2-2f3d-491a-b661-b912dc4e05bf_ghost_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7f4a1e7b0a09b9b91d75e80c1a0924fd0604c2aa_ghost_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Ghost|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ghost comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XRtvuhEAACUA4YaU"
+}

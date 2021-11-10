@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Thought",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XKcgZBcAACcA__0l",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0edb345a-0d76-4e13-b64f-c030004a3cd8_thought_web.jpg",
+      "width": 2472,
+      "height": 2465
+    },
+    "width": 2472,
+    "height": 2465,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f88b463f0d2bd001f43b57ee3b4413b0d81c4a49_thought_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Thought|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Thought comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$73fe3371-16c8-436f-9bd6-7a780bbd448e",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ever find your thoughts leading you down the same old paths?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XKcgXxcAACUA__0O",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Feace5932-a000-4a20-a2ef-b5c4a56a21eb_thought_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9ac5c91b1e5610d34c762ea1eadaacac9a03dc60_thought_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Thought|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Thought comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XKcgXxcAACUA__0O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Feace5932-a000-4a20-a2ef-b5c4a56a21eb_thought_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/03e57837490e3c90fe08d5cd417547080fa31f90_thought_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Thought|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Thought comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XKcgXxcAACUA__0O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Feace5932-a000-4a20-a2ef-b5c4a56a21eb_thought_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc0fcd7d3c4de572eab78ceb56618797e874baec_thought_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Thought|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Thought comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XKcgXxcAACUA__0O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Feace5932-a000-4a20-a2ef-b5c4a56a21eb_thought_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e8e70fabda41e97ae7df96194de9b45139f0c95d_thought_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Thought|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Thought comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XKch0xcAACcAAAN5"
+}

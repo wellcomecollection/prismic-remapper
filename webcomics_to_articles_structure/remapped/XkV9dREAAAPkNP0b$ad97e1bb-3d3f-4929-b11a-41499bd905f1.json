@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Loving ",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XkV9nREAANSqNP3S",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f059340d-9da4-4dd6-9bbc-d6318aaeb3da_loving+comic+resized.jpg",
+      "width": 1718,
+      "height": 1723
+    },
+    "width": 1718,
+    "height": 1723,
+    "url": "https://images.prismic.io/wellcomecollection/f059340d-9da4-4dd6-9bbc-d6318aaeb3da_loving+comic+resized.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Loving comic by Rob Bidder with four frames. The first frame shows two figures embracing; the second frame depicts a number of figures with love hearts floating above them; the third frame shows a figure in bed reading a book with the title 'all about love' as they are surrounded by other books on love; the final frame has two figures looking emotional with their faces up close as their noses touch.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$fd230637-b315-4529-8609-ff6a52f6835e",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Learning how to be loved can be complicated. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XkV9pBEAAAPkNP32",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg",
+              "width": 2439,
+              "height": 1372
+            },
+            "width": 2439,
+            "height": 1372,
+            "url": "https://images.prismic.io/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Frame of Loving comic by Rob Bidder. Two figures embrace with love hearts as eyes.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XkV9pBEAAAPkNP32",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg",
+                  "width": 2439,
+                  "height": 1372
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg?auto=compress,format&rect=0,114,2439,1143&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3120131201312013,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Frame of Loving comic by Rob Bidder. Two figures embrace with love hearts as eyes.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XkV9pBEAAAPkNP32",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg",
+                  "width": 2439,
+                  "height": 1372
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg?auto=compress,format&rect=0,0,2439,1372&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3120131201312013,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Frame of Loving comic by Rob Bidder. Two figures embrace with love hearts as eyes.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XkV9pBEAAAPkNP32",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg",
+                  "width": 2439,
+                  "height": 1372
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/04923326-df5d-4cd2-8dc8-179c8b615f9f_loving+comic+crop.jpg?auto=compress,format&rect=533,0,1372,1372&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.3323615160349855,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Frame of Loving comic by Rob Bidder. Two figures embrace with love hearts as eyes.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XkV9dREAAAPkNP0d",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XkV9nREAANSqNP3S",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f059340d-9da4-4dd6-9bbc-d6318aaeb3da_loving+comic+resized.jpg",
+                "width": 1718,
+                "height": 1723
+              },
+              "width": 1718,
+              "height": 1723,
+              "url": "https://images.prismic.io/wellcomecollection/f059340d-9da4-4dd6-9bbc-d6318aaeb3da_loving+comic+resized.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Loving, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Loving comic by Rob Bidder with four frames. The first frame shows two figures embracing; the second frame depicts a number of figures with love hearts floating above them; the third frame shows a figure in bed reading a book with the title 'all about love' as they are surrounded by other books on love; the final frame has two figures looking emotional with their faces up close as their noses touch.",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Thirst",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuSoAAL65Q6Hb",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F902c9cec-95d7-46cc-a706-edf34dca0a08_bodysquabbles-02-thirst.jpg",
+      "width": 2000,
+      "height": 1993
+    },
+    "width": 2000,
+    "height": 1993,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/47cfcdf323f291af9f5d56dfe254d361f2be2cd1_bodysquabbles-02-thirst.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Thirst: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Riding a demodicid across the vast open facial plains.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAItZQ6G-",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F72576455-dc9c-4de3-8730-42ffe2c74ab9_bodysquabbles-02-thirst-thumb.jpg",
+              "width": 930,
+              "height": 523
+            },
+            "width": 930,
+            "height": 523,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b30250e4a8e02675a9ba2da51c83847c3b17e954_bodysquabbles-02-thirst-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Thirst: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-05-11T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjXACoAAItZQ7Bv",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTuSoAAL65Q6Hb",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F902c9cec-95d7-46cc-a706-edf34dca0a08_bodysquabbles-02-thirst.jpg",
+                "width": 2000,
+                "height": 1993
+              },
+              "width": 2000,
+              "height": 1993,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/47cfcdf323f291af9f5d56dfe254d361f2be2cd1_bodysquabbles-02-thirst.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Thirst: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

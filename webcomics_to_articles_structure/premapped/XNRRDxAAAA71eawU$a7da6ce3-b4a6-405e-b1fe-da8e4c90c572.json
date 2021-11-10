@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wrinkles",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XNRPmBAAAJ70eaWH",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9bdb9126-d3ce-4077-8134-986adc18e94d_wrinkles_web.jpg",
+      "width": 2487,
+      "height": 2443
+    },
+    "width": 2487,
+    "height": 2443,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/177dc8dc75127e18f04ca279a022a88cd2548675_wrinkles_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Wrinkles|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Wrinkles comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$d9c32637-1603-4702-856d-c4366c1429d9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Maybe instead of looking for ways to fix wrinkles we should find ways to use them.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XNRPlRAAAGT0eaV1",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F37014291-fd09-4c29-a4c2-fa19254e9bb4_wrinkles_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f13056bb7ca88a459c8f6631ec8828b767ec1575_wrinkles_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Wrinkles|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Wrinkles comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XNRPlRAAAGT0eaV1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F37014291-fd09-4c29-a4c2-fa19254e9bb4_wrinkles_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6dca1afe6d60c1e45560890566b7cf5880af0800_wrinkles_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Wrinkles|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Wrinkles comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XNRPlRAAAGT0eaV1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F37014291-fd09-4c29-a4c2-fa19254e9bb4_wrinkles_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4ae5dc909886bd1eae2314d5897645c1b572e53e_wrinkles_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Wrinkles|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Wrinkles comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XNRPlRAAAGT0eaV1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F37014291-fd09-4c29-a4c2-fa19254e9bb4_wrinkles_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1a52103b3a815e823bf12881eca07e4e28e7b8bb_wrinkles_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Wrinkles|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Wrinkles comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XNRRDxAAAA71eawW"
+}

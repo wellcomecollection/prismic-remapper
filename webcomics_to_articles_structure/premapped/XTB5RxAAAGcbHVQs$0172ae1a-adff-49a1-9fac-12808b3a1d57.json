@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sensitive",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XTB6LBAAACIAHVgo",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd189f0c6-edfd-4312-8746-e3bc8ab94056_sensitive.png",
+      "width": 2975,
+      "height": 2923
+    },
+    "width": 2975,
+    "height": 2923,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/922e0db2ecb3333918906141b08da644a2b2d312_sensitive.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sensitive|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Ideas comic by Rob Bidder. Text reads: You're not too sensitive... you just feel the amount you feel... you don't necessarily have to act on it, or change it into something else... It's yours. You can just allow yourself to feel it.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$828ae453-e0d1-4de4-ab04-cc27e233b022",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Allow yourself to feel all the feels.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XTB6TRAAACQAHVjB",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e210e87-9da1-4c24-902a-e983322491af_sensitive_crop.jpg",
+              "width": 2479,
+              "height": 1239
+            },
+            "width": 2479,
+            "height": 1239,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f58063540476090f964944f5d731530ec2c2b2e2_sensitive_crop.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sensitive|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Sensitive comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XTB6TRAAACQAHVjB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e210e87-9da1-4c24-902a-e983322491af_sensitive_crop.jpg",
+                  "width": 2479,
+                  "height": 1239
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/13e50167c19fe0250a097e021e907cf601e4dd7b_sensitive_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.290843081887858,
+                  "crop": {
+                    "x": 0,
+                    "y": -50
+                  }
+                },
+                "credits": "Sensitive|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sensitive comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XTB6TRAAACQAHVjB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e210e87-9da1-4c24-902a-e983322491af_sensitive_crop.jpg",
+                  "width": 2479,
+                  "height": 1239
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/927aa2ee2056567821126ecac3c742c59aeafc1c_sensitive_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.58272800645682,
+                  "crop": {
+                    "x": -1601,
+                    "y": 0
+                  }
+                },
+                "credits": "Sensitive|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sensitive comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XTB6TRAAACQAHVjB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e210e87-9da1-4c24-902a-e983322491af_sensitive_crop.jpg",
+                  "width": 2479,
+                  "height": 1239
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/69ec5191c477e30a7c44fe9c70e933e75732c2c0_sensitive_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.4527845036319613,
+                  "crop": {
+                    "x": -201,
+                    "y": 0
+                  }
+                },
+                "credits": "Sensitive|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sensitive comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XTB5RxAAAGcbHVQu"
+}

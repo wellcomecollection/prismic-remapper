@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tattoos",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XDW1iBAAALA3EnMi",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F98d7651f-17df-44cc-aef1-0e279d17bf69_tattoos.png",
+      "width": 1737,
+      "height": 1716
+    },
+    "width": 1737,
+    "height": 1716,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/442fa6d6ff447f7a7793911b5f583ba415bd2f61_tattoos.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Tattoos|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Tattoos comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3b16c645-514f-4811-b451-90f6db3b32b4",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tattoos to remember, tattoos to enhance, tattoos to disguise – which sort of tattoo is for you?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XDW2fhAAAAv8Endf",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdab75647-ace4-4937-bfd8-d760839ac354_tattoos_crop.jpg",
+              "width": 1220,
+              "height": 686
+            },
+            "width": 1220,
+            "height": 686,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d7900cf8e4eb6de165633f0183b88806114177f6_tattoos_crop.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XDW2fhAAAAv8Endf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdab75647-ace4-4937-bfd8-d760839ac354_tattoos_crop.jpg",
+                  "width": 1220,
+                  "height": 686
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f94d4cb6a0a9636360f350865963ef41d1b40318_tattoos_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.623906705539359,
+                  "crop": {
+                    "x": -1,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XDW2fhAAAAv8Endf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdab75647-ace4-4937-bfd8-d760839ac354_tattoos_crop.jpg",
+                  "width": 1220,
+                  "height": 686
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b82253d80a25519bb474977cbd21da373ee354d2_tattoos_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.622950819672131,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XDW2fhAAAAv8Endf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdab75647-ace4-4937-bfd8-d760839ac354_tattoos_crop.jpg",
+                  "width": 1220,
+                  "height": 686
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b159d92c3b9f0379788d924ec8e71b02e388baea_tattoos_crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.664723032069971,
+                  "crop": {
+                    "x": -1245,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XDW2GBAAAIo3EnWe",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XDW1iBAAALA3EnMi",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F98d7651f-17df-44cc-aef1-0e279d17bf69_tattoos.png",
+                "width": 1737,
+                "height": 1716
+              },
+              "width": 1737,
+              "height": 1716,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/442fa6d6ff447f7a7793911b5f583ba415bd2f61_tattoos.png",
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Tattoos|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Tattoos comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

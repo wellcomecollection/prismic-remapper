@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Drugs",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WrPjih8AACAAzxhU",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6e115e81-2794-40a5-8915-01fe28353136_drugs.jpg",
+      "width": 2500,
+      "height": 2492
+    },
+    "width": 2500,
+    "height": 2492,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0b49ee02696652bcd11a15a669ca54e6035ac3dc_drugs.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Drugs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Drugs: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$d30a44e4-643b-4f8b-9522-c1ed8a9e4b77",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "They're good for you. They're bad for you. They are drugs. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WrPlOh8AAB8Azx_z",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F951e86fb-2189-4c1d-b07e-58ef66932108_drugs_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ecab0f28c3dd00dc5cec7df78d0135128d01d7c3_drugs_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Drugs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Drugs: A webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WrPlOh8AAB8Azx_z",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F951e86fb-2189-4c1d-b07e-58ef66932108_drugs_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0aad859de67f9753378a7e23c5ebba3360768f3e_drugs_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Drugs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Drugs: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WrPlOh8AAB8Azx_z",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F951e86fb-2189-4c1d-b07e-58ef66932108_drugs_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2159a06599f89fbec8ded2d2d1ecd9291e1d7a45_drugs_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Drugs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Drugs: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WrPl7x8AAB4AzyMP",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WrPjih8AACAAzxhU",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6e115e81-2794-40a5-8915-01fe28353136_drugs.jpg",
+                "width": 2500,
+                "height": 2492
+              },
+              "width": 2500,
+              "height": 2492,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0b49ee02696652bcd11a15a669ca54e6035ac3dc_drugs.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Drugs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Drugs: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

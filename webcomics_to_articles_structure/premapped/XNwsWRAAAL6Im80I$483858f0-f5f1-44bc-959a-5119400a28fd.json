@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Memory",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XNwj-RAAAFGBm6b6",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc5f6bf31-c58e-4caf-9ccd-626d3c265217_memory_web.jpg",
+      "width": 2478,
+      "height": 2443
+    },
+    "width": 2478,
+    "height": 2443,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c79e68af2e5ea63aa16eb2dba3b60b86c7cf4d6b_memory_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Memory|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Memory comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$fa4170f3-10f3-43b3-a3a5-9b322a8c22f7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A memory is just the leftover carcass of your mind's creative metabolisation of the past.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XNwj-BAAAFiBm6b1",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8666bf1b-ff95-450f-b66b-17e4a943e75e_memory_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7ad27c7e3ad35d26db7dab2d0f4e630ab64c57b_memory_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Memory|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Memory comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XNwj-BAAAFiBm6b1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8666bf1b-ff95-450f-b66b-17e4a943e75e_memory_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/686fa91114837c11f31f6c7f35e8695223135921_memory_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Memory|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Memory comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XNwj-BAAAFiBm6b1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8666bf1b-ff95-450f-b66b-17e4a943e75e_memory_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f20453d7f2da836d00aca8b0ecbbd9a3fdf627ee_memory_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Memory|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Memory comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XNwj-BAAAFiBm6b1",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8666bf1b-ff95-450f-b66b-17e4a943e75e_memory_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e43b5206626bdf5aeb2067967ed2dde73edbaae2_memory_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Memory|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Memory comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XNwsWRAAAL6Im80K"
+}

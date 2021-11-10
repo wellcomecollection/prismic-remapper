@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "You",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WsZDqB8AALksH6Mv",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd76d0423-5fc6-4d05-83b3-c386e5f29570_you.jpg",
+      "width": 2485,
+      "height": 2459
+    },
+    "width": 2485,
+    "height": 2459,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0e493b6a59bde6334a3ea68e144a6b1586040115_you.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "You|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "You webcomic by artist Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$53053635-cf1f-4097-89e3-a72350c93f1e",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What if your body was just a host landscape for another sentient creature? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WsZG8x8AAB8uH7Ha",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2c9a87d3-2b0c-42b0-a561-6471897459a3_you_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5b02ecbf6b5b12f9024b58804c66487269e9989f_you_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "You|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "You webcomic by artist Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WsZG8x8AAB8uH7Ha",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2c9a87d3-2b0c-42b0-a561-6471897459a3_you_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3593739c485e16e3d50cf38ee83c847c2617a54c_you_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "You|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "You webcomic by artist Rob Bidder (detail) ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WsZG8x8AAB8uH7Ha",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2c9a87d3-2b0c-42b0-a561-6471897459a3_you_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/22a254d9e44d4e49d2e4222535d9001968abf6d2_you_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "You|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "You webcomic by artist Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WsZIXB8AACguH7gq"
+}

@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Milk",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W2vqBCkAACcA8rPr",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff90f099e-bddb-43d7-952e-7fd66457a9ac_milk_prismic.png",
+      "width": 3500,
+      "height": 3460
+    },
+    "width": 3500,
+    "height": 3460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc762252ab3b5ea84beeac83e398a523ed7a99dc_milk_prismic.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Milk: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3b21e606-c0b1-423b-adaf-0435cf43efe7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Milk makes us mammals. It's something we have in common with all sorts of other creatures.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W2vqCCkAACcA8rP-",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8d597728-c4df-4089-b48e-9edda4ebb724_milk.png",
+              "width": 2481,
+              "height": 1396
+            },
+            "width": 2481,
+            "height": 1396,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ae1a49ae7ec2593d317b91e0435dca8c19851fd7_milk.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Milk: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W2vqCCkAACcA8rP-",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8d597728-c4df-4089-b48e-9edda4ebb724_milk.png",
+                  "width": 2481,
+                  "height": 1396
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/908b21bf9e89f4d6ab596696afc0addcb4219b5f_milk.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2.292263610315186,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Milk: A webcomic by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W2vqCCkAACcA8rP-",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8d597728-c4df-4089-b48e-9edda4ebb724_milk.png",
+                  "width": 2481,
+                  "height": 1396
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d926c12e2ca7788324d047a78d5268b932dd92da_milk.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.2898024989923418,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Milk: A webcomic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W2vqXikAACcA8rV7"
+}

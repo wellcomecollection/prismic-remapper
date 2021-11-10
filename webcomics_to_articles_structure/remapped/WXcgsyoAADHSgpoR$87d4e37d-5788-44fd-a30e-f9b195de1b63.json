@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Touch",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WXcgCioAADDSgpck",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe4edc14d-fc4f-4bf3-9cf0-07a65d9fb4c3_bodysquabbles-13-touch.jpg",
+      "width": 2000,
+      "height": 1962
+    },
+    "width": 2000,
+    "height": 1962,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7ee16a705635a25081dfe0ba5d45009d5d46fee_bodysquabbles-13-touch.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Licensed under Creative Commons: CC-BY-NC 4.0",
+    "alt": "They say that the nuclei of atoms never truly come into contact with one another. And that the sensation of touch is caused by the electromagnetic repulsion of electrons. Which manifest as overlapping waves interacting at very short distances. When you shake hands, when you kiss someone, can you feel this happening?",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$d0e5b904-e835-4752-9c12-88ac24dcd9f7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "They say that the nuclei of atoms never truly come into contact with one another.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WXcg9ioAADHSgps9",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2af65e44-1523-4bc5-9d14-0f341cbaa545_bodysquabbles-13-touch-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bdd704500ded7629696fe4a40c234ad43d94fbcc_bodysquabbles-13-touch-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WXcgsyoAADHSgpoT",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WXcgCioAADDSgpck",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe4edc14d-fc4f-4bf3-9cf0-07a65d9fb4c3_bodysquabbles-13-touch.jpg",
+                "width": 2000,
+                "height": 1962
+              },
+              "width": 2000,
+              "height": 1962,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7ee16a705635a25081dfe0ba5d45009d5d46fee_bodysquabbles-13-touch.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Licensed under Creative Commons: CC-BY-NC 4.0",
+              "alt": "They say that the nuclei of atoms never truly come into contact with one another. And that the sensation of touch is caused by the electromagnetic repulsion of electrons. Which manifest as overlapping waves interacting at very short distances. When you shake hands, when you kiss someone, can you feel this happening?",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Legacies",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xag3PBAAACIAo5iA",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0a36f7e6-a7c6-4ea2-800d-843a55580a9c_legacies.jpg",
+      "width": 2010,
+      "height": 1989
+    },
+    "width": 2010,
+    "height": 1989,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bdc2c26d84365696d9dc8a2fc3e3a157beb66ada_legacies.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Legacies comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$a9275e1d-7467-4217-b2ad-d24208699ee0",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We're always leaving bodily legacies. Where was the last place you left a bodily legacy? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xag48xAAACMAo6BK",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa6afe76a-4d1d-4e05-a5fd-5f42da10869f_legacies+crop.jpg",
+              "width": 981,
+              "height": 811
+            },
+            "width": 981,
+            "height": 811,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/381bd4aab48e7e7a8cb4bcae7a43bd8bc4ff6a55_legacies-crop.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Legacies comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xag48xAAACMAo6BK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa6afe76a-4d1d-4e05-a5fd-5f42da10869f_legacies+crop.jpg",
+                  "width": 981,
+                  "height": 811
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/16ede1c0f3016030f1011af5e5b29eaf815b531e_legacies-crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.261977573904179,
+                  "crop": {
+                    "x": 0,
+                    "y": -573
+                  }
+                },
+                "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Legacies comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xag48xAAACMAo6BK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa6afe76a-4d1d-4e05-a5fd-5f42da10869f_legacies+crop.jpg",
+                  "width": 981,
+                  "height": 811
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/be44539001f8c050ac5b889fa286a8ce24f2224b_legacies-crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.261977573904179,
+                  "crop": {
+                    "x": 0,
+                    "y": -423
+                  }
+                },
+                "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Legacies comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "Xag48xAAACMAo6BK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa6afe76a-4d1d-4e05-a5fd-5f42da10869f_legacies+crop.jpg",
+                  "width": 981,
+                  "height": 811
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/42f253bba2feabefc8f597ee38b7d7b808a2ec19_legacies-crop.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.945745992601726,
+                  "crop": {
+                    "x": -335,
+                    "y": 0
+                  }
+                },
+                "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Legacies comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xag28BAAACIAo5cr",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xag3PBAAACIAo5iA",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0a36f7e6-a7c6-4ea2-800d-843a55580a9c_legacies.jpg",
+                "width": 2010,
+                "height": 1989
+              },
+              "width": 2010,
+              "height": 1989,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bdc2c26d84365696d9dc8a2fc3e3a157beb66ada_legacies.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Legacies, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Legacies comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

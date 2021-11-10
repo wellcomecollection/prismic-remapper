@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Earworms",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WcO8wSgAAN8N9HuE",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe5167edc-2031-49cb-8d4d-da723ccf8437_bodysquabbles-22-earworms.jpg",
+      "width": 2000,
+      "height": 1978
+    },
+    "width": 2000,
+    "height": 1978,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3b37bee7a82d495d2e950764e3d78b3961bfb51c_bodysquabbles-22-earworms.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Earworms|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Earworms are baked into songs during the manufacturing process. Sitting too close to a speaker can cause an infestation. The worms can live for years burrowing in the brain. And singing the song they have been engineered to promote.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$911a244b-4a69-417a-b3be-e4a90364f7ec",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sitting too close to a speaker can cause an infestation.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WcO9GSgAAEsK9H0N",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ffd8e0a78-203b-454a-8636-cb11766a950e_bodysquabbles-22-earworms-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/176d43d5055f700abc9da24a46c6dcfa3f501ad3_bodysquabbles-22-earworms-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WcO9JCgAAEoK9H1C",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WcO8wSgAAN8N9HuE",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe5167edc-2031-49cb-8d4d-da723ccf8437_bodysquabbles-22-earworms.jpg",
+                "width": 2000,
+                "height": 1978
+              },
+              "width": 2000,
+              "height": 1978,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3b37bee7a82d495d2e950764e3d78b3961bfb51c_bodysquabbles-22-earworms.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Earworms|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Earworms are baked into songs during the manufacturing process. Sitting too close to a speaker can cause an infestation. The worms can live for years burrowing in the brain. And singing the song they have been engineered to promote.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

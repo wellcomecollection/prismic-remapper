@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Foot",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTvCoAAL65Q6Ht",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F096ff325-c33f-4f01-b533-6386918cb2ef_bodysquabbles-0-foot.jpeg",
+      "width": 2484,
+      "height": 2463
+    },
+    "width": 2484,
+    "height": 2463,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2fe70a16c1aab3df408d85960496d93fb670c3fa_bodysquabbles-0-foot.jpeg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Foot: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A long life living under a toenail. Sheltered from the terrible world outside.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtyoAAL65Q6HG",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4eec2fcf-fb5c-49d4-9554-65093c721b82_bodysquabbles-0-foot-thumb.jpg",
+              "width": 1173,
+              "height": 660
+            },
+            "width": 1173,
+            "height": 660,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/91832600f39e94305b05b8e4c5b13814a1a9c932_bodysquabbles-0-foot-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Foot: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-05-12T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjT9SoAAL65Q6Lu",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTvCoAAL65Q6Ht",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F096ff325-c33f-4f01-b533-6386918cb2ef_bodysquabbles-0-foot.jpeg",
+                "width": 2484,
+                "height": 2463
+              },
+              "width": 2484,
+              "height": 2463,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2fe70a16c1aab3df408d85960496d93fb670c3fa_bodysquabbles-0-foot.jpeg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Foot: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

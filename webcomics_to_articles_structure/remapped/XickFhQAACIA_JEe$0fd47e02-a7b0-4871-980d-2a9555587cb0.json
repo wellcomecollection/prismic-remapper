@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Risk",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xici7xQAACIA_Ivc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7fce5099-1526-4987-856a-674f0d3a8d59_risk+rob.jpg",
+      "width": 1750,
+      "height": 1765
+    },
+    "width": 1750,
+    "height": 1765,
+    "url": "https://images.prismic.io/wellcomecollection/7fce5099-1526-4987-856a-674f0d3a8d59_risk+rob.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Risk comic by Rob Bidder, showing figures playing hide and seek. The first two slices show someone counting, while the final slides depicts someone hiding. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$35973e03-ede4-4517-aa6e-10f83dcb1deb",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To hide can be thrilling...to never be found is terrible.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xici9xQAACIA_IwD",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg",
+              "width": 837,
+              "height": 732
+            },
+            "width": 837,
+            "height": 732,
+            "url": "https://images.prismic.io/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Slice of Risk comic by Rob Bidder. The slice depicts someone counting with their eyes closed, as others run away to hide. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xici9xQAACIA_IwD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg",
+                  "width": 837,
+                  "height": 732
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg?auto=compress,format&rect=0,170,837,392&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.823178016726404,
+                  "crop": {
+                    "x": 0,
+                    "y": -649
+                  }
+                },
+                "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Risk comic by Rob Bidder. The slice depicts someone counting with their eyes closed, as others run away to hide. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xici9xQAACIA_IwD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg",
+                  "width": 837,
+                  "height": 732
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg?auto=compress,format&rect=0,131,837,471&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.823178016726404,
+                  "crop": {
+                    "x": 0,
+                    "y": -499
+                  }
+                },
+                "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Risk comic by Rob Bidder. The slice depicts someone counting with their eyes closed, as others run away to hide. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xici9xQAACIA_IwD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg",
+                  "width": 837,
+                  "height": 732
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/8846955d-5a09-452e-b954-0bcf6a432d15_risk+rob+crop.jpg?auto=compress,format&rect=53,0,732,732&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.371584699453552,
+                  "crop": {
+                    "x": -230,
+                    "y": 0
+                  }
+                },
+                "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Risk comic by Rob Bidder. The slice depicts someone counting with their eyes closed, as others run away to hide. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XickFhQAACIA_JEg",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xici7xQAACIA_Ivc",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7fce5099-1526-4987-856a-674f0d3a8d59_risk+rob.jpg",
+                "width": 1750,
+                "height": 1765
+              },
+              "width": 1750,
+              "height": 1765,
+              "url": "https://images.prismic.io/wellcomecollection/7fce5099-1526-4987-856a-674f0d3a8d59_risk+rob.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Risk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Risk comic by Rob Bidder, showing figures playing hide and seek. The first two slices show someone counting, while the final slides depicts someone hiding. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

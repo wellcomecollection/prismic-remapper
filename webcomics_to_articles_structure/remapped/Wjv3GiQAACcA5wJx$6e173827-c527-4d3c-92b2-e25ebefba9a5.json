@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pain",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wjv3PiQAACcA5wMW",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd0ce040b-dd63-4873-9f96-9f5f3951cc13_pain.jpg",
+      "width": 2488,
+      "height": 2458
+    },
+    "width": 2488,
+    "height": 2458,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a635f5f3584a5051b2baad265ebca551b6413dbf_pain.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Comic about pain, showing how it seems to change size, shape and texture. Which parts are physical and which are memory, perception or emotion?",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b4b7e5ae-31a7-4882-ab06-670136395fe9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Which parts of pain are physical?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wjv33CQAACYA5wXN",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F171bdd6b-7d7f-46df-ab1d-d24e8c8e2d8a_pain_promo.jpg",
+              "width": 1236,
+              "height": 695
+            },
+            "width": 1236,
+            "height": 695,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e1f380a5538a7758d85d475bf84882b4284509a4_pain_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wjv3GiQAACcA5wJz",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wjv3PiQAACcA5wMW",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd0ce040b-dd63-4873-9f96-9f5f3951cc13_pain.jpg",
+                "width": 2488,
+                "height": 2458
+              },
+              "width": 2488,
+              "height": 2458,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a635f5f3584a5051b2baad265ebca551b6413dbf_pain.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Comic about pain, showing how it seems to change size, shape and texture. Which parts are physical and which are memory, perception or emotion?",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

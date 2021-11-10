@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sweat",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W2LNaSYAACQAQUBB",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5d7abe5b-d43e-487e-be71-791dcd0bb891_sweat_web.jpg",
+      "width": 2473,
+      "height": 2455
+    },
+    "width": 2473,
+    "height": 2455,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9f13d9207fb207465132f3112eed018504981274_sweat_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sweat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Sweat web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$5405b051-7029-4226-86bd-fb359cd2a36d",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Oh, the sweet smell of sweat! So pure and yet so full of skin bacteria dissolving in watery secretions.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W2LNgiYAACUAQUCw",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9b253223-2b16-4de0-b85d-4ef6ed5ec413_sweat_promo2.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/10c96ed54ef7abc2adf3824a81176dc20d3bf5e4_sweat_promo2.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sweat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Sweat web comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W2LNgiYAACUAQUCw",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9b253223-2b16-4de0-b85d-4ef6ed5ec413_sweat_promo2.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ed425ee06be1ed912aa8822ea66dcf196e94cafc_sweat_promo2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Sweat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sweat web comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W2LNgiYAACUAQUCw",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9b253223-2b16-4de0-b85d-4ef6ed5ec413_sweat_promo2.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b03001e18d6014f33bf3ee3a3cac85265dfbce3a_sweat_promo2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Sweat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sweat web comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W2LRBiYAACYAQVAv"
+}

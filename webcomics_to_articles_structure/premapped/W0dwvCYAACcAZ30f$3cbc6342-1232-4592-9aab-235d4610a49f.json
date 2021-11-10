@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Maintenance",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W0dveyYAACgAZ3ea",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F39e014fe-17be-4c8e-adf4-ca5d29c043bf_maintenance_web.jpg",
+      "width": 2473,
+      "height": 2460
+    },
+    "width": 2473,
+    "height": 2460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e18266b3403d460aee42b44839b22bf5fcd8110f_maintenance_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Maintenance|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Maintenance comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b13b8fce-641b-400b-b799-57c403f767f9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Scrub, moisturise, cut and clean. What's your essential maintenance routine? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W0dveSYAACgAZ3eV",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c10e046-9943-4bb2-beb2-c5b1a73948a9_maintenance_promo.jpg",
+              "width": 1237,
+              "height": 696
+            },
+            "width": 1237,
+            "height": 696,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/967551000cd677b85d1a13466ca4623cb9007907_maintenance_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Maintenance|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Maintenance comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W0dveSYAACgAZ3eV",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c10e046-9943-4bb2-beb2-c5b1a73948a9_maintenance_promo.jpg",
+                  "width": 1237,
+                  "height": 696
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6aaf50cf77d7bd9dd52e8626ac04df7b8e1c26d5_maintenance_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.597701149425287,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Maintenance|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Maintenance comic by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W0dveSYAACgAZ3eV",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c10e046-9943-4bb2-beb2-c5b1a73948a9_maintenance_promo.jpg",
+                  "width": 1237,
+                  "height": 696
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/08d1991f19e02e4403c4585ec0b7b7428156ddef_maintenance_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.5869037995149555,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Maintenance|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Maintenance comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W0dwvCYAACcAZ30h"
+}

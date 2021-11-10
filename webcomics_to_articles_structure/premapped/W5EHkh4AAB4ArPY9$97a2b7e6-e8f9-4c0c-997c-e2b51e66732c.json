@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pores",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W5EHAx4AAB8ArPO3",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc49b5a48-5b5f-4caf-bc44-a1ba4b96d9ec_pores_web.jpg",
+      "width": 2476,
+      "height": 2458
+    },
+    "width": 2476,
+    "height": 2458,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2c5885aa93271e480f108ba5848551e6deb08b88_pores_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Pores|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Pores web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$1cf49fd0-5a39-4f53-ab7c-867baa164a46",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pores are important holes that come in different squeezable sizes. Love your pores.  ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W5EHAB4AACIArPOt",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F252864dc-42df-4075-a311-1841d03ed90a_pores_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f2389dd79b0ed82ec1a3fbb05e25604834c084b3_pores_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Pores|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Pores web comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W5EHAB4AACIArPOt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F252864dc-42df-4075-a311-1841d03ed90a_pores_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f77d0b03cf53f4fdf74c9acffe18ac023d27e0bc_pores_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Pores|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Pores web comic by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W5EHAB4AACIArPOt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F252864dc-42df-4075-a311-1841d03ed90a_pores_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ab313391cd4e1ab58ab5ee54953774e2fb587f71_pores_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Pores|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Pores web comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W5EHkh4AAB4ArPY_"
+}

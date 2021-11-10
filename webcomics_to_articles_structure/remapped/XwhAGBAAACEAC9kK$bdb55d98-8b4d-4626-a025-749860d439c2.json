@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The End",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xwg-pxAAACAAC9J_",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/50321b4f-409c-4512-b4f3-54dab07d622c_end_social.jpg",
+      "width": 2480,
+      "height": 2483
+    },
+    "width": 2480,
+    "height": 2483,
+    "url": "https://images.prismic.io/wellcomecollection/50321b4f-409c-4512-b4f3-54dab07d622c_end_social.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Web comic in four frames. Frame 1: All good things come to an end. Frame 2: All bad things come to an end too. Frame 3: All things of neutral moral understanding also end. Frame 4: Transience is our only certainty. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$43b5bfbf-1a25-4685-b986-458a93217f63",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All things come to an end. Goodbye. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xwg-eRAAACMAC9Gt",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg",
+              "width": 1601,
+              "height": 900
+            },
+            "width": 1601,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Web Comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xwg-eRAAACMAC9Gt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg",
+                  "width": 1601,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg?auto=compress,format&rect=0,75,1601,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.9987507807620237,
+                  "crop": {
+                    "x": 0,
+                    "y": -149
+                  }
+                },
+                "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Web Comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xwg-eRAAACMAC9Gt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg",
+                  "width": 1601,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg?auto=compress,format&rect=1,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": -1,
+                    "y": 0
+                  }
+                },
+                "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Web Comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xwg-eRAAACMAC9Gt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg",
+                  "width": 1601,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/1168f1cf-f440-42c8-92a0-8c1c998286f0_end_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1246,
+                    "y": 0
+                  }
+                },
+                "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Web Comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XwhAGBAAACEAC9kM",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xwg-pxAAACAAC9J_",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/50321b4f-409c-4512-b4f3-54dab07d622c_end_social.jpg",
+                "width": 2480,
+                "height": 2483
+              },
+              "width": 2480,
+              "height": 2483,
+              "url": "https://images.prismic.io/wellcomecollection/50321b4f-409c-4512-b4f3-54dab07d622c_end_social.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "The End | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+              "alt": "Web comic in four frames. Frame 1: All good things come to an end. Frame 2: All bad things come to an end too. Frame 3: All things of neutral moral understanding also end. Frame 4: Transience is our only certainty. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

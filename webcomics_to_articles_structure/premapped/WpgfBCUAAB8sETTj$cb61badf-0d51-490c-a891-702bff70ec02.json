@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Eat",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wpgd2CUAACMAES-4",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa69775f7-6d7e-4a64-91a4-0484ab99c1da_eat2.jpg",
+      "width": 2456,
+      "height": 2465
+    },
+    "width": 2456,
+    "height": 2465,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0e7d34d5e7d3ee0bdc50eee9b99ec2787f1497a5_eat2.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Eat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Eat: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$8d65a5f6-5989-4735-b9aa-9cbf9a6da0b0",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Chemical chatter and digestive dialogue can make for some stimulating conversation.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WpgdwiUAACMAES9W",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Faf7a5496-409f-44df-a342-80a9fe64995b_eat_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5d2b75fb8358f14fc93dda0abd0a73543baeebd7_eat_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Eat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Eat: A webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "WpgdwiUAACMAES9W",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Faf7a5496-409f-44df-a342-80a9fe64995b_eat_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9febc99271c83426116c4909c7fd9fd99d255e46_eat_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Eat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Eat: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "WpgdwiUAACMAES9W",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Faf7a5496-409f-44df-a342-80a9fe64995b_eat_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2ed793a70cd84a7c308f74d3a9d2d8e2ab148e9e_eat_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Eat|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Eat: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WpgfBCUAAB8sETTl"
+}

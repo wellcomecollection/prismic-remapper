@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Water",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WdZV2ycAACoAoKt0",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F3f2dc7cb-a5d2-48d2-969f-fabc71c440b5_bodysquabbles-21-water.jpg",
+      "width": 2000,
+      "height": 1980
+    },
+    "width": 2000,
+    "height": 1980,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6fce2781054064319037554d1e816cb8ff20ff8d_bodysquabbles-21-water.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Water|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "The fluid in my body is part of the water cycle. I was a river. I will be rain. I'll stay here submerged for a while. To allow the internal and external waters to converse.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$5adc47b9-c352-493e-ab3b-aa5a2d22ca78",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "I was a river. I will be rain.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WdZWpScAACoAoK75",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F52fea39b-b93c-45a4-897f-f20efeaf66c5_bodysquabbles-21-water-thumb.jpg",
+              "width": 2000,
+              "height": 1126
+            },
+            "width": 2000,
+            "height": 1126,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/55c9c1d37ad0af06b64810ec1c909afe2f7023d5_bodysquabbles-21-water-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WdZXJScAACcAoLEu",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WdZV2ycAACoAoKt0",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F3f2dc7cb-a5d2-48d2-969f-fabc71c440b5_bodysquabbles-21-water.jpg",
+                "width": 2000,
+                "height": 1980
+              },
+              "width": 2000,
+              "height": 1980,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6fce2781054064319037554d1e816cb8ff20ff8d_bodysquabbles-21-water.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Water|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "The fluid in my body is part of the water cycle. I was a river. I will be rain. I'll stay here submerged for a while. To allow the internal and external waters to converse.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

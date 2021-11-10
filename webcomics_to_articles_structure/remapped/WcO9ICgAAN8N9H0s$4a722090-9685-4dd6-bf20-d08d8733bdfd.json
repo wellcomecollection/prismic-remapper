@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sciatica",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WcO8iSgAAEwK9HqN",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff75fd24a-4b3c-47cf-ab4f-c13d98f9acc4_bodysquabbles-19-sciatica.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/787929d5283f8deeb74229b233b106c783b18c15_bodysquabbles-19-sciatica.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sciatica|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Where is the pain? Right here. It could be Sciatica. OK. can you out this sock on? With difficulty. Can you kick this ball? No.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$77dfeb48-15bd-4fe7-a436-5c599acc8f8c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Where is the pain?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WcO86igAAEoK9Hw9",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F10b4e0ae-010d-4dfc-b4e4-3d5d579886b1_bodysquabbles-19-sciatica-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c0ab30775aaaaf382bc09029248af41d4232f430_bodysquabbles-19-sciatica-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WcO9ICgAAN8N9H0u",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WcO8iSgAAEwK9HqN",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff75fd24a-4b3c-47cf-ab4f-c13d98f9acc4_bodysquabbles-19-sciatica.jpg",
+                "width": 2000,
+                "height": 1982
+              },
+              "width": 2000,
+              "height": 1982,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/787929d5283f8deeb74229b233b106c783b18c15_bodysquabbles-19-sciatica.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Sciatica|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Where is the pain? Right here. It could be Sciatica. OK. can you out this sock on? With difficulty. Can you kick this ball? No.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

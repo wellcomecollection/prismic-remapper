@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dancing",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XRIRNhIAAPGq8Yrl",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F084f90b8-d5c4-4d1f-8aaf-fdb153411310_dancing_web.jpg",
+      "width": 2470,
+      "height": 2438
+    },
+    "width": 2470,
+    "height": 2438,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/db513bf20ab42180244d0bb384b746cddc965cd3_dancing_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Dancing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Dancing comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$70292d6e-75a4-444b-a0f3-5cae4ff3c602",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dancing is just movement with style",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XRIQ-BIAAHGp8YnQ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fea372155-ef3e-49db-ab51-2b0a866f84fb_dancing_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6b0a92037125864e542d626b4f14435d0aaa0e90_dancing_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Dancing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Dancing comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XRIQ-BIAAHGp8YnQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fea372155-ef3e-49db-ab51-2b0a866f84fb_dancing_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/83c32b8002ea07924338de09c735326dd5c90a86_dancing_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Dancing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Dancing comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XRIQ-BIAAHGp8YnQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fea372155-ef3e-49db-ab51-2b0a866f84fb_dancing_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/15f8efd4ed8f3f6e01711a734c8a16dda1754668_dancing_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Dancing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Dancing comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XRIQ-BIAAHGp8YnQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fea372155-ef3e-49db-ab51-2b0a866f84fb_dancing_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04f1d9fe8c2a4841852d01c1040fee4dbc5e3c95_dancing_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Dancing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Dancing comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XRIUlBIAAPCq8Zn6"
+}

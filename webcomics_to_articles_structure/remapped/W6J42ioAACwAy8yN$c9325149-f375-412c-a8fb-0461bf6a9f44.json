@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Music",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W6JmeCoAACwAy3qR",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8942506a-b2ac-4478-9cf1-5402706e2c48_music_web.jpg",
+      "width": 2486,
+      "height": 2456
+    },
+    "width": 2486,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/de50a9a4df233474791d2831df6680e76eec8bd8_music_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Music|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Music comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$ee1f26bd-ddb8-4804-b077-0b0f8a70fe72",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Music. The varying frequency of a vibration that's strong enough to make you cry.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W6JmdSoAACYAy3qG",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4423993a-1c51-4cbe-96ad-eca5ca2dae9d_music_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3638c639bc05c46ce850c13a0fcfe5b0610b34c3_music_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Music comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W6JmdSoAACYAy3qG",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4423993a-1c51-4cbe-96ad-eca5ca2dae9d_music_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/38bd3a2eb4212d17ce458682bd8c7a391c3555ae_music_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Music comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W6JmdSoAACYAy3qG",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4423993a-1c51-4cbe-96ad-eca5ca2dae9d_music_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/702f54143d14b8b097cae818803ac90bed617894_music_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Music comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W6J42ioAACwAy8yP",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W6JmeCoAACwAy3qR",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8942506a-b2ac-4478-9cf1-5402706e2c48_music_web.jpg",
+                "width": 2486,
+                "height": 2456
+              },
+              "width": 2486,
+              "height": 2456,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/de50a9a4df233474791d2831df6680e76eec8bd8_music_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Music|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Music comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Crisps",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuSoAAItZQ6HV",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff86eeb3d-2099-4d5d-8284-e6ab5c94892e_bodysquabbles-05-crisps.jpg",
+      "width": 2000,
+      "height": 1981
+    },
+    "width": 2000,
+    "height": 1981,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1db0a1dd55ae5eaa081df095784def2b762f36e7_bodysquabbles-05-crisps.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Crisps: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When I pay attention I can feel the blood beating around my body.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtyoAAL65Q6HN",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1dde371b-acb8-450f-9d16-6364b47654ea_bodysquabbles-05-crisps-thumb.jpg",
+              "width": 2338,
+              "height": 1315
+            },
+            "width": 2338,
+            "height": 1315,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6113b86c9ccf30f8cbb46e15f25a1ad6e5ebd3d6_bodysquabbles-05-crisps-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Crisps: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-01T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjY2CoAAIpZQ7ig",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTuSoAAItZQ6HV",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff86eeb3d-2099-4d5d-8284-e6ab5c94892e_bodysquabbles-05-crisps.jpg",
+                "width": 2000,
+                "height": 1981
+              },
+              "width": 2000,
+              "height": 1981,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1db0a1dd55ae5eaa081df095784def2b762f36e7_bodysquabbles-05-crisps.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Crisps: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

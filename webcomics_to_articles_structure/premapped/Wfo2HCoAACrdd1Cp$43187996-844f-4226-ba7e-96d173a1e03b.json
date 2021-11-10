@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Menstruation",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wfo1iSoAAAPdd04e",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F143b0d2b-6c46-4e5b-b62d-9ac30103bcda_bodysquabbles-25-menstruation.jpg",
+      "width": 2000,
+      "height": 1991
+    },
+    "width": 2000,
+    "height": 1991,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/395d05cb92b21ba2e7156e9ec8e6b35a24313970_bodysquabbles-25-menstruation.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Menstruation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "I talked in depth with my friends and family about their periods. The conversations we had were really great and so interesting. Filled with a wealth of valuable information and personal insight. It's clear that menstruating is as particular to the individual as any other bodily expression.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$556d0dc2-e182-4462-9881-494645fa92d5",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "I talked in depth with my friends and family about their periods.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wfo1syoAACzbd07c",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcbfff4e9-cb93-442f-b7ea-dda1e3f8f3e8_bodysquabbles-25-menstruation-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1208e3c57936353d2e304c8ef830cb197a77aa5d_bodysquabbles-25-menstruation-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wfo2HCoAACrdd1Cr"
+}

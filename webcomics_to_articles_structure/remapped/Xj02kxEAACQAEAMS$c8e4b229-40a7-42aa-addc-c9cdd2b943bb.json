@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Nature",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xj03bREAACIAEAbv",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0001d3b6-d060-4101-b4a6-5971e67e4bbe_nature+Rob.jpg",
+      "width": 1730,
+      "height": 1731
+    },
+    "width": 1730,
+    "height": 1731,
+    "url": "https://images.prismic.io/wellcomecollection/0001d3b6-d060-4101-b4a6-5971e67e4bbe_nature+Rob.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Nature comic by Rob Bidder showing four scenes. The first depicts a figure climbing a mountain; someone snipping a hedge; a figure holding a binocular while people play football in the background and finally a green figure blending into the background as shoots sprout from them. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$032c3ed8-7627-4566-b53b-5aefbf59a2b3",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What gets you out into nature? Nature’s got it all, whether you’re looking for an adrenaline rush or simply to relax on a patch of grass and watch the clouds go by. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xj03dhEAACMAEAca",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg",
+              "width": 2198,
+              "height": 1236
+            },
+            "width": 2198,
+            "height": 1236,
+            "url": "https://images.prismic.io/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Slice from Nature Rob Bidder showing a green figure blending into the background as vines sprout from them.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xj03dhEAACMAEAca",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg",
+                  "width": 2198,
+                  "height": 1236
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg?auto=compress,format&rect=0,103,2198,1030&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.4558689717925386,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice from Nature Rob Bidder showing a green figure blending into the background as vines sprout from them.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xj03dhEAACMAEAca",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg",
+                  "width": 2198,
+                  "height": 1236
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg?auto=compress,format&rect=0,0,2197,1236&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.4563106796116505,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice from Nature Rob Bidder showing a green figure blending into the background as vines sprout from them.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xj03dhEAACMAEAca",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg",
+                  "width": 2198,
+                  "height": 1236
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/d498c6a8-1bfe-4107-8306-a203a817068f_nature+Rob+crop.jpg?auto=compress,format&rect=481,0,1236,1236&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.588996763754045,
+                  "crop": {
+                    "x": -1245,
+                    "y": 0
+                  }
+                },
+                "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice from Nature Rob Bidder showing a green figure blending into the background as vines sprout from them.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xj02kxEAACQAEAMU",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xj03bREAACIAEAbv",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0001d3b6-d060-4101-b4a6-5971e67e4bbe_nature+Rob.jpg",
+                "width": 1730,
+                "height": 1731
+              },
+              "width": 1730,
+              "height": 1731,
+              "url": "https://images.prismic.io/wellcomecollection/0001d3b6-d060-4101-b4a6-5971e67e4bbe_nature+Rob.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Nature, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Nature comic by Rob Bidder showing four scenes. The first depicts a figure climbing a mountain; someone snipping a hedge; a figure holding a binocular while people play football in the background and finally a green figure blending into the background as shoots sprout from them. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

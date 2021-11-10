@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Socialisation",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XeDl5xEAAB8AtVtc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4d8cf3bd-31ef-49d2-809d-1c4092650551_Rob+socialisation+comic.jpg",
+      "width": 1560,
+      "height": 1535
+    },
+    "width": 1560,
+    "height": 1535,
+    "url": "https://images.prismic.io/wellcomecollection/4d8cf3bd-31ef-49d2-809d-1c4092650551_Rob+socialisation+comic.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Socialisation, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Socialisation comic by Rob Bidder",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$2e61304f-f902-41b1-a28b-eaf0e8fd8ccf",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are sponges in the sink of society.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XeDmIBEAAB8AtVxf",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg",
+              "width": 2365,
+              "height": 1972
+            },
+            "width": 2365,
+            "height": 1972,
+            "url": "https://images.prismic.io/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Socialisation, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Slice of socialisation comic by Rob Bidder. The slice depicts a sponge wringing itself, with a pool of water forming below it. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XeDmIBEAAB8AtVxf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg",
+                  "width": 2365,
+                  "height": 1972
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg?auto=compress,format&rect=0,432,2365,1109&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3530655391120507,
+                  "crop": {
+                    "x": 0,
+                    "y": -584
+                  }
+                },
+                "credits": "Socialisation, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of socialisation comic by Rob Bidder. The slice depicts a sponge wringing itself, with a pool of water forming below it. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XeDmIBEAAB8AtVxf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg",
+                  "width": 2365,
+                  "height": 1972
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg?auto=compress,format&rect=0,321,2365,1330&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3530655391120507,
+                  "crop": {
+                    "x": 0,
+                    "y": -434
+                  }
+                },
+                "credits": "Socialisation, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of socialisation comic by Rob Bidder. The slice depicts a sponge wringing itself, with a pool of water forming below it. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XeDmIBEAAB8AtVxf",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg",
+                  "width": 2365,
+                  "height": 1972
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/cd3750b7-8f60-4e73-8059-cd161950fbc4_Rob+socialisation+cropped.jpg?auto=compress,format&rect=197,0,1972,1972&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.6227180527383367,
+                  "crop": {
+                    "x": -319,
+                    "y": 0
+                  }
+                },
+                "credits": "Socialisation, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of socialisation comic by Rob Bidder. The slice depicts a sponge wringing itself, with a pool of water forming below it. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XeDlRxEAAN9btViR"
+}

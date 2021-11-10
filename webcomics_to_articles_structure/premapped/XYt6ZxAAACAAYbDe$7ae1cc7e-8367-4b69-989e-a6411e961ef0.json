@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Swear",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XYt5oxAAACIAYa00",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0fc58c0d-4c56-43a9-89b7-ebdb53e0fc67_swear+comic.jpg",
+      "width": 2017,
+      "height": 1982
+    },
+    "width": 2017,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/01a1f37bfabcca91e64a4692a0fc203a292c47cd_swear-comic.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Swear, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Swear comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$02b04902-a4e6-4fae-801b-e3c9f8896741",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "While we may censor and bleep them, we all have our sweary moments. Words for times when polite language doesn’t quite cut it. Can you remember the last thing that made you swear?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XYxz6RAAACIAZhAJ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb49a9a08-d0a1-4404-900d-88ae46599a89_swear+comic+crop+2.jpg",
+              "width": 988,
+              "height": 556
+            },
+            "width": 988,
+            "height": 556,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c5dbfcab45ecc7baba787c2a1d8c9351c25271a0_swear-comic-crop-2.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Swear, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "A panel from Swear by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XYxz6RAAACIAZhAJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb49a9a08-d0a1-4404-900d-88ae46599a89_swear+comic+crop+2.jpg",
+                  "width": 988,
+                  "height": 556
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/67d738c6a53698da3e6f462273403464b03bdd5a_swear-comic-crop-2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 5.755395683453237,
+                  "crop": {
+                    "x": -1243,
+                    "y": 0
+                  }
+                },
+                "credits": "Swear, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A panel from Swear by Rob Bidder",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XYxz6RAAACIAZhAJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb49a9a08-d0a1-4404-900d-88ae46599a89_swear+comic+crop+2.jpg",
+                  "width": 988,
+                  "height": 556
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/296aaa72ad2d235d38351538c70bf37e9b25af64_swear-comic-crop-2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.2388663967611335,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Swear, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A panel from Swear by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XYxz6RAAACIAZhAJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb49a9a08-d0a1-4404-900d-88ae46599a89_swear+comic+crop+2.jpg",
+                  "width": 988,
+                  "height": 556
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e18611d3920c959ffdc75fba30842bf0ead6cd8f_swear-comic-crop-2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.2388663967611335,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Swear, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A panel from Swear by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XYt6ZxAAACAAYbDg"
+}

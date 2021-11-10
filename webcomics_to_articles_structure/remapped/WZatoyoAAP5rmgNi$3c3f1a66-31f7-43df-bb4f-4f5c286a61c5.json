@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Self",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WZatGyoAAP5rmgEF",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F62da04ce-6b14-4819-8843-3fad1b872b8f_bodysquabbles-17-self.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7a469ab4c632306061b7e9a47b5ca3b80c48e0d9_bodysquabbles-17-self.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "\\ Rob Bidder \\\\ CC-BY-NC",
+    "alt": "Where is the feeling of self located in the body? Sometimes I feel like I'm on the top floor looking out. Sometimes I feel like I'm at the ground floor elevators. Sometimes I feel like rubble, that there's no \"I\" at all.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$38b88a48-33cc-4e67-95cb-91f27d78dd94",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes I feel like I’m on the top floor, looking out. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WZatByoAAP5rmgCs",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd3d56c34-b2cf-420c-8908-9d764fdd1556_bodysquabbles-17-self-thumb.jpg",
+              "width": 2398,
+              "height": 1349
+            },
+            "width": 2398,
+            "height": 1349,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d61001d41d449a2f5092a58a002f3f28fd81ed76_bodysquabbles-17-self-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WZatoyoAAP5rmgNk",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WZatGyoAAP5rmgEF",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F62da04ce-6b14-4819-8843-3fad1b872b8f_bodysquabbles-17-self.jpg",
+                "width": 2000,
+                "height": 1982
+              },
+              "width": 2000,
+              "height": 1982,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7a469ab4c632306061b7e9a47b5ca3b80c48e0d9_bodysquabbles-17-self.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "\\ Rob Bidder \\\\ CC-BY-NC",
+              "alt": "Where is the feeling of self located in the body? Sometimes I feel like I'm on the top floor looking out. Sometimes I feel like I'm at the ground floor elevators. Sometimes I feel like rubble, that there's no \"I\" at all.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

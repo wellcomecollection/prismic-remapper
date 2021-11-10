@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Height",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wzt35SMAABnil6hX",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1b373838-857a-49f4-a8d3-330ca0d27d97_height_web.jpg",
+      "width": 2471,
+      "height": 2460
+    },
+    "width": 2471,
+    "height": 2460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b5368be724a143f7652c9f7f849a117ffdd6a16a_height_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Height|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Height comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$44cdd4fa-1a2e-498c-9674-2f90d12f7e6c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Whether tall or short, the height of your human can be both a hardship and a privilege.  ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wzt3rSMAAI3pl6de",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbb1bdb91-2520-4870-a1e8-1670b273025a_height_promo.jpg",
+              "width": 1157,
+              "height": 651
+            },
+            "width": 1157,
+            "height": 651,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6d7720a508f7a3cafdd770be815b857f6edde279_height_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Height|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Height comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "Wzt3rSMAAI3pl6de",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbb1bdb91-2520-4870-a1e8-1670b273025a_height_promo.jpg",
+                  "width": 1157,
+                  "height": 651
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f3da017ad571a02bed3f4f29d394558813f6ee16_height_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.765773552290406,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Height|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Height comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "Wzt3rSMAAI3pl6de",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbb1bdb91-2520-4870-a1e8-1670b273025a_height_promo.jpg",
+                  "width": 1157,
+                  "height": 651
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/dd0242247399628c784ad4a2ce213f3a96d65a92_height_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.915514592933948,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Height|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Height comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wzt-vSMAAI7pl8bS",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wzt35SMAABnil6hX",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1b373838-857a-49f4-a8d3-330ca0d27d97_height_web.jpg",
+                "width": 2471,
+                "height": 2460
+              },
+              "width": 2471,
+              "height": 2460,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b5368be724a143f7652c9f7f849a117ffdd6a16a_height_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Height|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Height comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

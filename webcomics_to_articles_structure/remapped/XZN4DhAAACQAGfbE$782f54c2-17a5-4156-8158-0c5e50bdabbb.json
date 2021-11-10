@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Language",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XZN3ghAAACIAGfRb",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa7f468b3-4496-4daa-816c-75c9e9a53597_language.jpg",
+      "width": 2473,
+      "height": 2456
+    },
+    "width": 2473,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0ab73bd09e39bace1a861de280630245f7ef5d65_language.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Language comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$43e967cd-2ce7-4513-a681-1dd7678e7410",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our bodies convey stories through an alphabet of shrugs and shoulder poems. If your shoulders could talk, what poems would they tell? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XZN4ohAAACMAGfjn",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F20f15211-1565-4f8c-b1ef-ace1db5ba5c9_language_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/db37f449a16e375994c80f43738944e8b2b96479_language_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Language comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XZN4ohAAACMAGfjn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F20f15211-1565-4f8c-b1ef-ace1db5ba5c9_language_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/321a028539d8616dc65bdc195aa4d2a1259eef75_language_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Language comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XZN4ohAAACMAGfjn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F20f15211-1565-4f8c-b1ef-ace1db5ba5c9_language_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/efd1d4ddd70e349c18e8ac6ff93c751b99577bfe_language_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Language comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XZN4ohAAACMAGfjn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F20f15211-1565-4f8c-b1ef-ace1db5ba5c9_language_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/869c641652668428ad583ba1478adb7cfaca3080_language_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Language comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XZN4DhAAACQAGfbG",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XZN3ghAAACIAGfRb",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa7f468b3-4496-4daa-816c-75c9e9a53597_language.jpg",
+                "width": 2473,
+                "height": 2456
+              },
+              "width": 2473,
+              "height": 2456,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0ab73bd09e39bace1a861de280630245f7ef5d65_language.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Language, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Language comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

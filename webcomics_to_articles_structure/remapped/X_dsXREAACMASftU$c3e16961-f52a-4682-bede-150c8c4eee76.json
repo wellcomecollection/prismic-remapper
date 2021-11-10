@@ -1,0 +1,202 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "January diet",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X_dnnBEAACMASeY1",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e324ede7-7efb-4b4a-886f-63cfc2cea2f3_january+diet+all+panels.jpg",
+      "width": 3000,
+      "height": 3000
+    },
+    "width": 3000,
+    "height": 3000,
+    "url": "https://images.prismic.io/wellcomecollection/e324ede7-7efb-4b4a-886f-63cfc2cea2f3_january+diet+all+panels.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Ruby Elliot Rubyetc",
+    "alt": "Webcomic comprising four panels showing two characters talking about January diets. One turns into a dragon and breathes fire over a packet of Ryvita. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {}
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X_dn2BEAACMASec_",
+        "wioUrl": "wio://documents/X_dn2BEAACMASec_"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$29c8cd45-e0b0-4bdb-8bbb-96fbbfe718a4",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Is your January diet turning you into a dragon? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X_dsJBEAACIASfpP",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg",
+              "width": 1600,
+              "height": 899
+            },
+            "width": 1600,
+            "height": 899,
+            "url": "https://images.prismic.io/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Ruby Elliot Rubyetc",
+            "alt": "Rubyetc webcomic promo detail",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X_dsJBEAACIASfpP",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -149
+                  }
+                },
+                "credits": "Ruby Elliot Rubyetc",
+                "alt": "Rubyetc webcomic promo detail",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X_dsJBEAACIASfpP",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg?auto=compress,format&rect=1,0,1598,899&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.0022246941045605,
+                  "crop": {
+                    "x": -2,
+                    "y": 0
+                  }
+                },
+                "credits": "Ruby Elliot Rubyetc",
+                "alt": "Rubyetc webcomic promo detail",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X_dsJBEAACIASfpP",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/d8e14f0f-d4a7-4181-96da-128199d3c77e_january+diet+promo.jpg?auto=compress,format&rect=351,0,899,899&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5595105672969964,
+                  "crop": {
+                    "x": -1248,
+                    "y": 0
+                  }
+                },
+                "credits": "Ruby Elliot Rubyetc",
+                "alt": "Rubyetc webcomic promo detail",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X_dsXREAACMASftW",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X_dnnBEAACMASeY1",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e324ede7-7efb-4b4a-886f-63cfc2cea2f3_january+diet+all+panels.jpg",
+                "width": 3000,
+                "height": 3000
+              },
+              "width": 3000,
+              "height": 3000,
+              "url": "https://images.prismic.io/wellcomecollection/e324ede7-7efb-4b4a-886f-63cfc2cea2f3_january+diet+all+panels.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Ruby Elliot Rubyetc",
+              "alt": "Webcomic comprising four panels showing two characters talking about January diets. One turns into a dragon and breathes fire over a packet of Ryvita. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

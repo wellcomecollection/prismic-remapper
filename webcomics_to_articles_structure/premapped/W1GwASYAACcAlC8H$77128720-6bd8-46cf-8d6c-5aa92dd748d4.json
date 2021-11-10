@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pills",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W1Gr2yYAACgAlB0k",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4aa2241e-ecfc-4a95-bd18-52fbc490ad03_pills_web.jpg",
+      "width": 2479,
+      "height": 2467
+    },
+    "width": 2479,
+    "height": 2467,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f91e36d753f7a7c226465845cb4eabae7b17e668_pills_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Pills|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Pills comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$8cfd93e6-fb4b-44a7-be38-015e5268d4ce",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pills. Blister packed weapons for physical and psychological protection. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W1Gr1SYAACgAlB0J",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e1b50f3-dd78-49eb-9257-65bbe17cb71f_pills_promo.jpg",
+              "width": 732,
+              "height": 412
+            },
+            "width": 732,
+            "height": 412,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d1fa91c3300310568414e558549f05aabf334446_pills_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Pills|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Pills comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W1Gr1SYAACgAlB0J",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e1b50f3-dd78-49eb-9257-65bbe17cb71f_pills_promo.jpg",
+                  "width": 732,
+                  "height": 412
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/749b920a01f0a30fb1f3070fc19a0858b6fc0f93_pills_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 7.766990291262136,
+                  "crop": {
+                    "x": -1243,
+                    "y": 0
+                  }
+                },
+                "credits": "Pills|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Pills comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W1Gr1SYAACgAlB0J",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8e1b50f3-dd78-49eb-9257-65bbe17cb71f_pills_promo.jpg",
+                  "width": 732,
+                  "height": 412
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c844617868b65f9c98d3e0c9d2591cb42fb5b0fd_pills_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.371584699453552,
+                  "crop": {
+                    "x": 0,
+                    "y": -1
+                  }
+                },
+                "credits": "Pills|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Pills comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W1GwASYAACcAlC8J"
+}

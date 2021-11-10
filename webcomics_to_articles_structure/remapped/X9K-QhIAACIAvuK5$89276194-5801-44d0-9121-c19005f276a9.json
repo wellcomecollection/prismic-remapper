@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "You're doing well",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X9K9PRIAACUAvt46",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e7f1c1f3-5854-477f-9833-360717237b1b_Wellcome+doing+well.jpg",
+      "width": 6544,
+      "height": 6921
+    },
+    "width": 6544,
+    "height": 6921,
+    "url": "https://images.prismic.io/wellcomecollection/e7f1c1f3-5854-477f-9833-360717237b1b_Wellcome+doing+well.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Webcomic in 4 frames by Worry Lines",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$f7666527-97ce-4091-a08c-0bc836871a1a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes it's just enough to be a human being.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X9K9OBIAACMAvt4j",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Webcomic by Worry Lines (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X9K9OBIAACMAvt4j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Webcomic by Worry Lines (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X9K9OBIAACMAvt4j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Webcomic by Worry Lines (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X9K9OBIAACMAvt4j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/9a217bbd-04e7-4b76-baf6-67d1476ba4c6_WellcomeDoingWell_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Webcomic by Worry Lines (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X9K-QhIAACIAvuK7",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X9K9PRIAACUAvt46",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e7f1c1f3-5854-477f-9833-360717237b1b_Wellcome+doing+well.jpg",
+                "width": 6544,
+                "height": 6921
+              },
+              "width": 6544,
+              "height": 6921,
+              "url": "https://images.prismic.io/wellcomecollection/e7f1c1f3-5854-477f-9833-360717237b1b_Wellcome+doing+well.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "© Worry Lines for Wellcome Collection",
+              "alt": "Webcomic in 4 frames by Worry Lines",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

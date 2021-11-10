@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tremble",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XZN3gxAAACMAGfRc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F024f9ef9-0118-407b-94c0-d8f23df92144_tremble.jpg",
+      "width": 2471,
+      "height": 2444
+    },
+    "width": 2471,
+    "height": 2444,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9fadb78b7f28d797cee5e0e190db62acf07f6a7c_tremble.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Tremble comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$404c7fa9-eed7-4c84-93db-a0a32d77e672",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Not all trembles are the same. What was the last thing that made you tremble?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XZN4ohAAACUAGfjo",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F981cc75a-3618-466f-9f5a-64638bb7862f_tremble_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/da7adc34abaffd77c5a95e9738e8c87bdb8fe1db_tremble_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Tremble comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XZN4ohAAACUAGfjo",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F981cc75a-3618-466f-9f5a-64638bb7862f_tremble_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4f1ad6e6c408a0b655f5f569d14a60238b7af9d9_tremble_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Tremble comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XZN4ohAAACUAGfjo",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F981cc75a-3618-466f-9f5a-64638bb7862f_tremble_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/054539e55c703a367709c2e030da1fe4dffe2956_tremble_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Tremble comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XZN4ohAAACUAGfjo",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F981cc75a-3618-466f-9f5a-64638bb7862f_tremble_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b6512186857391163a5195c338fbca715f2ee6fd_tremble_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Tremble comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XZN35BAAACMAGfYd",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XZN3gxAAACMAGfRc",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F024f9ef9-0118-407b-94c0-d8f23df92144_tremble.jpg",
+                "width": 2471,
+                "height": 2444
+              },
+              "width": 2471,
+              "height": 2444,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9fadb78b7f28d797cee5e0e190db62acf07f6a7c_tremble.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Tremble, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Tremble comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

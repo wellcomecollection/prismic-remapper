@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Cell",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WY1xTCoAACOgcW0Z",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fed6e553b-7f37-47bb-a199-94354455f111_bodysquabbles-15-cell.jpg",
+      "width": 2000,
+      "height": 1984
+    },
+    "width": 2000,
+    "height": 1984,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2dfbb659c678bdf7d572a529484a22acb9e6e316_bodysquabbles-15-cell.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6d544a92-1cb6-410b-8bc6-caf85b49cf9b",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Each cell in your body is full of stuff.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WY1xyyoAAGm_cW9P",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F79ff2a8b-91a4-4125-a084-8950fe7b8c83_bodysquabbles-15-cell-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3f5348daa2e356b43a28abfa91d90cab02626f56_bodysquabbles-15-cell-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WY1x7CoAAGm_cW_j"
+}

@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Gifts",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XfINXBEAACZSAbVz",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d0cf8c57-0129-435e-ac8d-4f1d44113781_gifts+Rob+resized.jpg",
+      "width": 1600,
+      "height": 1579
+    },
+    "width": 1600,
+    "height": 1579,
+    "url": "https://images.prismic.io/wellcomecollection/d0cf8c57-0129-435e-ac8d-4f1d44113781_gifts+Rob+resized.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Gifts, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Gifts comic by Rob Bidder. There are three scenes of people giving gifts to each other and in the fourth scene, someone declares 'Happy Capitalism'.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$238072b1-52e9-497f-b53a-af95f0af4789",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Gifts. We all get them. Even when we'd rather not. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XfINuhEAAOJSAbgZ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg",
+              "width": 2322,
+              "height": 2154
+            },
+            "width": 2322,
+            "height": 2154,
+            "url": "https://images.prismic.io/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Gifts, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "A slice of Gifts comic by Rob Bidder. Someone wearing a Christmas hat is leaping with their hands outstretched, from a basket filled with gifts.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XfINuhEAAOJSAbgZ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg",
+                  "width": 2322,
+                  "height": 2154
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg?auto=compress,format&rect=0,533,2322,1088&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3781223083548666,
+                  "crop": {
+                    "x": 0,
+                    "y": -734
+                  }
+                },
+                "credits": "Gifts, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Gifts comic by Rob Bidder. Someone wearing a Christmas hat is leaping with their hands outstretched, from a basket filled with gifts.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XfINuhEAAOJSAbgZ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg",
+                  "width": 2322,
+                  "height": 2154
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg?auto=compress,format&rect=0,424,2322,1306&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3781223083548666,
+                  "crop": {
+                    "x": 0,
+                    "y": -584
+                  }
+                },
+                "credits": "Gifts, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Gifts comic by Rob Bidder. Someone wearing a Christmas hat is leaping with their hands outstretched, from a basket filled with gifts.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XfINuhEAAOJSAbgZ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg",
+                  "width": 2322,
+                  "height": 2154
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/60b05ce2-4948-4b8a-a47e-039d88f8c06d_gifts+Rob+crop.jpg?auto=compress,format&rect=84,0,2154,2154&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.4856081708449396,
+                  "crop": {
+                    "x": -125,
+                    "y": 0
+                  }
+                },
+                "credits": "Gifts, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Gifts comic by Rob Bidder. Someone wearing a Christmas hat is leaping with their hands outstretched, from a basket filled with gifts.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XfILbREAACZSAafk"
+}

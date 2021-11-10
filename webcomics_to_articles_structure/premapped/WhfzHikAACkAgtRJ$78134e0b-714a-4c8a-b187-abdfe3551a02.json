@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Landscape",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Whfy3ikAACsAgtMt",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F203d2b58-e31e-443c-9c81-f0cc0a94c35d_bodysquabbles-28-landscape.jpg",
+      "width": 2000,
+      "height": 1989
+    },
+    "width": 2000,
+    "height": 1989,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b12fed6b474b919d758cc590837f819800b3d944_bodysquabbles-28-landscape.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Landscape|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Sometimes the body feels like an unfamiliar landscape that you have no map for. It can be uncooperative and the topography can shift without warning. But I'm trying to cultivate compassion for my body. We have to work together whether it knows what it's doing or not.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$e8b0781c-a884-494a-a658-bdeb76895149",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes the body feels like an unfamiliar landscape that you have no map for.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Whfy9SkAACoAgtOQ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fee0d0f30-9323-4f73-a064-1679202a650e_bodysquabbles-28-landscape-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/aa56479f560e0e36e6b9cdd3963f830d6b4ecab8_bodysquabbles-28-landscape-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WhfzHikAACkAgtRL"
+}

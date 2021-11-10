@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Atoms",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XbgNTBAAACEAjFu6",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f0ac3c01-4e32-4182-bb58-5bfd9041986f_atoms+Rob.jpg",
+      "width": 1679,
+      "height": 1661
+    },
+    "width": 1679,
+    "height": 1661,
+    "url": "https://images.prismic.io/wellcomecollection/f0ac3c01-4e32-4182-bb58-5bfd9041986f_atoms+Rob.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Atoms, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Atoms comic by Rob Bidder",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3a55e535-58a8-4ba0-8910-c01eb46abb53",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What song makes your body sing? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XbgNnhAAACIAjF0l",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg",
+              "width": 2447,
+              "height": 2017
+            },
+            "width": 2447,
+            "height": 2017,
+            "url": "https://images.prismic.io/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Atoms, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Atoms comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XbgNnhAAACIAjF0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg",
+                  "width": 2447,
+                  "height": 2017
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg?auto=compress,format&rect=0,435,2447,1147&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3077237433592153,
+                  "crop": {
+                    "x": 0,
+                    "y": -569
+                  }
+                },
+                "credits": "Atoms, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Atoms comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XbgNnhAAACIAjF0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg",
+                  "width": 2447,
+                  "height": 2017
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg?auto=compress,format&rect=0,320,2447,1376&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3077237433592153,
+                  "crop": {
+                    "x": 0,
+                    "y": -419
+                  }
+                },
+                "credits": "Atoms, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Atoms comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XbgNnhAAACIAjF0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg",
+                  "width": 2447,
+                  "height": 2017
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/f7051ffd-dc7b-47d2-9ea1-b3a3bdd3a849_atoms+Rob+crop.jpg?auto=compress,format&rect=215,0,2017,2017&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.5865146256817055,
+                  "crop": {
+                    "x": -341,
+                    "y": 0
+                  }
+                },
+                "credits": "Atoms, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Atoms comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XbgKMBAAACMAjE2_"
+}

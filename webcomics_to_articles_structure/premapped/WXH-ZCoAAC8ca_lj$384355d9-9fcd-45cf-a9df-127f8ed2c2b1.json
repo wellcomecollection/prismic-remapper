@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Button",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WXH-IyoAAOgSa_g-",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fda617c91-de65-41d4-9318-eaf8e10007b2_bodysquabbles-12-button.jpg",
+      "width": 2000,
+      "height": 1983
+    },
+    "width": 2000,
+    "height": 1983,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/75805e74e37aaa2240f0700013281ef30807e463_bodysquabbles-12-button.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$dc6929fa-bc43-45aa-a62f-68eb66c505ee",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Try pressing this so-called ‘button’ and see what happens.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WXH-IioAAOgSa_g5",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F18aa5845-5c11-4592-9bcd-325e4cfd156c_bodysquabbles-12-button-thumb.jpg",
+              "width": 2326,
+              "height": 1308
+            },
+            "width": 2326,
+            "height": 1308,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3f0cecd7c48efa9698f4af60bc1ff2f8387f8c72_bodysquabbles-12-button-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Button. A Webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WXH-ZCoAAC8ca_ll"
+}

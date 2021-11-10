@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Yoga",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WmnJhSQAADcAsDmN",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F78e58c21-2613-4cee-a9d0-10d5ea7101a9_yoga3.jpg",
+      "width": 2464,
+      "height": 2460
+    },
+    "width": 2464,
+    "height": 2460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ab1336a74db81eb0f17430496dc9062fe364b3b4_yoga3.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$c48d982d-a54f-498b-8066-d70dff923c1f",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Is yoga class a good time to let go of inhibitions?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WmsTMyQAACYAteIo",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbc538ae7-2725-45cc-bf33-29d5b9b7e7ac_yoga+explore+promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b55095021df31407c90a0ef464a37fb84b73cabf_yoga-explore-promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WmnKqiQAACUAsD6V",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WmnJhSQAADcAsDmN",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F78e58c21-2613-4cee-a9d0-10d5ea7101a9_yoga3.jpg",
+                "width": 2464,
+                "height": 2460
+              },
+              "width": 2464,
+              "height": 2460,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ab1336a74db81eb0f17430496dc9062fe364b3b4_yoga3.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

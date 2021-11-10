@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Unskilled",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XtDPLRAAACAALBKS",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/128a72d2-66a4-49fa-94f3-cfda43283d27_unskilled.jpg",
+      "width": 2472,
+      "height": 2471
+    },
+    "width": 2472,
+    "height": 2471,
+    "url": "https://images.prismic.io/wellcomecollection/128a72d2-66a4-49fa-94f3-cfda43283d27_unskilled.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Unskilled | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Web comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b3150f91-685d-4499-a48a-279b7fb77bd2",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Do you have a mind job or a body job?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XtDO4hAAACMALBE3",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Unskilled | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Web comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XtDO4hAAACMALBE3",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Unskilled | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Web comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XtDO4hAAACMALBE3",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Unskilled | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Web comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XtDO4hAAACMALBE3",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/e9be9c4f-800f-43ea-9dfe-27bd49f9ea84_unskilled_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Unskilled | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Web comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XtDQphAAAIoALBl1"
+}

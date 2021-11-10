@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Senses",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wr0FNR8AAP0O9xQs",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe97ea141-b725-4a12-9b67-b96d93741e25_senses_web.jpg",
+      "width": 2496,
+      "height": 2469
+    },
+    "width": 2496,
+    "height": 2469,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f8a34f5dbf3ccf7a6768a62471895c878b0424b6_senses_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Senses|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Webcomic about senses by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$4342439d-c3ea-43c1-b2ea-f1519f9dfb92",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Senses. We've all got them. But how do they work?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wr0FIR8AAAjk9xPT",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ffd73f73e-c4a6-4c68-8383-a855903d0d40_senses_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eb9db59180966978271336d4a0eb015e8f533d8f_senses_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Senses|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Webcomic about senses by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "Wr0FIR8AAAjk9xPT",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ffd73f73e-c4a6-4c68-8383-a855903d0d40_senses_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/adf13ecd9de2f4d547c5066c2f771695929f4b9f_senses_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Senses|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Webcomic about senses by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Wr0FIR8AAAjk9xPT",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ffd73f73e-c4a6-4c68-8383-a855903d0d40_senses_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0d05d473fb0088fd5f92787bb6fd146f6edcea2f_senses_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Senses|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Webcomic about senses by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wr0Grh8AAP0O9xqt",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wr0FNR8AAP0O9xQs",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe97ea141-b725-4a12-9b67-b96d93741e25_senses_web.jpg",
+                "width": 2496,
+                "height": 2469
+              },
+              "width": 2496,
+              "height": 2469,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f8a34f5dbf3ccf7a6768a62471895c878b0424b6_senses_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Senses|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Webcomic about senses by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

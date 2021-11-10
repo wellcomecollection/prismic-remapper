@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Smell",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WusB4CIAANL-1-Sj",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5584d069-7fed-4aa8-a70d-72291a5ba3f2_smell.jpg",
+      "width": 2480,
+      "height": 2460
+    },
+    "width": 2480,
+    "height": 2460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d31947594666d42db832a464b84e4a07eb152040_smell.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Smell|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Smell webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b29ae767-c53c-4013-b280-28fdec2a04d7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sniffling and snuffling invite odour molecules to a party in your body",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WusB9iIAANL-1-UJ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F03a7df75-8a59-4754-8a65-de6a807a6865_smell_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7cda2053c7494b303425ac8966956f996c0fd628_smell_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Smell|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Smell webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "WusB9iIAANL-1-UJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F03a7df75-8a59-4754-8a65-de6a807a6865_smell_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2a94da98168fae6856fc232d9cff8d0983fd94ff_smell_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Smell|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Smell webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "WusB9iIAANL-1-UJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F03a7df75-8a59-4754-8a65-de6a807a6865_smell_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e1ac1d1e24b0bbec7daaaa0e30f89b9fa8fcaa25_smell_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Smell|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Smell webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WusF6yIAAM_-1_a4"
+}

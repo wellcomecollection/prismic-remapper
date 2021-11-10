@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Strike",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XYSMvBAAACMASVCl",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa6b943de-13fa-4696-b5cf-3e9ab40acbef_strike.jpg",
+      "width": 4941,
+      "height": 4881
+    },
+    "width": 4941,
+    "height": 4881,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/99f480ac60546874eef99fc8371f1d03b0e0eccd_strike.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Strike, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Strike comic by Rob Bidder.  Each panel is blank and the text explains that Rob is on climate strike.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$280afdac-9c5b-4814-8a36-84d63652236a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No Body Squabbles today. Consider shouting in the city centre instead.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XYSozhAAACQASb8O",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2f8c8045-543c-4b45-8f7e-bcea0ac29a41_strike.jpg",
+              "width": 2481,
+              "height": 1395
+            },
+            "width": 2481,
+            "height": 1395,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f3c6fd19f8ef8722afd99a6f6de15e1d33edc360_strike.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Strike, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Panel from Strike by Rob Bidder which is blank. ",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XYSozhAAACQASb8O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2f8c8045-543c-4b45-8f7e-bcea0ac29a41_strike.jpg",
+                  "width": 2481,
+                  "height": 1395
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e836cd445899b862df5391532cfc3c48c2187f52_strike.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.2903225806451613,
+                  "crop": {
+                    "x": -1,
+                    "y": 0
+                  }
+                },
+                "credits": "Strike, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Panel from Strike by Rob Bidder which is blank. ",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XYSozhAAACQASb8O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2f8c8045-543c-4b45-8f7e-bcea0ac29a41_strike.jpg",
+                  "width": 2481,
+                  "height": 1395
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/16f94edccdf2bc1bc4fc45e33a6c963aa33a0358_strike.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.2898024989923418,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Strike, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Panel from Strike by Rob Bidder which is blank. ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XYSozhAAACQASb8O",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2f8c8045-543c-4b45-8f7e-bcea0ac29a41_strike.jpg",
+                  "width": 2481,
+                  "height": 1395
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c83c00ee0b66fdb29d34ea917f5d4f145a527ee7_strike.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.293906810035842,
+                  "crop": {
+                    "x": -1246,
+                    "y": 0
+                  }
+                },
+                "credits": "Strike, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Panel from Strike by Rob Bidder which is blank. ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XYSNPxAAACQASVI0"
+}

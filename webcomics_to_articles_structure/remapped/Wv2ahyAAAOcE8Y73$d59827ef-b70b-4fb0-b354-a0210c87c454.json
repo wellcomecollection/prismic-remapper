@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sun",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wv2Z1iAAAIQM8YwL",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc57ffdeb-4477-4df2-ae8f-5a6c0bbba9b0_sun.jpg",
+      "width": 2476,
+      "height": 2456
+    },
+    "width": 2476,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b95d31f262240647bf8852da0575487af853f860_sun.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sun|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Sun webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6fb7cdd8-bac7-4b1d-ad02-81f6beb1dc6c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here comes the sun (doo doo doo doo)",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wv2aEyAAAOcE8Y0U",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7f9fd805-8b1e-41f5-8bbf-612a7637514a_sun_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f0ff4050017d1430b71c04cacd5bc4d3ae4705e5_sun_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sun|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Sub webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "Wv2aEyAAAOcE8Y0U",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7f9fd805-8b1e-41f5-8bbf-612a7637514a_sun_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/94cf86cfe7a65d860a88c5a8ddb713be3de12103_sun_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Sun|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sub webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Wv2aEyAAAOcE8Y0U",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7f9fd805-8b1e-41f5-8bbf-612a7637514a_sun_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e2dd990d41f0526f606b32cbf80fbee3fe9f613c_sun_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Sun|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sub webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wv2ahyAAAOcE8Y75",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wv2Z1iAAAIQM8YwL",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc57ffdeb-4477-4df2-ae8f-5a6c0bbba9b0_sun.jpg",
+                "width": 2476,
+                "height": 2456
+              },
+              "width": 2476,
+              "height": 2456,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b95d31f262240647bf8852da0575487af853f860_sun.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Sun|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Sun webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

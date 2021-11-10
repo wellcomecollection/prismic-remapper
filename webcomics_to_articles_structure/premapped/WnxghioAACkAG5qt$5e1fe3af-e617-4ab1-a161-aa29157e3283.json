@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Smile",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wnxd-CoAACgAG49v",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F17e0f566-91a0-41ad-b8b8-928668c278b6_smile.jpg",
+      "width": 2484,
+      "height": 2452
+    },
+    "width": 2484,
+    "height": 2452,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e76fa3c9c95f4775354977c9ba0d86e9010f8d71_smile.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "smile: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$71602e8d-4b8e-445e-a03d-dad0cc567dba",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Check you’re happy when the smile police are on patrol.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WnxgQyoAACoAG5mF",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F54a1476c-bf18-4c85-8de0-c89532ab0496_smile_detail2.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/406ebd2417d09f96f456a63e0a79c5afd3f754a2_smile_detail2.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Smile: webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WnxgQyoAACoAG5mF",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F54a1476c-bf18-4c85-8de0-c89532ab0496_smile_detail2.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4101aa03f8a8548e5635418c851a566644461d89_smile_detail2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Smile: webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WnxgQyoAACoAG5mF",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F54a1476c-bf18-4c85-8de0-c89532ab0496_smile_detail2.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cb3ef093fe5069c9b20690ff83d53756287a872c_smile_detail2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Smile: webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WnxghioAACkAG5qv"
+}

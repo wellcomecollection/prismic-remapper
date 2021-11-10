@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Land",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XQybXRIAABeH4CQn",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe7b12f4c-7584-4e3c-b46b-3613e2cd0e76_land.png",
+      "width": 4235,
+      "height": 4172
+    },
+    "width": 4235,
+    "height": 4172,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/988fa8f6c7e7ce877d337e7092be64982b448a0f_land.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$0989c204-f871-4259-9297-10840e0251a1",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You might think you're king of your hill, but have you looked at the bigger picture?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XQybVRIAAHmt4CQT",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2bbc84bd-e5f8-4f46-9881-512c394aad5c_land_promo.png",
+              "width": 2431,
+              "height": 1151
+            },
+            "width": 2431,
+            "height": 1151,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ec7c5a83d2048c96ee0450f7d4a250bbe258e383_land_promo.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Land|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Land comic by Rob Bidder (promo)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XQybVRIAAHmt4CQT",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2bbc84bd-e5f8-4f46-9881-512c394aad5c_land_promo.png",
+                  "width": 2431,
+                  "height": 1151
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/710c4ad1561fb74baf7bad06e96e82409b5dc65b_land_promo.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.316330728095434,
+                  "crop": {
+                    "x": 0,
+                    "y": -8
+                  }
+                },
+                "credits": "Land|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Land comic by Rob Bidder (promo)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XQybVRIAAHmt4CQT",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2bbc84bd-e5f8-4f46-9881-512c394aad5c_land_promo.png",
+                  "width": 2431,
+                  "height": 1151
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7285e972b15b38d7ead219696541452e2c418957_land_promo.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2.780191138140747,
+                  "crop": {
+                    "x": -1779,
+                    "y": 0
+                  }
+                },
+                "credits": "Land|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Land comic by Rob Bidder (promo)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XQybVRIAAHmt4CQT",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2bbc84bd-e5f8-4f46-9881-512c394aad5c_land_promo.png",
+                  "width": 2431,
+                  "height": 1151
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/725604bc3f4edadb1836886c8090f7e7049de71d_land_promo.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.5638575152041703,
+                  "crop": {
+                    "x": -301,
+                    "y": 0
+                  }
+                },
+                "credits": "Land|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Land comic by Rob Bidder (promo)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XQybkBIAAHmt4CTm",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XQybXRIAABeH4CQn",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe7b12f4c-7584-4e3c-b46b-3613e2cd0e76_land.png",
+                "width": 4235,
+                "height": 4172
+              },
+              "width": 4235,
+              "height": 4172,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/988fa8f6c7e7ce877d337e7092be64982b448a0f_land.png",
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

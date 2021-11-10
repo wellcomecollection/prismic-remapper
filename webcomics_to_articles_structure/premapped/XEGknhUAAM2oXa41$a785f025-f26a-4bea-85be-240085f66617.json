@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Metaphor",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XEGjThUAAM2oXaiF",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F55c8e24c-6ddd-4210-b69d-5ee63efdef6e_metaphor.png",
+      "width": 3968,
+      "height": 3928
+    },
+    "width": 3968,
+    "height": 3928,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/beb605dfd866a265f981a70aa46bf5f912ed7fe1_metaphor.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Metaphor|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Metaphor comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$4471bed9-2880-404a-b924-e96531815f74",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We think of our bodies using tank or factory metaphors, but we are all made of stars.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XEGkKBUAAM2oXaws",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcced2137-334e-40ca-a380-4191d896df39_metaphor_crop.png",
+              "width": 1954,
+              "height": 1100
+            },
+            "width": 1954,
+            "height": 1100,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/29f1025a261c4fe53f7c55f2fbf2fd68b19c1d4a_metaphor_crop.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Metaphor|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Detail of metaphor by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XEGkKBUAAM2oXaws",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcced2137-334e-40ca-a380-4191d896df39_metaphor_crop.png",
+                  "width": 1954,
+                  "height": 1100
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d39cbcdaf8836551f8b6fb6f6c8a6b484fcd1c6d_metaphor_crop.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2.909090909090909,
+                  "crop": {
+                    "x": -1242,
+                    "y": 0
+                  }
+                },
+                "credits": "Metaphor|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Detail of metaphor by Rob Bidder",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XEGkKBUAAM2oXaws",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcced2137-334e-40ca-a380-4191d896df39_metaphor_crop.png",
+                  "width": 1954,
+                  "height": 1100
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/734c15f86c996fb96db97881b13ae8a24062f6ba_metaphor_crop.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.6376663254861823,
+                  "crop": {
+                    "x": 0,
+                    "y": -151
+                  }
+                },
+                "credits": "Metaphor|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Detail of metaphor by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XEGkKBUAAM2oXaws",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcced2137-334e-40ca-a380-4191d896df39_metaphor_crop.png",
+                  "width": 1954,
+                  "height": 1100
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a40624370c8b89e3f3062a3816bcbf702e87d899_metaphor_crop.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.6376663254861823,
+                  "crop": {
+                    "x": 0,
+                    "y": -1
+                  }
+                },
+                "credits": "Metaphor|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Detail of metaphor by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XEGknhUAAM2oXa43"
+}

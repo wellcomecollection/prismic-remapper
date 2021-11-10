@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Bacteria",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XAAVoBEAACf5eVZP",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F712889d5-bc00-4d60-b647-55f555861bb8_bacteria_web.jpg",
+      "width": 2483,
+      "height": 2467
+    },
+    "width": 2483,
+    "height": 2467,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2a4e0f34756b2806721f5f4d51423a1490d91762_bacteria_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Bacteria|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Bacteria comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$9973d32e-7f5a-4516-8950-6a75b3b067ad",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are we human, or are we bacteria?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XAAVnREAAE2reVZB",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F690704f7-97f9-46d6-89a4-3da32d75a042_bacteria_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b3e54d74896d190a0fcec028b11c13a936ef766e_bacteria_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Bacteria|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+            "alt": "Bacteria comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XAAVnREAAE2reVZB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F690704f7-97f9-46d6-89a4-3da32d75a042_bacteria_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/69507a4bd3406ccf248bb6bb9a09740d4c523eb2_bacteria_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Bacteria|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Bacteria comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XAAVnREAAE2reVZB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F690704f7-97f9-46d6-89a4-3da32d75a042_bacteria_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2c1d7d224ae056806e830ecde33ccb8124d88a36_bacteria_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Bacteria|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Bacteria comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XAAVnREAAE2reVZB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F690704f7-97f9-46d6-89a4-3da32d75a042_bacteria_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/34792e18066eea4b5d5eb3b674f196e36ca50ceb_bacteria_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Bacteria|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Bacteria comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XAAX0BEAAE2reV_8"
+}

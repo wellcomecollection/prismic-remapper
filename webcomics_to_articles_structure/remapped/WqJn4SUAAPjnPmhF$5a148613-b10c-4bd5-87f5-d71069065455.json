@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Shapes",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WqJmbCUAAB8sPmHM",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F13890cd0-3b11-430d-bd55-e40890f2f630_shapes_prismic.jpg",
+      "width": 1832,
+      "height": 1822
+    },
+    "width": 1832,
+    "height": 1822,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d0f7e42f9654a81f00124b6d31da8da46848b8b7_shapes_prismic.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Shapes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Shapes: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$aaeeea55-b648-4e62-9412-e5a89d794409",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We’re all different shapes and sizes.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WqJnEiUAAM8VPmSs",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F45225cb3-35a0-4905-bf23-0c8643cdc0a3_shapes_detail.png",
+              "width": 2475,
+              "height": 1392
+            },
+            "width": 2475,
+            "height": 1392,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/950d944c4b79256871bc97b1cbc3d2521c59a0a9_shapes_detail.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Shapes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Shapes: A webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WqJnEiUAAM8VPmSs",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F45225cb3-35a0-4905-bf23-0c8643cdc0a3_shapes_detail.png",
+                  "width": 2475,
+                  "height": 1392
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0f31bc66f4c230a05b4abe1f32ad1fec2574ebab_shapes_detail.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.293103448275862,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Shapes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Shapes: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WqJnEiUAAM8VPmSs",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F45225cb3-35a0-4905-bf23-0c8643cdc0a3_shapes_detail.png",
+                  "width": 2475,
+                  "height": 1392
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0582553bcfe3ad05fb1303b34c3c7964572cae0c_shapes_detail.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2.2988505747126435,
+                  "crop": {
+                    "x": -1245,
+                    "y": 0
+                  }
+                },
+                "credits": "Shapes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Shapes: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WqJn4SUAAPjnPmhH",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WqJmbCUAAB8sPmHM",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F13890cd0-3b11-430d-bd55-e40890f2f630_shapes_prismic.jpg",
+                "width": 1832,
+                "height": 1822
+              },
+              "width": 1832,
+              "height": 1822,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d0f7e42f9654a81f00124b6d31da8da46848b8b7_shapes_prismic.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Shapes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Shapes: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

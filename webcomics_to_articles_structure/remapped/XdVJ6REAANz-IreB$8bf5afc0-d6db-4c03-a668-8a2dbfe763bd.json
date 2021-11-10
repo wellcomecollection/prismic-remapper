@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Loneliness",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XdVIxREAAHj-IrJB",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/aa36e3df-9887-47a5-8b2c-6d8ed4d056f5_loneliness+resized.jpg",
+      "width": 1353,
+      "height": 1329
+    },
+    "width": 1353,
+    "height": 1329,
+    "url": "https://images.prismic.io/wellcomecollection/aa36e3df-9887-47a5-8b2c-6d8ed4d056f5_loneliness+resized.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Loneliness, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Loneliness comic by Rob Bidder",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$1c130737-8a1f-43a5-a796-e8787100fa67",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes all we want is human connection and the feeling of being alive alongside each other. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XdVJRBEAAHH-IrSD",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg",
+              "width": 2433,
+              "height": 2033
+            },
+            "width": 2433,
+            "height": 2033,
+            "url": "https://images.prismic.io/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Slice of Sick comic by Rob bidder. The illustration depicts people sat on a bus, with the central figure wearing a red coat and hat, with their eyes shut.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XdVJRBEAAHH-IrSD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg",
+                  "width": 2433,
+                  "height": 2033
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg?auto=compress,format&rect=0,446,2433,1140&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3152486642005754,
+                  "crop": {
+                    "x": 0,
+                    "y": -587
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Sick comic by Rob bidder. The illustration depicts people sat on a bus, with the central figure wearing a red coat and hat, with their eyes shut.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XdVJRBEAAHH-IrSD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg",
+                  "width": 2433,
+                  "height": 2033
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg?auto=compress,format&rect=0,332,2433,1369&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3152486642005754,
+                  "crop": {
+                    "x": 0,
+                    "y": -437
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Sick comic by Rob bidder. The illustration depicts people sat on a bus, with the central figure wearing a red coat and hat, with their eyes shut.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XdVJRBEAAHH-IrSD",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg",
+                  "width": 2433,
+                  "height": 2033
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/eca9643f-2efa-4558-91e3-ae1e90b1c6df_loneliness+crop.jpg?auto=compress,format&rect=200,0,2033,2033&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.574028529267093,
+                  "crop": {
+                    "x": -315,
+                    "y": 0
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of Sick comic by Rob bidder. The illustration depicts people sat on a bus, with the central figure wearing a red coat and hat, with their eyes shut.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XdVJ6REAANz-IreD",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XdVIxREAAHj-IrJB",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/aa36e3df-9887-47a5-8b2c-6d8ed4d056f5_loneliness+resized.jpg",
+                "width": 1353,
+                "height": 1329
+              },
+              "width": 1353,
+              "height": 1329,
+              "url": "https://images.prismic.io/wellcomecollection/aa36e3df-9887-47a5-8b2c-6d8ed4d056f5_loneliness+resized.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Loneliness, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Loneliness comic by Rob Bidder",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

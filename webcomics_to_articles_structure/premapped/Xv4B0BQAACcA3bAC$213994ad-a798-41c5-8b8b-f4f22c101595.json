@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Statues",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xv4BUBQAACcA3a3D",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/73e38ba7-ff3b-46d5-830e-c7adc971c27c_statues+%28new%29.png",
+      "width": 2000,
+      "height": 2004
+    },
+    "width": 2000,
+    "height": 2004,
+    "url": "https://images.prismic.io/wellcomecollection/73e38ba7-ff3b-46d5-830e-c7adc971c27c_statues+%28new%29.png?auto=compress,format",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Statues | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Comic in four frames showing statue, statue being pelted by things, same background with statue presumably encased in riveted box, and plinth with no statue but graffiti reading \"BLM\" and \"services not statues\".",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$173ca14e-698e-482f-a013-d32d2c1db130",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Do statues need protection?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xv4EpRQAAADN3b0l",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png",
+              "width": 986,
+              "height": 555
+            },
+            "width": 986,
+            "height": 555,
+            "url": "https://images.prismic.io/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Statues | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Detail from Statues comic by Rob Bidder showing a statue being pelted with various items.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xv4EpRQAAADN3b0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png",
+                  "width": 986,
+                  "height": 555
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png?auto=compress,format&rect=0,47,986,462&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.2454361054766734,
+                  "crop": {
+                    "x": 0,
+                    "y": -151
+                  }
+                },
+                "credits": "Statues | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Detail from Statues comic by Rob Bidder showing a statue being pelted with various items.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xv4EpRQAAADN3b0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png",
+                  "width": 986,
+                  "height": 555
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png?auto=compress,format&rect=0,0,986,555&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.2454361054766734,
+                  "crop": {
+                    "x": 0,
+                    "y": -1
+                  }
+                },
+                "credits": "Statues | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Detail from Statues comic by Rob Bidder showing a statue being pelted with various items.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xv4EpRQAAADN3b0l",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png",
+                  "width": 986,
+                  "height": 555
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/197c1e4a-d0e2-4b05-ae59-534c06bcae06_statues+%28new%29_crop.png?auto=compress,format&rect=216,0,555,555&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 5.7657657657657655,
+                  "crop": {
+                    "x": -1243,
+                    "y": 0
+                  }
+                },
+                "credits": "Statues | Rob Bidder | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Detail from Statues comic by Rob Bidder showing a statue being pelted with various items.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xv4B0BQAACcA3bAE"
+}

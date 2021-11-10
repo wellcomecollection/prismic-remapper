@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Mood",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XrUgDhAAACIAbEkf",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/64c04e4c-732a-4df1-b7ed-54efcaeda6f0_mooda.jpg",
+      "width": 3715,
+      "height": 3707
+    },
+    "width": 3715,
+    "height": 3707,
+    "url": "https://images.prismic.io/wellcomecollection/64c04e4c-732a-4df1-b7ed-54efcaeda6f0_mooda.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Four-panel comic depicting a sad candle leaning on its hand with an empty plate and mug in front of it. As the panels progress, the candle-person melts leaving only a puddle and a flaming skull.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$8a5852a4-b75d-4e23-a45d-8516cd6ef467",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is your mood at the moment?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XrUgBBAAACQAbEjy",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg",
+              "width": 1831,
+              "height": 1030
+            },
+            "width": 1831,
+            "height": 1030,
+            "url": "https://images.prismic.io/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Watercolour and ink drawing of a sad candle with a face resting on its hand.",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XrUgBBAAACQAbEjy",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg",
+                  "width": 1831,
+                  "height": 1030
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg?auto=compress,format&rect=0,86,1831,858&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.7476788640087384,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Watercolour and ink drawing of a sad candle with a face resting on its hand.",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XrUgBBAAACQAbEjy",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg",
+                  "width": 1831,
+                  "height": 1030
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg?auto=compress,format&rect=0,0,1831,1030&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.7476788640087384,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Watercolour and ink drawing of a sad candle with a face resting on its hand.",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XrUgBBAAACQAbEjy",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg",
+                  "width": 1831,
+                  "height": 1030
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/d30aed9e-600f-423d-9c7b-7a21ab8f58ba_mood_promo.jpg?auto=compress,format&rect=400,0,1030,1030&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.1067961165048543,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Watercolour and ink drawing of a sad candle with a face resting on its hand.",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XrUfZhAAACIAbEY2",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XrUgDhAAACIAbEkf",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/64c04e4c-732a-4df1-b7ed-54efcaeda6f0_mooda.jpg",
+                "width": 3715,
+                "height": 3707
+              },
+              "width": 3715,
+              "height": 3707,
+              "url": "https://images.prismic.io/wellcomecollection/64c04e4c-732a-4df1-b7ed-54efcaeda6f0_mooda.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Mood | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Four-panel comic depicting a sad candle leaning on its hand with an empty plate and mug in front of it. As the panels progress, the candle-person melts leaving only a puddle and a flaming skull.",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Chalk",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xfou2xEAAB4AGoJl",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04f07636-d5d0-4eed-af98-d71a110cc732_chalk+rob+bidder+comic.jpg",
+      "width": 1807,
+      "height": 1815
+    },
+    "width": 1807,
+    "height": 1815,
+    "url": "https://images.prismic.io/wellcomecollection/04f07636-d5d0-4eed-af98-d71a110cc732_chalk+rob+bidder+comic.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Chalk comic by Rob Bidder with four slides. The first slide shows someone tallying scores using chalk, and subsequent slides show the chalk in more detail. The final slide displays the chalk in microscopic detail to reveal the fossilised sea plankton.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$0e83e1b4-7fa9-473f-85b2-ca81e05c290e",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You'll never look at chalk the same way again.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xfou4BEAACIAGoKA",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg",
+              "width": 2411,
+              "height": 2063
+            },
+            "width": 2411,
+            "height": 2063,
+            "url": "https://images.prismic.io/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "A slide of Chalk comic by Rob Bidder, which shows a figure tallying scores on a board with chalk. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xfou4BEAACIAGoKA",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg",
+                  "width": 2411,
+                  "height": 2063
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg?auto=compress,format&rect=0,466,2411,1130&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3272501036914144,
+                  "crop": {
+                    "x": 0,
+                    "y": -619
+                  }
+                },
+                "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slide of Chalk comic by Rob Bidder, which shows a figure tallying scores on a board with chalk. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xfou4BEAACIAGoKA",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg",
+                  "width": 2411,
+                  "height": 2063
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg?auto=compress,format&rect=0,353,2411,1356&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3272501036914144,
+                  "crop": {
+                    "x": 0,
+                    "y": -469
+                  }
+                },
+                "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slide of Chalk comic by Rob Bidder, which shows a figure tallying scores on a board with chalk. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xfou4BEAACIAGoKA",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg",
+                  "width": 2411,
+                  "height": 2063
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/cb837436-3d84-49ae-a598-127693b7a347_chalk+rob+comic+crop.jpg?auto=compress,format&rect=174,0,2063,2063&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.5511391177896268,
+                  "crop": {
+                    "x": -270,
+                    "y": 0
+                  }
+                },
+                "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slide of Chalk comic by Rob Bidder, which shows a figure tallying scores on a board with chalk. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XfoujREAAB8AGoD_",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xfou2xEAAB4AGoJl",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04f07636-d5d0-4eed-af98-d71a110cc732_chalk+rob+bidder+comic.jpg",
+                "width": 1807,
+                "height": 1815
+              },
+              "width": 1807,
+              "height": 1815,
+              "url": "https://images.prismic.io/wellcomecollection/04f07636-d5d0-4eed-af98-d71a110cc732_chalk+rob+bidder+comic.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Chalk, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Chalk comic by Rob Bidder with four slides. The first slide shows someone tallying scores using chalk, and subsequent slides show the chalk in more detail. The final slide displays the chalk in microscopic detail to reveal the fossilised sea plankton.",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

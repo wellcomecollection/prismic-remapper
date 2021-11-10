@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Exercise",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XFxWzBAAAPgAilXl",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1685b8b5-62cb-400f-9e38-891e9f41b8c4_exercises_web.jpg",
+      "width": 2477,
+      "height": 2454
+    },
+    "width": 2477,
+    "height": 2454,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0233b6c464e7da675655f938cd564ace6daa283e_exercises_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Exercise comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6705ddea-8b4f-4010-a85f-f8867f77d4ad",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exercise to music to stimulate both your mood and your muscles.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XFxWxxAAACMAilXS",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F432c2d01-57cb-4ac1-ab02-2f24d3ec0592_exercises_promo.jpg",
+              "width": 1200,
+              "height": 600
+            },
+            "width": 1200,
+            "height": 600,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/afd21de13847e36d06bf1fb9cced161e58d32121_exercises_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Exercise comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XFxWxxAAACMAilXS",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F432c2d01-57cb-4ac1-ab02-2f24d3ec0592_exercises_promo.jpg",
+                  "width": 1200,
+                  "height": 600
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8b352265b7339e8850f1942316ecbc9cccfc587a_exercises_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.6666666666666665,
+                  "crop": {
+                    "x": 0,
+                    "y": -50
+                  }
+                },
+                "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Exercise comic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XFxWxxAAACMAilXS",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F432c2d01-57cb-4ac1-ab02-2f24d3ec0592_exercises_promo.jpg",
+                  "width": 1200,
+                  "height": 600
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d0fb2477a6d7e29c666538c7acbc431aaa799205_exercises_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 5.333333333333333,
+                  "crop": {
+                    "x": -1600,
+                    "y": 0
+                  }
+                },
+                "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Exercise comic by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XFxWxxAAACMAilXS",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F432c2d01-57cb-4ac1-ab02-2f24d3ec0592_exercises_promo.jpg",
+                  "width": 1200,
+                  "height": 600
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/33aa56cba481ed1af21e240fcbcf23eed9d20a13_exercises_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3,
+                  "crop": {
+                    "x": -200,
+                    "y": 0
+                  }
+                },
+                "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Exercise comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XFxaXxAAACQAimWn",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XFxWzBAAAPgAilXl",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1685b8b5-62cb-400f-9e38-891e9f41b8c4_exercises_web.jpg",
+                "width": 2477,
+                "height": 2454
+              },
+              "width": 2477,
+              "height": 2454,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0233b6c464e7da675655f938cd564ace6daa283e_exercises_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Exercise|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Exercise comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

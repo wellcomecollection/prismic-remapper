@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hallucination",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W_bGZxAAABQUMG-y",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F59d88e44-ee38-4575-8eaf-2d6eb11bf042_hallucination_web.jpg",
+      "width": 2068,
+      "height": 2052
+    },
+    "width": 2068,
+    "height": 2052,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d361a9ddfb6adb3903563224b65c06d8432a547e_hallucination_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Hallucination|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Hallucination comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$429be3c3-8a01-4583-adde-b0fecf69f18a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When your sight is impaired, you might just see more than you ever thought possible",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W_bGZhAAABMUMG-t",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1a97175d-d7f9-454b-8501-e5dcb3cf77bf_hallucination_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/87e5bcbc25a3f19d1445e87d3ac9c71922210eb0_hallucination_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Hallucination|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Hallucination comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W_bGZhAAABMUMG-t",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1a97175d-d7f9-454b-8501-e5dcb3cf77bf_hallucination_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d856ca82497af3a223accbf9a2858c5571b91382_hallucination_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Hallucination|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hallucination comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "W_bGZhAAABMUMG-t",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1a97175d-d7f9-454b-8501-e5dcb3cf77bf_hallucination_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7cc0d50ebfa323a2d98ebf5c73854889e127f02b_hallucination_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Hallucination|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hallucination comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W_bGZhAAABMUMG-t",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1a97175d-d7f9-454b-8501-e5dcb3cf77bf_hallucination_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fd48c77b103a5b6f69e841e902123fc22f3e3a45_hallucination_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Hallucination|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hallucination comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W_bIERMAAGEUXD4W"
+}

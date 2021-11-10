@@ -1,0 +1,101 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Teeth",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuioAAL65Q6Hj",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb6649691-c9f5-4695-bfe6-0df70fcf88c5_bodysquabbles-04-teeth.jpg",
+      "width": 2000,
+      "height": 2000
+    },
+    "width": 2000,
+    "height": 2000,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/640f2fd4447bed08b6c9c0dc8be5a30724b26fd0_bodysquabbles-04-teeth.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Teeth: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pull the other one.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAItZQ6G9",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F35805b78-3117-436a-83ef-2f01c07ce457_bodysquabbles-04-teeth-thumb.jpg",
+              "width": 951,
+              "height": 534
+            },
+            "width": 951,
+            "height": 534,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b7e24618562e1f5da11ed6417951ced986b01254_bodysquabbles-04-teeth-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Teeth: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-25T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjYdSoAAIpZQ7bn"
+}

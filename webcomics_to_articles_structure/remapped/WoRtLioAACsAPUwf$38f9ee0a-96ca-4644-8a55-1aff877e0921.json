@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Laughter",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WoRsByoAACgAPUcM",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1735f160-b9d5-452d-8e2c-657bf85fb8ba_laughter.jpg",
+      "width": 2466,
+      "height": 2456
+    },
+    "width": 2466,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/71967624cbd2cdb5d9e4d966142b02586fba4793_laughter.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Laughter: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$cafc1976-5728-41cf-847f-ea052751077a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The loudest medicine. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WoRs8SoAACsAPUsR",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fba95e7da-5e67-4e9c-9a7f-d927978a86cc_laughter_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/04396054db6ced28b39a186ecdc7ac369dc57573_laughter_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Laughter: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "WoRs8SoAACsAPUsR",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fba95e7da-5e67-4e9c-9a7f-d927978a86cc_laughter_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3aecd660835b2db7a73d00e7aca2318d4d105211_laughter_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Laughter: A webcomic by Rob Bidder",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "WoRs8SoAACsAPUsR",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fba95e7da-5e67-4e9c-9a7f-d927978a86cc_laughter_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cbe711bf1796efcf1d40a8f85fff7f734ae7c795_laughter_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Laughter: A webcomic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WoRtLioAACsAPUwh",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WoRsByoAACgAPUcM",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1735f160-b9d5-452d-8e2c-657bf85fb8ba_laughter.jpg",
+                "width": 2466,
+                "height": 2456
+              },
+              "width": 2466,
+              "height": 2456,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/71967624cbd2cdb5d9e4d966142b02586fba4793_laughter.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Laughter: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pundit",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuSoAAItZQ6Hc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F82d3ce48-997a-4ee8-9acc-ffcd1340a542_bodysquabbles-06-pundit.jpg",
+      "width": 2000,
+      "height": 1976
+    },
+    "width": 2000,
+    "height": 1976,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9cc29ec58ef13c153cdbcc4a68d012e6c962aa48_bodysquabbles-06-pundit.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Pundit: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When I pick my nose I’m blogging.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAL65Q6G8",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fae4f950c-8cf6-41ea-bdb4-05dae8551ce1_bodysquabbles-06-pundit-thumb.jpg",
+              "width": 887,
+              "height": 499
+            },
+            "width": 887,
+            "height": 499,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b20ebc66bddb7c6168cd151de8f7a9072ea7d808_bodysquabbles-06-pundit-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Pundit: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-08T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjZYioAAIpZQ7sD",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTuSoAAItZQ6Hc",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F82d3ce48-997a-4ee8-9acc-ffcd1340a542_bodysquabbles-06-pundit.jpg",
+                "width": 2000,
+                "height": 1976
+              },
+              "width": 2000,
+              "height": 1976,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9cc29ec58ef13c153cdbcc4a68d012e6c962aa48_bodysquabbles-06-pundit.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Pundit: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

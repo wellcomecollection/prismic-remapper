@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Skull",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XH-kahAAAAgbHvIG",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F15fd556c-fa05-4d23-859e-7220484d27d4_skull_web.jpg",
+      "width": 2489,
+      "height": 2466
+    },
+    "width": 2489,
+    "height": 2466,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3bdf5154d4b4a08f383cb5e09dff807f175bfd8a_skull_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$afc463e0-a836-475c-92b4-1ad36abcec08",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Give thanks every day to your skull for holding your face in place. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XH-kZxAAAFA1HvHz",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F35edb2d9-ae07-4cec-9a83-d68f64fa2c68_skull_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cf4e2977f2cd9d0333867d39c244fa306e60e362_skull_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Skull|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Skull comic by Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XH-kZxAAAFA1HvHz",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F35edb2d9-ae07-4cec-9a83-d68f64fa2c68_skull_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a44e4026a982f516f73d6d51d9c1d7670f0f567a_skull_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Skull|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Skull comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XH-kZxAAAFA1HvHz",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F35edb2d9-ae07-4cec-9a83-d68f64fa2c68_skull_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c7eda828e61ad80729154812b72cb8a30cf41724_skull_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Skull|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Skull comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XH-kZxAAAFA1HvHz",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F35edb2d9-ae07-4cec-9a83-d68f64fa2c68_skull_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d38cd957c8388684f7ebbb4fec118b0d44e39dfb_skull_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Skull|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Skull comic by Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XH-w1RAAAFA1HyJv",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XH-kahAAAAgbHvIG",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F15fd556c-fa05-4d23-859e-7220484d27d4_skull_web.jpg",
+                "width": 2489,
+                "height": 2466
+              },
+              "width": 2489,
+              "height": 2466,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3bdf5154d4b4a08f383cb5e09dff807f175bfd8a_skull_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": null,
+              "alt": null,
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

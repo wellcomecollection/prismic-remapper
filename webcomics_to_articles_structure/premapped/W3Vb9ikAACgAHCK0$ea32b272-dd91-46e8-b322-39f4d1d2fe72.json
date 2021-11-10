@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Rocks",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W3Ve4ykAACkAHC_J",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcc0573f2-f954-42df-a348-1928dff58860_rocks_web.jpg",
+      "width": 2486,
+      "height": 2458
+    },
+    "width": 2486,
+    "height": 2458,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3130e69505f8b755c12a1f50988aa16562a1f70c_rocks_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rocks|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Rocks web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b51aa0a3-67f8-4161-a784-d0e0c85d7159",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Rock your body. Shake your stones. Dance like terminology doesn't matter.  ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W3VfuikAACgAHDOI",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2dfab60b-ddf2-4170-82b3-3e118ef74b05_rocks_promo.jpg",
+              "width": 1580,
+              "height": 889
+            },
+            "width": 1580,
+            "height": 889,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c666397131078c73c6ac606c918cb53ffba385d0_rocks_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rocks|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Rocks web comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W3VfuikAACgAHDOI",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2dfab60b-ddf2-4170-82b3-3e118ef74b05_rocks_promo.jpg",
+                  "width": 1580,
+                  "height": 889
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ed66a2f417feb8e4145309bb6daeb2b1245b6883_rocks_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.0253164556962027,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Rocks|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Rocks web comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W3VfuikAACgAHDOI",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2dfab60b-ddf2-4170-82b3-3e118ef74b05_rocks_promo.jpg",
+                  "width": 1580,
+                  "height": 889
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2c31d48f74df78303356c8650854050621e2e54b_rocks_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5995500562429696,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Rocks|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Rocks web comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W3Vb9ikAACgAHCK2"
+}

@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Fine",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XscZ7xAAACEAhA_Y",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/80c9e62e-4a15-4c46-8190-a84939f2dede_fine_web.jpg",
+      "width": 2475,
+      "height": 2473
+    },
+    "width": 2475,
+    "height": 2473,
+    "url": "https://images.prismic.io/wellcomecollection/80c9e62e-4a15-4c46-8190-a84939f2dede_fine_web.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Comic in four frames by Rob Bidder ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$2f87197e-73d2-46b4-bc7e-c8e37f3e0123",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are you really fine?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XscZyhAAACMAhA8z",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Webcomic by Rob Bidder (detail) ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XscZyhAAACMAhA8z",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Webcomic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XscZyhAAACMAhA8z",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Webcomic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XscZyhAAACMAhA8z",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/468c2e7f-1d8d-4a17-92b3-fcbb82aa0bd0_fine_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Webcomic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XscahxAAACAAhBJ_",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XscZ7xAAACEAhA_Y",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/80c9e62e-4a15-4c46-8190-a84939f2dede_fine_web.jpg",
+                "width": 2475,
+                "height": 2473
+              },
+              "width": 2475,
+              "height": 2473,
+              "url": "https://images.prismic.io/wellcomecollection/80c9e62e-4a15-4c46-8190-a84939f2dede_fine_web.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Fine | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Comic in four frames by Rob Bidder ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Diagnosis",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Ws9_9SEAAFcR5H9q",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbdf97a84-b4d4-43f8-84c3-5ab973a84521_diagnosis_sml.jpg",
+      "width": 1100,
+      "height": 1090
+    },
+    "width": 1100,
+    "height": 1090,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b2f67724f31fe4ff3cef0633e348bdad8184ea3b_diagnosis_sml.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Diagnosis|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Webcomic on Diagnosis by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$4a6faf76-92fd-470e-9653-5cbad490ca36",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Do you manage your diagnosis, or does your diagnosis manage you? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Ws9_5yEAAPkR5H8s",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9616eb0f-48f2-4c7d-8158-fc7c9ed6450f_diagnosis_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4e6e4a31fc2383147aa74ae9a28f8e21feb1a7a0_diagnosis_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Diagnosis|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Webcomic on Diagnosis by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "Ws9_5yEAAPkR5H8s",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9616eb0f-48f2-4c7d-8158-fc7c9ed6450f_diagnosis_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7b1ab9f5346d223d70319736b89943919699ac5d_diagnosis_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Diagnosis|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Webcomic on Diagnosis by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "Ws9_5yEAAPkR5H8s",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9616eb0f-48f2-4c7d-8158-fc7c9ed6450f_diagnosis_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1c716ca875c3f2f062556a2d7d3ee23ba54d36c2_diagnosis_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Diagnosis|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Webcomic on Diagnosis by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Ws-DCyEAAFcR5I0c"
+}

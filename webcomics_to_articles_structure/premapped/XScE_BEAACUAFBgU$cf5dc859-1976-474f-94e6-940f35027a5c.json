@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ideas",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XSddcREAACQAFauO",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe793cd5b-df79-4f04-95c3-1eb1d608eecb_ideas_web.jpg",
+      "width": 2500,
+      "height": 2459
+    },
+    "width": 2500,
+    "height": 2459,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fdfdef9ce538f2d92c1a617f071c354ce0308150_ideas_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$828ae453-e0d1-4de4-ab04-cc27e233b022",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Past thoughts, feelings and experiences are but the basic ingredients for future ideas",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XSddahEAACYAFatv",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F344943fa-a466-42c1-9046-235c56f00ca4_ideas_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7d45c5aeaa679dc0cda9e03d5a09a75b273877c3_ideas_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XSddahEAACYAFatv",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F344943fa-a466-42c1-9046-235c56f00ca4_ideas_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/40c738208b4d28e92bcc1696dcf1b26db3c49c01_ideas_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XSddahEAACYAFatv",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F344943fa-a466-42c1-9046-235c56f00ca4_ideas_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ead818b471e1b90b6d5b00bd55d8516816da9d61_ideas_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XSddahEAACYAFatv",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F344943fa-a466-42c1-9046-235c56f00ca4_ideas_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8618b7bb1342d3087e3d8fe779f43e015c6e4a05_ideas_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XScE_BEAACUAFBgW"
+}

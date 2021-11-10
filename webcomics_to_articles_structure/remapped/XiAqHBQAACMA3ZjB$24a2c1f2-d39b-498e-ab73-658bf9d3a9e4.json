@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Age",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XiAqihQAACUA3Zq4",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e6642987-a6b3-4c54-9d9b-4f12bc8cae6e_age+rob+bidder+resized.jpg",
+      "width": 1750,
+      "height": 1741
+    },
+    "width": 1750,
+    "height": 1741,
+    "url": "https://images.prismic.io/wellcomecollection/e6642987-a6b3-4c54-9d9b-4f12bc8cae6e_age+rob+bidder+resized.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Fist comic by Rob Bidder which depicts two figures at a birthday party. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$d2f7ccb0-5c2d-446b-acfa-94a2f9d10823",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Aging and decay are natural and fine. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XiGjpRQAACMA5DQL",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg",
+              "width": 592,
+              "height": 333
+            },
+            "width": 592,
+            "height": 333,
+            "url": "https://images.prismic.io/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Slice of comic by Rob Bidder, depicting two figures at a birthday party, with balloons and bunting in the background. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XiGjpRQAACMA5DQL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg",
+                  "width": 592,
+                  "height": 333
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg?auto=compress,format&rect=0,28,592,278&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 5.405405405405405,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of comic by Rob Bidder, depicting two figures at a birthday party, with balloons and bunting in the background. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XiGjpRQAACMA5DQL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg",
+                  "width": 592,
+                  "height": 333
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg?auto=compress,format&rect=0,0,592,333&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 5.405405405405405,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of comic by Rob Bidder, depicting two figures at a birthday party, with balloons and bunting in the background. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XiGjpRQAACMA5DQL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg",
+                  "width": 592,
+                  "height": 333
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/c6715927-948d-4957-bd9c-e10267ffc1a6_age+rob+bidder+crop+.jpg?auto=compress,format&rect=129,0,333,333&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 9.60960960960961,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Slice of comic by Rob Bidder, depicting two figures at a birthday party, with balloons and bunting in the background. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XiAqHBQAACMA3ZjD",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XiAqihQAACUA3Zq4",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e6642987-a6b3-4c54-9d9b-4f12bc8cae6e_age+rob+bidder+resized.jpg",
+                "width": 1750,
+                "height": 1741
+              },
+              "width": 1750,
+              "height": 1741,
+              "url": "https://images.prismic.io/wellcomecollection/e6642987-a6b3-4c54-9d9b-4f12bc8cae6e_age+rob+bidder+resized.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Fist, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Fist comic by Rob Bidder which depicts two figures at a birthday party. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

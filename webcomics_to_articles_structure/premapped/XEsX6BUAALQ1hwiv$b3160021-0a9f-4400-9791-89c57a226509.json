@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tonsilloliths",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XEsVtBUAALQ1hv7A",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fef15ef7c-8e3a-4aa4-8637-7a2569057720_tonsilloliths.jpg",
+      "width": 2473,
+      "height": 2452
+    },
+    "width": 2473,
+    "height": 2452,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3926320f2029505c7054022a7aef85294a381903_tonsilloliths.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Tonsilloliths|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Tonsilloliths comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$989fcb24-6268-429e-9c2e-55a0c9d44274",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are some smelly cellular monsters living in the crypts and crevices of your tonsils. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XEsVshUAAFE_hv63",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5de36c16-2af4-464d-89fa-ccf7d5e96e47_tonsilloliths_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f95867c5ae3b8a06cf2c3e532c86dbd92f4a6705_tonsilloliths_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Tonsilloliths|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Tonsilloliths comic by Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XEsVshUAAFE_hv63",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5de36c16-2af4-464d-89fa-ccf7d5e96e47_tonsilloliths_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c45bbc07356700aceb604a00db32f579fd592fd6_tonsilloliths_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Tonsilloliths|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Tonsilloliths comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XEsVshUAAFE_hv63",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5de36c16-2af4-464d-89fa-ccf7d5e96e47_tonsilloliths_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c303f7abaa999cab72f70e64695b156f4bb21c22_tonsilloliths_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Tonsilloliths|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Tonsilloliths comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XEsVshUAAFE_hv63",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5de36c16-2af4-464d-89fa-ccf7d5e96e47_tonsilloliths_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/74511368667ebcf198e1b2ef3e8431df9eee681a_tonsilloliths_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Tonsilloliths|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Tonsilloliths comic by Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XEsX6BUAALQ1hwix"
+}

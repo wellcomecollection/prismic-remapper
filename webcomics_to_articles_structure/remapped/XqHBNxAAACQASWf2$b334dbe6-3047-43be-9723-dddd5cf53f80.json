@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Clean",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XqFsDhAAACMAR-va",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bb621728-d285-4c5e-9dfa-0039039a6ea3_clean.jpg",
+      "width": 2478,
+      "height": 2478
+    },
+    "width": 2478,
+    "height": 2478,
+    "url": "https://images.prismic.io/wellcomecollection/bb621728-d285-4c5e-9dfa-0039039a6ea3_clean.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Clean comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$a8fe31a5-1824-4c0d-9e61-3abf50b846e9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Let's clean up our act and pay people a fair wage",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XqFsIBAAACMAR-wx",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Clean comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XqFsIBAAACMAR-wx",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Clean comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XqFsIBAAACMAR-wx",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Clean comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XqFsIBAAACMAR-wx",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/cc8aa1d2-61e7-420b-a5cd-8459dc33fa61_clean_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Clean comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XqHBNxAAACQASWf4",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XqFsDhAAACMAR-va",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bb621728-d285-4c5e-9dfa-0039039a6ea3_clean.jpg",
+                "width": 2478,
+                "height": 2478
+              },
+              "width": 2478,
+              "height": 2478,
+              "url": "https://images.prismic.io/wellcomecollection/bb621728-d285-4c5e-9dfa-0039039a6ea3_clean.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Clean, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+              "alt": "Clean comic by Rob Bidder in four frames",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

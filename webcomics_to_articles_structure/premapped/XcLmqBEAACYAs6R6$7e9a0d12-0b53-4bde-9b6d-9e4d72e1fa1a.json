@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sick",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XcLnEREAACgAs6Zl",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/00c411d1-345d-43b4-a1ab-b55ff023141c_sick+Rob+Bidder+comic.jpg",
+      "width": 1679,
+      "height": 1673
+    },
+    "width": 1679,
+    "height": 1673,
+    "url": "https://images.prismic.io/wellcomecollection/00c411d1-345d-43b4-a1ab-b55ff023141c_sick+Rob+Bidder+comic.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Sick comic by Rob Bidder",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$edc3a163-3d13-4057-a0f7-20e32a3b7c12",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "How do you spend a sick day? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XcLnrxEAACYAs6k7",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg",
+              "width": 2395,
+              "height": 1777
+            },
+            "width": 2395,
+            "height": 1777,
+            "url": "https://images.prismic.io/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Sick comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XcLnrxEAACYAs6k7",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg",
+                  "width": 2395,
+                  "height": 1777
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg?auto=compress,format&rect=0,327,2395,1123&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.336116910229645,
+                  "crop": {
+                    "x": 0,
+                    "y": -437
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Sick comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XcLnrxEAACYAs6k7",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg",
+                  "width": 2395,
+                  "height": 1777
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg?auto=compress,format&rect=0,215,2395,1347&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.336116910229645,
+                  "crop": {
+                    "x": 0,
+                    "y": -287
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Sick comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XcLnrxEAACYAs6k7",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg",
+                  "width": 2395,
+                  "height": 1777
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/b39f843e-1764-41c3-8974-32bac1248427_sick+Rob+Bidder+crop.jpg?auto=compress,format&rect=309,0,1777,1777&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.8007878446820484,
+                  "crop": {
+                    "x": -556,
+                    "y": 0
+                  }
+                },
+                "credits": "Sick, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Sick comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XcLmqBEAACYAs6R8"
+}

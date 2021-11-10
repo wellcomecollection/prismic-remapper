@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Parasites",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuyoAAAF0Q6Hk",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0158c5b5-c346-4a41-b2b8-48567cf019ce_bodysquabbles-09-parasites1.jpg",
+      "width": 2000,
+      "height": 1972
+    },
+    "width": 2000,
+    "height": 1972,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5373d72f470faaa5d41639b4fb720221e54fe808_bodysquabbles-09-parasites1.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Parasites: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You don’t want a tapeworm because you don’t like to think of your body as a home for other animals.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WmtG9yQAADcAtsXT",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F394a0818-0a4d-4161-b1a1-6e758558428b_parasites_promo.png",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5cc445fb8fc29e9cb3c3104a1c4541937e105143_parasites_promo.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Parasites: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-29T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjaDioAAIpZQ74T",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTuyoAAAF0Q6Hk",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0158c5b5-c346-4a41-b2b8-48567cf019ce_bodysquabbles-09-parasites1.jpg",
+                "width": 2000,
+                "height": 1972
+              },
+              "width": 2000,
+              "height": 1972,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5373d72f470faaa5d41639b4fb720221e54fe808_bodysquabbles-09-parasites1.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Parasites: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

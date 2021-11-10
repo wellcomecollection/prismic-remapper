@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tongue",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WuCEKCIAAPFNqdyh",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5cd606ee-06cd-4ca9-b092-3edbce8da8a3_tongue.jpg",
+      "width": 2480,
+      "height": 2463
+    },
+    "width": 2480,
+    "height": 2463,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3050469c76d49baae2caa33528daa95bf4c7dc6a_tongue.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Tongue|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Tongue comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$4297c16b-f7c7-4b5f-9b07-e69d65f6adc6",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From an indicator of health to a taster of flavour your tongue is a very mighty muscle!",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WuCEfyIAAPFNqd4q",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbaa52e4c-f84b-4456-ae4f-d10d46d00b56_promo_tongue.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/161317d3b53281db1751ecbe6237c56069f4bd0a_promo_tongue.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Tongue|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Tongue comic by Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WuCEfyIAAPFNqd4q",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbaa52e4c-f84b-4456-ae4f-d10d46d00b56_promo_tongue.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1dc1e95e035965dbe38ae6ac0f3e864221309353_promo_tongue.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Tongue|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Tongue comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WuCEfyIAAPFNqd4q",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbaa52e4c-f84b-4456-ae4f-d10d46d00b56_promo_tongue.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/667eab5c54dd7c6cc2d3fb73667a4893227bfa9e_promo_tongue.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Tongue|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Tongue comic by Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WuCG3CIAAOxNqejb"
+}

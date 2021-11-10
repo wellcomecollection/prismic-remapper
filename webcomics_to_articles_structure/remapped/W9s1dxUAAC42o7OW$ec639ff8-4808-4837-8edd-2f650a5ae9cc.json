@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hands",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W9swuBUAAC02o55b",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd64ad937-e8b7-4a63-b5c1-435642f581be_hand_web.jpg",
+      "width": 2473,
+      "height": 2461
+    },
+    "width": 2473,
+    "height": 2461,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/942d06d626c47de55410bed85f65804753440408_hand_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Hands comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$c32ac704-0d9f-4804-867d-daa179a2773f",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The presence of your hands is preserved in the things they touch",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W9swvRUAAC42o55y",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6f4148e4-9cda-420d-8b65-ada196a526b6_hand_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e535df413102f9d3a41492243d795d53e7838f7e_hand_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Hands comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W9swvRUAAC42o55y",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6f4148e4-9cda-420d-8b65-ada196a526b6_hand_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a63945cf79cd30ec922a4f96af3f2637e1a2b5e4_hand_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hands comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "W9swvRUAAC42o55y",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6f4148e4-9cda-420d-8b65-ada196a526b6_hand_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/19ddc7abcd6292a5c4f96ea9a1da04a5d61d7e80_hand_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hands comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W9swvRUAAC42o55y",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6f4148e4-9cda-420d-8b65-ada196a526b6_hand_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc7ef82f7edb2e8d10ec75c1843a67fb5fbb2bef_hand_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hands comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W9s1dxUAAC42o7OY",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W9swuBUAAC02o55b",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd64ad937-e8b7-4a63-b5c1-435642f581be_hand_web.jpg",
+                "width": 2473,
+                "height": 2461
+              },
+              "width": 2473,
+              "height": 2461,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/942d06d626c47de55410bed85f65804753440408_hand_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Hands|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Hands comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Phone",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xpl-sBEAACIAhhwu",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/25521017-c871-4f6a-aa4d-4edd57ed7456_phone.jpg",
+      "width": 2481,
+      "height": 2478
+    },
+    "width": 2481,
+    "height": 2478,
+    "url": "https://images.prismic.io/wellcomecollection/25521017-c871-4f6a-aa4d-4edd57ed7456_phone.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Phone, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Phone comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$ef65a491-a414-41ca-b9e0-ff4af453f2be",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Is your phone a source of comfort or a gateway to melancholy during this crisis? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xpl-ghEAACIAhhtQ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Phone, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Phone comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xpl-ghEAACIAhhtQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Phone, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Phone comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xpl-ghEAACIAhhtQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Phone, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Phone comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xpl-ghEAACIAhhtQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/34f19bbb-e905-428c-b0e0-a13f1219dc5f_phone_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Phone, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Phone comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XpmEQBEAACQAhi3L"
+}

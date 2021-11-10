@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Crying",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WmGyjCQAACUAjMr-",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2045471a-79b9-4329-88a6-6b55cf0ea96e_crying.jpg",
+      "width": 2494,
+      "height": 2456
+    },
+    "width": 2494,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/27deb58e2a842c5569da247162245285a2b8f5bd_crying.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Comic about crying and how it can feel cathartic sometimes.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$19f6f567-561e-45e6-a419-19d4aaf4fec4",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When does it feel good to weep?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WmWbJCQAACcAnew8",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ffd59b3d5-f874-4fb5-8176-bb3b943a562b_crying_promopicture.png",
+              "width": 1226,
+              "height": 690
+            },
+            "width": 1226,
+            "height": 690,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a2902c9b7f33ef3747a3fd5a21802d06e0b25c0a_crying_promopicture.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Image of an elf-like green creature sitting on a toilet crying.",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WmGzUCQAACcAjM5g",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WmGyjCQAACUAjMr-",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F2045471a-79b9-4329-88a6-6b55cf0ea96e_crying.jpg",
+                "width": 2494,
+                "height": 2456
+              },
+              "width": 2494,
+              "height": 2456,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/27deb58e2a842c5569da247162245285a2b8f5bd_crying.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Comic about crying and how it can feel cathartic sometimes.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

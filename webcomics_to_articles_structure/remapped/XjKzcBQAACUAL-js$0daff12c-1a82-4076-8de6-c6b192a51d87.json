@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Patient",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XjKxsRQAACMAL-Un",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/127aa4ed-3246-47d2-82e1-4f5a4247d335_patient+Rob.jpg",
+      "width": 2228,
+      "height": 2227
+    },
+    "width": 2228,
+    "height": 2227,
+    "url": "https://images.prismic.io/wellcomecollection/127aa4ed-3246-47d2-82e1-4f5a4247d335_patient+Rob.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Patient comic by Rob Bidder. It depicts a small blue figure being handled by a larger figure in four different frames, with accompanying text. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$16737675-ae89-4643-ac04-966c6c8becff",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Moments of our personhoods showing on the conveyor-belt of care. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XjKxuxQAACQAL-U6",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg",
+              "width": 2400,
+              "height": 1350
+            },
+            "width": 2400,
+            "height": 1350,
+            "url": "https://images.prismic.io/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Patient comic by Rob Bidder.  A small blue figure is being licked by a larger figure in the palm of their hand. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XjKxuxQAACQAL-U6",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg",
+                  "width": 2400,
+                  "height": 1350
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg?auto=compress,format&rect=0,113,2400,1125&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3333333333333333,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Patient comic by Rob Bidder.  A small blue figure is being licked by a larger figure in the palm of their hand. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XjKxuxQAACQAL-U6",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg",
+                  "width": 2400,
+                  "height": 1350
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg?auto=compress,format&rect=0,0,2400,1350&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3333333333333333,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Patient comic by Rob Bidder.  A small blue figure is being licked by a larger figure in the palm of their hand. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XjKxuxQAACQAL-U6",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg",
+                  "width": 2400,
+                  "height": 1350
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/394e4827-a23c-4734-96f5-e6d0bce6b783_patient+Rob+crop.jpg?auto=compress,format&rect=525,0,1350,1350&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.3703703703703702,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Patient comic by Rob Bidder.  A small blue figure is being licked by a larger figure in the palm of their hand. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XjKzcBQAACUAL-ju",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XjKxsRQAACMAL-Un",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/127aa4ed-3246-47d2-82e1-4f5a4247d335_patient+Rob.jpg",
+                "width": 2228,
+                "height": 2227
+              },
+              "width": 2228,
+              "height": 2227,
+              "url": "https://images.prismic.io/wellcomecollection/127aa4ed-3246-47d2-82e1-4f5a4247d335_patient+Rob.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Patient, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Patient comic by Rob Bidder. It depicts a small blue figure being handled by a larger figure in four different frames, with accompanying text. ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Flowers",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xr5iKRYAACUA_Hc0",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3f9906f5-6fff-43cf-9b98-7c6d5ea15344_flowers_web.jpg",
+      "width": 2480,
+      "height": 2470
+    },
+    "width": 2480,
+    "height": 2470,
+    "url": "https://images.prismic.io/wellcomecollection/3f9906f5-6fff-43cf-9b98-7c6d5ea15344_flowers_web.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Flowers comic in four frames by Rob Bidder ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$18b3b892-3c32-4e27-94d1-9295d9db3b5c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find joy in all the yawning, stretching, arching, flirting flowers around you. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xr5ikBYAACgA_HkK",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Flowers comic by Rob Bidder (detail) ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xr5ikBYAACgA_HkK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Flowers comic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xr5ikBYAACgA_HkK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Flowers comic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xr5ikBYAACgA_HkK",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/c2a3f0a8-f7d9-45f7-9f9f-246698551c18_flowers_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Flowers comic by Rob Bidder (detail) ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xr5kXxYAACgA_IEy",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Xr5iKRYAACUA_Hc0",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3f9906f5-6fff-43cf-9b98-7c6d5ea15344_flowers_web.jpg",
+                "width": 2480,
+                "height": 2470
+              },
+              "width": 2480,
+              "height": 2470,
+              "url": "https://images.prismic.io/wellcomecollection/3f9906f5-6fff-43cf-9b98-7c6d5ea15344_flowers_web.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Flowers | Rob Bidder | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Flowers comic in four frames by Rob Bidder ",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

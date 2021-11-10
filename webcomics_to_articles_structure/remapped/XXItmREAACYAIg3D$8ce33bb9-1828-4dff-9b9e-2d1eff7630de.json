@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Massage",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XXIsEREAACcAIgeJ",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb3e5f93e-7ba2-4cd7-8d76-4b05a05e7442_massage.jpg",
+      "width": 2500,
+      "height": 2474
+    },
+    "width": 2500,
+    "height": 2474,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a9053d780099a6f672bdd1486ee8abc0524ac10d_massage.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Massage comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$894b5fd3-cb61-4a61-a977-455b517459a3",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sometimes the road to relaxation is paved with discomfort",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XXItDBEAACgAIgt5",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa20e78b5-1943-4ff2-8739-d93652e21590_massage_promo2.jpg",
+              "width": 1600,
+              "height": 899
+            },
+            "width": 1600,
+            "height": 899,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/63b445d0581d5881f52b5befd0a414f29e0ba08f_massage_promo2.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Massage comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XXItDBEAACgAIgt5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa20e78b5-1943-4ff2-8739-d93652e21590_massage_promo2.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eab9429e102aa40564e25f4039f2377e29677376_massage_promo2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.0022246941045605,
+                  "crop": {
+                    "x": -2,
+                    "y": 0
+                  }
+                },
+                "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Massage comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XXItDBEAACgAIgt5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa20e78b5-1943-4ff2-8739-d93652e21590_massage_promo2.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ad05d29409bcd6169fd880e4962f5def7b2855dd_massage_promo2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5595105672969964,
+                  "crop": {
+                    "x": -1248,
+                    "y": 0
+                  }
+                },
+                "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Massage comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XXItDBEAACgAIgt5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa20e78b5-1943-4ff2-8739-d93652e21590_massage_promo2.jpg",
+                  "width": 1600,
+                  "height": 899
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ca87ef4ff7f2f1d0a2cfd4b1b152af793af109cc_massage_promo2.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -149
+                  }
+                },
+                "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Massage comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XXItmREAACYAIg3F",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XXIsEREAACcAIgeJ",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb3e5f93e-7ba2-4cd7-8d76-4b05a05e7442_massage.jpg",
+                "width": 2500,
+                "height": 2474
+              },
+              "width": 2500,
+              "height": 2474,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a9053d780099a6f672bdd1486ee8abc0524ac10d_massage.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Massage, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Massage comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Groan",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XK9ogRIAAOA9Qnra",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4ec2e08b-305b-4d56-91a7-0fc99abded02_groan_web.jpg",
+      "width": 2476,
+      "height": 2438
+    },
+    "width": 2476,
+    "height": 2438,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/abc9d989ac9b5c174bd3119e954324d38928b834_groan_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Groan|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Groan comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$f6e713ba-abaa-4a69-a89a-8df0bf7b6741",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Groans are to our primitive nature what language is to civilization. Uggggghhhh.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XK9ofhIAAOA9QnrN",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c8b776e-7f41-41eb-82e7-3b6dfb3eedee_groan_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/42317e6b19489ec80ccc4d5a2c2878d7179aedbc_groan_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Groan|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Groan comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XK9ofhIAAOA9QnrN",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c8b776e-7f41-41eb-82e7-3b6dfb3eedee_groan_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a984a29c835b7c67bc680dd06366b9d08374ca62_groan_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Groan|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Groan comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XK9ofhIAAOA9QnrN",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c8b776e-7f41-41eb-82e7-3b6dfb3eedee_groan_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/24dddb562db419d582fe2e8cefc6ce1ee0192eda_groan_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Groan|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Groan comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XK9ofhIAAOA9QnrN",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c8b776e-7f41-41eb-82e7-3b6dfb3eedee_groan_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/67fc06cc6f13fbd75bdf93c77f93cd5cc6d4b2d4_groan_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Groan|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Groan comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XK9p2RIAAO1vQoAB"
+}

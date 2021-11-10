@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Night",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W5pGPiYAACYAPcvn",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd99a35ca-c889-48bf-88c9-ec213398b76a_night_web.jpg",
+      "width": 2481,
+      "height": 2463
+    },
+    "width": 2481,
+    "height": 2463,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eae1030dc147671337d96ca3010324bb9f38eee4_night_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Night Comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$df3970c8-e421-48f9-bf8a-574400b476ae",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From rest to restlessness, tranquility to terror, the night is no place for words. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W5pGPCYAACMAPcvi",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4e7373d0-ef5a-4fcd-a3c5-7fa3537f0ccc_night_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/678719642cd7de5eb1c05ca9af3d65ca54d4341f_night_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Night comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W5pGPCYAACMAPcvi",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4e7373d0-ef5a-4fcd-a3c5-7fa3537f0ccc_night_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fafbae3e145b9c881ee817b25501835915d6ecea_night_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Night comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W5pGPCYAACMAPcvi",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4e7373d0-ef5a-4fcd-a3c5-7fa3537f0ccc_night_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0acfc051e29fcb3f515b4836d7f3dc3cce2a5908_night_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Night comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W5pHJiYAACQAPc_d",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W5pGPiYAACYAPcvn",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd99a35ca-c889-48bf-88c9-ec213398b76a_night_web.jpg",
+                "width": 2481,
+                "height": 2463
+              },
+              "width": 2481,
+              "height": 2463,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/eae1030dc147671337d96ca3010324bb9f38eee4_night_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Night|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Night Comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

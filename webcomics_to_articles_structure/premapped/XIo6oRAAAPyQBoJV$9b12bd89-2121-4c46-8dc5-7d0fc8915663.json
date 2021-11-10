@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Cyborgs",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XIoszBAAANILBkVP",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F56fd97c9-8401-46fb-b0eb-59dbf65aac2e_cyborg_web.jpg",
+      "width": 2500,
+      "height": 2495
+    },
+    "width": 2500,
+    "height": 2495,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/93c889b0eaa27dd657e7716edc3fd179a5597812_cyborg_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Cyborgs|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Cyborgs comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$9930a28f-6df9-4270-a2de-044c74833ca4",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are your mobile calendar, camera and calls making you into a cellular cyborg? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XIosyBAAAMQlBkU4",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd971c536-7e9b-42fe-803d-fe4b96bcb515_cyborg_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e7204b73d1cdeb13262630a78c54af44d9a4b647_cyborg_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Cyborgs|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+            "alt": "Cyborgs comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XIosyBAAAMQlBkU4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd971c536-7e9b-42fe-803d-fe4b96bcb515_cyborg_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3e9be963e51002545a39daf4f87a3338e83fb6e5_cyborg_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Cyborgs|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Cyborgs comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XIosyBAAAMQlBkU4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd971c536-7e9b-42fe-803d-fe4b96bcb515_cyborg_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7a3f731feff6ed2104746ba92a98e2b79dd93ae0_cyborg_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Cyborgs|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Cyborgs comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XIosyBAAAMQlBkU4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd971c536-7e9b-42fe-803d-fe4b96bcb515_cyborg_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/da6b7d66ad933d297f81ff99fd2e2b12fd0f1966_cyborg_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Cyborgs|Rob Bidder|||CC-BY-NC|Rob Bidder|",
+                "alt": "Cyborgs comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XIo6oRAAAPyQBoJX"
+}

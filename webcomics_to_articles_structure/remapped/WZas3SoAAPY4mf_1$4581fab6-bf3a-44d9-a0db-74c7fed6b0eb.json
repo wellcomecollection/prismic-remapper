@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Result",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WZasISoAAPY4mfy8",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F80ed37f6-27b4-4b7f-9343-dc94cae39908_bodysquabbles-16-result.jpg",
+      "width": 2000,
+      "height": 1979
+    },
+    "width": 2000,
+    "height": 1979,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4483c8265134b0482d469521c73bc80bf16c61b2_bodysquabbles-16-result.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder / CC-BY-NC",
+    "alt": "When you see the result, all the work is worth it. When you see the result, all the pain is worth it.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$8624c282-22f7-41e9-aae4-2d170b299b7e",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All the work is worth it.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WZasnioAAP1rmf7e",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F37d6ce29-92d7-49c4-a2f0-4f1e36143f73_bodysquabbles-16-result-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f889abed83b8c2d3dbd33fe3c15c4c465e7f9e0d_bodysquabbles-16-result-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WZas3SoAAPY4mf_3",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WZasISoAAPY4mfy8",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F80ed37f6-27b4-4b7f-9343-dc94cae39908_bodysquabbles-16-result.jpg",
+                "width": 2000,
+                "height": 1979
+              },
+              "width": 2000,
+              "height": 1979,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4483c8265134b0482d469521c73bc80bf16c61b2_bodysquabbles-16-result.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder / CC-BY-NC",
+              "alt": "When you see the result, all the work is worth it. When you see the result, all the pain is worth it.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

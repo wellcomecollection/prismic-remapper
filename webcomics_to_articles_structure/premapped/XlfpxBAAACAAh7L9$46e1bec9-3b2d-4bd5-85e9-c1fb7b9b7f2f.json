@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Bald",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XlfjuhAAACMAh5sV",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/335bb1ed-896c-437c-816b-d90a96dfaf84_bald.jpg",
+      "width": 2476,
+      "height": 2473
+    },
+    "width": 2476,
+    "height": 2473,
+    "url": "https://images.prismic.io/wellcomecollection/335bb1ed-896c-437c-816b-d90a96dfaf84_bald.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$602c5b58-d7aa-4adf-bd9b-1079692330b8",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Don't let your selfish hair mask your cranial beauty",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XlfpnBAAACMAh7JG",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Bald, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Bald comic by Rob Bidder (detail). ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XlfpnBAAACMAh7JG",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Bald, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Bald comic by Rob Bidder (detail). ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XlfpnBAAACMAh7JG",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Bald, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Bald comic by Rob Bidder (detail). ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XlfpnBAAACMAh7JG",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/c3eaa53b-d8db-4abf-aab0-dfbdaf4300c7_bald_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Bald, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Bald comic by Rob Bidder (detail). ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XlfpxBAAACAAh7L_"
+}

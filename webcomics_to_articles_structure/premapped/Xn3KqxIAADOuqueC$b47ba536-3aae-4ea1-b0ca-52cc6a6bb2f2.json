@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Isolation",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xn3KMhIAACToquVg",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02e38bf5-d988-4e4a-8814-dd92d89b68fa_isolation.jpg",
+      "width": 2482,
+      "height": 2487
+    },
+    "width": 2482,
+    "height": 2487,
+    "url": "https://images.prismic.io/wellcomecollection/02e38bf5-d988-4e4a-8814-dd92d89b68fa_isolation.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Isolation, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Isolation comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6eeb7dba-b292-4c2d-8d22-36c05169ec22",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Quarantine translation: terror with undertones of boredom and low level anxiety. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xn3KBRIAACgAquSL",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Isolation, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Isolation comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xn3KBRIAACgAquSL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Isolation, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Isolation comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xn3KBRIAACgAquSL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Isolation, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Isolation comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xn3KBRIAACgAquSL",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/6782864b-d8b1-4def-8542-cd0fff1bc731_isolation_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Isolation, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Isolation comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xn3KqxIAADOuqueE"
+}

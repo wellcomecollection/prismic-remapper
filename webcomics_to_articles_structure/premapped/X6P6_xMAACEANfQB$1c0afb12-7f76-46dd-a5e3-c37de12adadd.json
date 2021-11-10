@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Stuff humans like",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X6P53xMAACAANe76",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e592c1e6-15cd-4431-b35a-2e9611b57aae_StuffHumansLike.jpg",
+      "width": 3512,
+      "height": 3639
+    },
+    "width": 3512,
+    "height": 3639,
+    "url": "https://images.prismic.io/wellcomecollection/e592c1e6-15cd-4431-b35a-2e9611b57aae_StuffHumansLike.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Line drawing in 9 frames showing stuf that humans like: Sodium, Four-part harmonies; positive reinforcement; getting rid of loose change; power; putting nature in a jar; eavesdropping; trick photography and Individualism. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$c3ab6caf-2673-4807-b28b-4a745c35a07b",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Humans like a lot of things, but they're not always the same. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X6P72RMAACEANffO",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png",
+              "width": 1800,
+              "height": 900
+            },
+            "width": 1800,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Detail from 'stuff humans like' comic",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X6P72RMAACEANffO",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png",
+                  "width": 1800,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png?auto=compress,format&rect=0,28,1800,844&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.7777777777777777,
+                  "crop": {
+                    "x": 0,
+                    "y": -50
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Detail from 'stuff humans like' comic",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X6P72RMAACEANffO",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png",
+                  "width": 1800,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png?auto=compress,format&rect=100,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": -200,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Detail from 'stuff humans like' comic",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X6P72RMAACEANffO",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png",
+                  "width": 1800,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/1de4d84a-2ef9-47b1-8c62-ce703fae24f0_StuffHumansLike_promo.png?auto=compress,format&rect=450,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1600,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Detail from 'stuff humans like' comic",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X6P6_xMAACEANfQD"
+}

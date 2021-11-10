@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Anxiety",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WgLzMCUAAOrdNL8u",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F439d780a-ec60-4f8b-8eae-e9a329c77bc3_anxiety.jpg",
+      "width": 2000,
+      "height": 1989
+    },
+    "width": 2000,
+    "height": 1989,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/69550b1f4d9ed5ee78805bf8628ee77adf711c8a_anxiety.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Menstruation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Four graphic images representing different kinds of anxiexy: anxiety in my legs, anxiety in my chest, anxiety in my digestive system, anxiety in my head",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$22a63f24-d83e-46b3-8a1c-9b6798a899b5",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It’s in my legs, it’s in my chest...",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WgLzkSUAAOrdNMDZ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc4455245-519f-472c-b071-d49820622334_anxiety-feat.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a1c347164da797f5dda5b71f573b465877455fd2_anxiety-feat.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WgLuPCUAAPbaNKl0"
+}

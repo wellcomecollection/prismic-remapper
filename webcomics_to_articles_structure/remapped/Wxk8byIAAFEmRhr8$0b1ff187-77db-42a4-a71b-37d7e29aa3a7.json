@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Fantasy",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wxk6JCIAAFEmRhDM",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5a6f90b6-c428-483e-aa37-9c00441c1053_fantasy.jpg",
+      "width": 1500,
+      "height": 1485
+    },
+    "width": 1500,
+    "height": 1485,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/45c01fa9b1a7251831e2a5b039b2c84dc96eb0ae_fantasy.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fantasy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Fantasy webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$5c2e7b98-560a-45c2-a6c3-c53dacaed5ae",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your fantasies are limited only by your imagination. And sometimes a willing partner. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wxk6liIAAFEmRhKz",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1795842f-87a6-4651-b82c-38899eb0b819_fantasy_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/362f55d405143d3b2257f9950f80f0dedcfc391b_fantasy_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fantasy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Fantasy webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "Wxk6liIAAFEmRhKz",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1795842f-87a6-4651-b82c-38899eb0b819_fantasy_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ff9f57fd9c588154aebc5361c9118da2f81c9997_fantasy_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Fantasy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fantasy webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "Wxk6liIAAFEmRhKz",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F1795842f-87a6-4651-b82c-38899eb0b819_fantasy_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/239da402f4231b41f40b6e58fe81108afd04da2b_fantasy_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Fantasy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fantasy webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wxk8byIAAFEmRhr-",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wxk6JCIAAFEmRhDM",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5a6f90b6-c428-483e-aa37-9c00441c1053_fantasy.jpg",
+                "width": 1500,
+                "height": 1485
+              },
+              "width": 1500,
+              "height": 1485,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/45c01fa9b1a7251831e2a5b039b2c84dc96eb0ae_fantasy.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Fantasy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Fantasy webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

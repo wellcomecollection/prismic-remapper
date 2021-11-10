@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Worries",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XocEyxAAACQACC8K",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bd51c212-3362-4972-9dc1-89300c0db18d_worries.jpg",
+      "width": 3000,
+      "height": 3001
+    },
+    "width": 3000,
+    "height": 3001,
+    "url": "https://images.prismic.io/wellcomecollection/bd51c212-3362-4972-9dc1-89300c0db18d_worries.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Worries, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Worries comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6f9c147a-b5bf-40d3-9361-8f353cad8eac",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We worried normality would leave us. Should we worry that it could return?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XocEqRAAACEACC5x",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Worries, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Worries comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XocEqRAAACEACC5x",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Worries, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Worries comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XocEqRAAACEACC5x",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Worries, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Worries comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XocEqRAAACEACC5x",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/c3079f5d-2dd8-4ac5-8a19-183844a70433_worries_promo.jpg?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Worries, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Worries comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XocGdBAAAB8ACDaM"
+}

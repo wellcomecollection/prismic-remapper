@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Fingernails",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WquUxyAAAB8AJB1v",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc3583d10-c456-41d7-8397-84256c88d70c_fingernails.png",
+      "width": 3977,
+      "height": 3940
+    },
+    "width": 3977,
+    "height": 3940,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/376327581f3334394b09f569db18d8d02916e96e_fingernails.png",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fingernails|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Fingernails: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$030043c6-f358-4a62-929a-762fb47f9d59",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Fingernails help us to do all sorts of things, consciously or absent-mindedly.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WquVICAAACAAJB73",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb2fd2c68-a289-41b2-a54a-475480ec18c0_fingernails_promo.png",
+              "width": 2466,
+              "height": 1387
+            },
+            "width": 2466,
+            "height": 1387,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/65d4d8fe771cb49521159e790e3363075c1b7196_fingernails_promo.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fingernails|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Fingernails: A webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "WquVICAAACAAJB73",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb2fd2c68-a289-41b2-a54a-475480ec18c0_fingernails_promo.png",
+                  "width": 2466,
+                  "height": 1387
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d7dd3dd2655b4de0eddc30108dcfb78318638e34_fingernails_promo.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2.3071377072819033,
+                  "crop": {
+                    "x": -1245,
+                    "y": 0
+                  }
+                },
+                "credits": "Fingernails|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fingernails: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "WquVICAAACAAJB73",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb2fd2c68-a289-41b2-a54a-475480ec18c0_fingernails_promo.png",
+                  "width": 2466,
+                  "height": 1387
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/077accb87b0f4a788ea5fb344bc45fb4f51f251e_fingernails_promo.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 1.2977649603460706,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Fingernails|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fingernails: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WquVmCAAAB4AJCEK"
+}

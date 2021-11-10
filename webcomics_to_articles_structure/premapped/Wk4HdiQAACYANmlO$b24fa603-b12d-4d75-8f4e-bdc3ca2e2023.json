@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hair",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wk4FQCQAACQANl-L",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4aec052d-430f-43e7-bc34-f853a1e65f1a_hair.jpg",
+      "width": 2489,
+      "height": 2470
+    },
+    "width": 2489,
+    "height": 2470,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/aa98b6b7b78d38b4cae854059ca796caffb8c698_hair.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Comic about hair, and where and when humans find their hair acceptable or unpleasant. ",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$a550bd9f-7284-4d43-938f-a4d0f0d1a161",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Humans don’t like body hair. Unless they do. It depends.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wk4HJyQAACYANmft",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8265c6a7-dc8a-4b8d-be25-691b1d3e745c_hair+promo.jpg",
+              "width": 1233,
+              "height": 694
+            },
+            "width": 1233,
+            "height": 694,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5c82568174d41de7c7dc34dcd216260d172de85a_hair-promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": "Webcomic with different types of body hair in watercolour.",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wk4HdiQAACYANmlQ"
+}

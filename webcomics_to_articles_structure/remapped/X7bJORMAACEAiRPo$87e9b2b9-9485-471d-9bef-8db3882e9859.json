@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Humans are social animals",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X7bHNhMAACMAiQrp",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/97679912-7eeb-41ae-b0c9-0a26e6824a7b_Social+animals.png",
+      "width": 2768,
+      "height": 2723
+    },
+    "width": 2768,
+    "height": 2723,
+    "url": "https://images.prismic.io/wellcomecollection/97679912-7eeb-41ae-b0c9-0a26e6824a7b_Social+animals.png?auto=compress,format",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Line drawing in 9 frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$77baceb2-8055-4c33-978a-9b0bd418f154",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "And yet we still can't agree...",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X7bRxhMAACAAiTqQ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Worry Lines comic (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X7bRxhMAACAAiTqQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X7bRxhMAACAAiTqQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X7bRxhMAACAAiTqQ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/596ade1b-241f-47cd-94fd-377c56c32a4d_SocialAnimalsPromo2.png?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X7bJORMAACEAiRPq",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X7bHNhMAACMAiQrp",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/97679912-7eeb-41ae-b0c9-0a26e6824a7b_Social+animals.png",
+                "width": 2768,
+                "height": 2723
+              },
+              "width": 2768,
+              "height": 2723,
+              "url": "https://images.prismic.io/wellcomecollection/97679912-7eeb-41ae-b0c9-0a26e6824a7b_Social+animals.png?auto=compress,format",
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "© Worry Lines for Wellcome Collection",
+              "alt": "Line drawing in 9 frames",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

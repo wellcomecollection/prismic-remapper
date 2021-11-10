@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Chlorine",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W37ZDh4AACIAXSIy",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F23fcd7fa-8d12-4680-95f9-a91adededacc_chlorine_web.jpg",
+      "width": 2478,
+      "height": 2470
+    },
+    "width": 2478,
+    "height": 2470,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/848d9b0e81933574fb3a90a5acdb9daad06a3e16_chlorine_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Chlorine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Chlorine web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$ee088844-e1ad-4837-b00e-756d28fb950f",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Just because it smells good doesn't make it sniffable.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W37ZDB4AAB8AXSIt",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8a4e211b-aefa-4734-9936-cceed12e0b7a_chlorine_webpromo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bf702dec77920182844ab292537f7c5cfc3822a8_chlorine_webpromo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Chlorine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Chlorine web comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "W37ZDB4AAB8AXSIt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8a4e211b-aefa-4734-9936-cceed12e0b7a_chlorine_webpromo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f2c2ad96ab4a526659cea0c4782245ed216afad0_chlorine_webpromo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Chlorine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Chlorine web comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W37ZDB4AAB8AXSIt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8a4e211b-aefa-4734-9936-cceed12e0b7a_chlorine_webpromo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ee701e938e52b302faedadf8e1951c91649232d1_chlorine_webpromo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Chlorine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Chlorine web comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W37ayx4AACEAXSmo",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W37ZDh4AACIAXSIy",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F23fcd7fa-8d12-4680-95f9-a91adededacc_chlorine_web.jpg",
+                "width": 2478,
+                "height": 2470
+              },
+              "width": 2478,
+              "height": 2470,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/848d9b0e81933574fb3a90a5acdb9daad06a3e16_chlorine_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Chlorine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Chlorine web comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

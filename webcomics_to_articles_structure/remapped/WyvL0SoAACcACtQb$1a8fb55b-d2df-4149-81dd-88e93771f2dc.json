@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Faces",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WyvLOSoAACkACtGC",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4f4328cf-80a8-4b44-bbf2-02235ab60bb9_faces_web.jpg",
+      "width": 2486,
+      "height": 2460
+    },
+    "width": 2486,
+    "height": 2460,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/024b46b4aef6124aad6726fb7f9d2d21dec65bb7_faces_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Faces|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Faces comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$225643cd-d0b3-4e8d-9840-1a1b718e53ac",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your face is a unique landscape. Do you like the terrain you see?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WyvLcSoAACsACtKE",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F223dbe0b-3caf-4304-82e5-00806fd3b664_faces_promo.jpg",
+              "width": 1219,
+              "height": 686
+            },
+            "width": 1219,
+            "height": 686,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/231f5ba30fe766606e971f91fd9258e1e5bc86ce_faces_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Faces|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Faces comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WyvLcSoAACsACtKE",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F223dbe0b-3caf-4304-82e5-00806fd3b664_faces_promo.jpg",
+                  "width": 1219,
+                  "height": 686
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2f7731e9afa66acbe1434ac818c26a884e277a1b_faces_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.6251025430680888,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Faces|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Faces comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WyvLcSoAACsACtKE",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F223dbe0b-3caf-4304-82e5-00806fd3b664_faces_promo.jpg",
+                  "width": 1219,
+                  "height": 686
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d95c274f97b5deb8047f8db8ef490fd7420b04df_faces_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.664723032069971,
+                  "crop": {
+                    "x": -1243,
+                    "y": 0
+                  }
+                },
+                "credits": "Faces|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Faces comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WyvL0SoAACcACtQd",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WyvLOSoAACkACtGC",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4f4328cf-80a8-4b44-bbf2-02235ab60bb9_faces_web.jpg",
+                "width": 2486,
+                "height": 2460
+              },
+              "width": 2486,
+              "height": 2460,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/024b46b4aef6124aad6726fb7f9d2d21dec65bb7_faces_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Faces|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Faces comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

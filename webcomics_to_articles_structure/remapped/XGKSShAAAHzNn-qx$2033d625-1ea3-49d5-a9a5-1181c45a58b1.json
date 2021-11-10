@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Empathy",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XGKR5BAAAGnOn-jw",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fee97fd6a-bc60-4bfe-b443-77ee9cb3ac9f_empathy_web.jpg",
+      "width": 2000,
+      "height": 1994
+    },
+    "width": 2000,
+    "height": 1994,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4fce5a2dd16549dadbbf5dc8ae82e2a0e6deb0e7_empathy_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Empathy comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$899dce4e-9498-42b0-a389-3cba2024190f",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Putting yourself in someone else's shoes might only make it harder for both of you to walk. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XGKRZxAAAHzNn-bJ",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ed9c7f5-fdfa-47d0-bd5c-5ef7c121b575_empathy_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b4fcdc3b3324ffc106ebf606400e2c7a129f7e32_empathy_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Empathy comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XGKRZxAAAHzNn-bJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ed9c7f5-fdfa-47d0-bd5c-5ef7c121b575_empathy_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/dde8d03a098aa07e7dfc87f4344698f3365bca10_empathy_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Empathy comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XGKRZxAAAHzNn-bJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ed9c7f5-fdfa-47d0-bd5c-5ef7c121b575_empathy_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/624b4dff4afaccf2c21e52a90a5ca566a733be72_empathy_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Empathy comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XGKRZxAAAHzNn-bJ",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ed9c7f5-fdfa-47d0-bd5c-5ef7c121b575_empathy_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/15a645315ba67fb891f6f5ab90011bd3e41c5356_empathy_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Empathy comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XGKSShAAAHzNn-qz",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XGKR5BAAAGnOn-jw",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fee97fd6a-bc60-4bfe-b443-77ee9cb3ac9f_empathy_web.jpg",
+                "width": 2000,
+                "height": 1994
+              },
+              "width": 2000,
+              "height": 1994,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4fce5a2dd16549dadbbf5dc8ae82e2a0e6deb0e7_empathy_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Empathy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Empathy comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

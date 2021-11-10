@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Shadows",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WfGgKSoAAK9XUY40",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F79fbf459-19fa-4070-821d-21fb5615b58b_bodysquabbles-24-shadows.jpg",
+      "width": 2000,
+      "height": 1976
+    },
+    "width": 2000,
+    "height": 1976,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c986c0d86b9895ec30d0ff97f95e8cdb2a8e2a2c_bodysquabbles-24-shadows.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Shadows|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "The visible light spectrum can't pass through the body. This can be used for anthropomorphic purposes. Follow the shape of my finger. Woof!",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b9dc756f-b80a-47d7-98ed-e84ae254d947",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The visible light spectrum can’t pass through the body.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WfGgiCoAAK9XUY_X",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcb7fe4bf-cc9d-49b6-9198-10e58fbaa36b_bodysquabbles-24-shadows-thumb.jpg",
+              "width": 2000,
+              "height": 1126
+            },
+            "width": 2000,
+            "height": 1126,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/29347d345dfcf3ed71046ee34f96edcb322ffb74_bodysquabbles-24-shadows-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WfGcFyoAADtXUXw1",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WfGgKSoAAK9XUY40",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F79fbf459-19fa-4070-821d-21fb5615b58b_bodysquabbles-24-shadows.jpg",
+                "width": 2000,
+                "height": 1976
+              },
+              "width": 2000,
+              "height": 1976,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c986c0d86b9895ec30d0ff97f95e8cdb2a8e2a2c_bodysquabbles-24-shadows.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Shadows|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "The visible light spectrum can't pass through the body. This can be used for anthropomorphic purposes. Follow the shape of my finger. Woof!",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

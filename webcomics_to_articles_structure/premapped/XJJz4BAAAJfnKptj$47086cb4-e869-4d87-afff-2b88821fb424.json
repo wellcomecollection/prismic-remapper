@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Fascia",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XJJxrxAAAJfnKpHH",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff1585aac-a31d-459a-ae2e-859bc133efd4_fascia_web.jpg",
+      "width": 2479,
+      "height": 2473
+    },
+    "width": 2479,
+    "height": 2473,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/06f7a0c0042a594312c2b7594a508af1e1d8ae43_fascia_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Fascia|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Fascia comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$7430f866-ee75-4cf6-a518-321ed44b1e3a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Fascia holds you all together like an organic hairnet. Fascia is your friend. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XJJxrBAAAPCQKpG4",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9f624bb3-6aa9-402f-931a-854d65089af7_fascia_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e069711d9a1ad667d174dbe4c67429ee0de56b81_fascia_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Fascia|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Fascia comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XJJxrBAAAPCQKpG4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9f624bb3-6aa9-402f-931a-854d65089af7_fascia_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ea6ec80a433123b8c0565ef33fbf0e5a9d4d9027_fascia_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Fascia|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fascia comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XJJxrBAAAPCQKpG4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9f624bb3-6aa9-402f-931a-854d65089af7_fascia_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e08ba521972c22de936b1102f5023e55fde942e7_fascia_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Fascia|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fascia comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XJJxrBAAAPCQKpG4",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F9f624bb3-6aa9-402f-931a-854d65089af7_fascia_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f3ea4b6552b5b5a82f92f70cd50483e47fde6095_fascia_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Fascia|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Fascia comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XJJz4BAAAJfnKptl"
+}

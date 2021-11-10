@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Migraine",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XFP6chUAAMSzrgCP",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F134da7c9-12d8-4d9c-b950-29aeb3f6c6b0_migraine.jpg",
+      "width": 3723,
+      "height": 3690
+    },
+    "width": 3723,
+    "height": 3690,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e2994ec18db662ba3ac5ff64f2b56acd014f3a86_migraine.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$73a9b389-1320-44f4-9c56-2ca425bef68d",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Migraines are earthquakes in your head and their seismic effects can feel just as devastating.  ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XFMqnhUAAPGIqm48",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc0417769-4d0f-4d4a-a0ad-e181f18eb6e9_migraine_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f3e8f52fc7585392798c93acd713b2fcd892e3cf_migraine_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Migraine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Migraine comic by Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "XFMqnhUAAPGIqm48",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc0417769-4d0f-4d4a-a0ad-e181f18eb6e9_migraine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/edf953e08475e39a903529fa2528830c4758c2bf_migraine_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Migraine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Migraine comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XFMqnhUAAPGIqm48",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc0417769-4d0f-4d4a-a0ad-e181f18eb6e9_migraine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e82c32bc746266e3839815865aa01c59d56addc1_migraine_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Migraine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Migraine comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XFMqnhUAAPGIqm48",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc0417769-4d0f-4d4a-a0ad-e181f18eb6e9_migraine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b0e745b0933a116a99e38cf71e320dc17161128c_migraine_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Migraine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Migraine comic by Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XFMtDBUAAAeIqnj6"
+}

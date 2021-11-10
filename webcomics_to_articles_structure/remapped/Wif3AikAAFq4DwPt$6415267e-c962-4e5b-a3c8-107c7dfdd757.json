@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dead",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wif2RSkAAB60DwCt",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ba5d7e9-35ef-4722-955d-360d78451232_dead2.jpg",
+      "width": 4960,
+      "height": 4920
+    },
+    "width": 4960,
+    "height": 4920,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f8f2142a314512c75b938f0bdbf5e2ca0c0b621b_dead2.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Dead|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "When I am dead, I want my body to enrich the soil. Imagine being a beautiful worm body pushing through that soil. When I am a worm, I want my body to nourish other beings. Imagine being a bird body feeling cool wind under wing.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$6f4bd6b4-acf5-4279-92b8-4dac75907ed2",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When I am dead, I want my body to enrich the soil.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wif2yCkAAIRkDwLt",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdc9d41f4-2270-4d72-87fc-8a96325a0d67_dead_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1ebf429beb57569ea5d6a56bcad7cfd23a2eb6f6_dead_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wif3AikAAFq4DwPv",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wif2RSkAAB60DwCt",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0ba5d7e9-35ef-4722-955d-360d78451232_dead2.jpg",
+                "width": 4960,
+                "height": 4920
+              },
+              "width": 4960,
+              "height": 4920,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f8f2142a314512c75b938f0bdbf5e2ca0c0b621b_dead2.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Dead|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "When I am dead, I want my body to enrich the soil. Imagine being a beautiful worm body pushing through that soil. When I am a worm, I want my body to nourish other beings. Imagine being a bird body feeling cool wind under wing.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

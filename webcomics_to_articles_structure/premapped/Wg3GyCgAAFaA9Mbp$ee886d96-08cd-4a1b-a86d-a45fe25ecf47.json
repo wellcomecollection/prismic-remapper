@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Bones",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wg3F6ygAAP119MMY",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4ae287ca-dae6-4c74-abbc-22aadbb2aa11_bodysquabbles-27-bones.jpg",
+      "width": 2000,
+      "height": 1987
+    },
+    "width": 2000,
+    "height": 1987,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/960a45baff2ce03632ea52c26f3f3b48b9d02651_bodysquabbles-27-bones.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Bones|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Neat bones, flush and fitting together nicely. Fractured, worn, splintered bones. Exposed bone marrow, vulnerable and sensitive. Healed bones, altered but with history and personality, with potential to work well.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3fda7c2b-284f-45f6-9eca-791fa90899fb",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Neat bones, flush and fitting together nicely.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wg3GfygAAP119MWj",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F55bba3a6-5cd8-45d7-869e-3a305f45d6d6_bodysquabbles-27-bones-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9c23fe297bcd8308101f245542e20948f07acd1d_bodysquabbles-27-bones-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wg3GyCgAAFaA9Mbr"
+}

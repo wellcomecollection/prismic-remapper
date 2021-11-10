@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Glass",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XJyamBAAAEtQVoHO",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F554bddc3-8736-4b23-9ea2-f1468d79b245_glass_web.jpg",
+      "width": 2493,
+      "height": 2470
+    },
+    "width": 2493,
+    "height": 2470,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b24893fba5a4218d0b792eb650480e37427d4b74_glass_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Glass comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$490f21fa-0707-4532-8cdd-2e7f7b048d91",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Glasses help your eyes see more clearly but magnifying glass makes them superhuman. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XJyalRAAAEtQVoHB",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F91f6a907-8131-4f29-a9ae-36c2030fd830_glass_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5df66d05c9090fff143af2177db3d79127fea33c_glass_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Glass comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XJyalRAAAEtQVoHB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F91f6a907-8131-4f29-a9ae-36c2030fd830_glass_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b7f1199eb988fa792c2fa801df487369ad293922_glass_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Glass comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XJyalRAAAEtQVoHB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F91f6a907-8131-4f29-a9ae-36c2030fd830_glass_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ef60295fda8d7e85ef7c9f0c5221e2ee3e13051f_glass_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Glass comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XJyalRAAAEtQVoHB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F91f6a907-8131-4f29-a9ae-36c2030fd830_glass_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3127232894e212c3399cf56b8dbcd39f11a581bf_glass_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Glass comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XJyeCxAAAJwJVpEE",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XJyamBAAAEtQVoHO",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F554bddc3-8736-4b23-9ea2-f1468d79b245_glass_web.jpg",
+                "width": 2493,
+                "height": 2470
+              },
+              "width": 2493,
+              "height": 2470,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b24893fba5a4218d0b792eb650480e37427d4b74_glass_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Glass|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Glass comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Medal",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuioAAIpZQ6Hi",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F359b9744-2153-4060-8009-be4d73a85ab9_bodysquabbles-07-medal.jpg",
+      "width": 2000,
+      "height": 1976
+    },
+    "width": 2000,
+    "height": 1976,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/94e2ee1e72e6a2c0d6eb0db108671eed4c2a7707_bodysquabbles-07-medal.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Medal: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You would certainly never wear it on your ankle.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAL65Q6G_",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff2815a29-2e65-4f85-a41e-43be92be3428_bodysquabbles-07-medal-thumb.jpg",
+              "width": 1000,
+              "height": 562
+            },
+            "width": 1000,
+            "height": 562,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0f2ae929212817bbd1faeeb57b2aaad2b5990f5a_bodysquabbles-07-medal-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Medal: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-15T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjZjioAAItZQ7vG",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTuioAAIpZQ6Hi",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F359b9744-2153-4060-8009-be4d73a85ab9_bodysquabbles-07-medal.jpg",
+                "width": 2000,
+                "height": 1976
+              },
+              "width": 2000,
+              "height": 1976,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/94e2ee1e72e6a2c0d6eb0db108671eed4c2a7707_bodysquabbles-07-medal.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Medal: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

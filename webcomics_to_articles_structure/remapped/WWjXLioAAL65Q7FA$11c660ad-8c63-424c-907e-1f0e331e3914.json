@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Keyholes",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTtyoAAItZQ6HP",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa009960a-3415-4aeb-a69d-f6a1a13ad6a5_bodysquabbles-03-keyholes.jpg",
+      "width": 2000,
+      "height": 1986
+    },
+    "width": 2000,
+    "height": 1986,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/12d212df9ebdd3f1ea40dd961d266750ca7993d1_bodysquabbles-03-keyholes.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Keyholes: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Picking a lock is easy when you use the tools at your disposal.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAL65Q6HE",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa922bc95-902e-4951-9169-667d2480d97f_bodysquabbles-03-keyholes-thumb.jpg",
+              "width": 972,
+              "height": 547
+            },
+            "width": 972,
+            "height": 547,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/24af54dfcfe27f8e60384e225291cfe791201c14_bodysquabbles-03-keyholes-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Keyholes: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-05-18T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjXLioAAL65Q7FC",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjTtyoAAItZQ6HP",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa009960a-3415-4aeb-a69d-f6a1a13ad6a5_bodysquabbles-03-keyholes.jpg",
+                "width": 2000,
+                "height": 1986
+              },
+              "width": 2000,
+              "height": 1986,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/12d212df9ebdd3f1ea40dd961d266750ca7993d1_bodysquabbles-03-keyholes.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Keyholes: A webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Birthmarks",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WnCZ5ioAACgA6GPr",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb22b1614-4d37-43ca-aa82-dd8e5ad8d9de_boddysquabbles-birthmarks.jpg",
+      "width": 2484,
+      "height": 2452
+    },
+    "width": 2484,
+    "height": 2452,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/562000a49b1559bf54e03012f8235740f1f58fe9_boddysquabbles-birthmarks.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "A hand drawn comic exploring the meaning of birthmarks on the body.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b1de1eb8-d33d-4c63-b50d-79a2ead739c9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What do their shapes tell us?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WnCa_CoAACgA6Gi1",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8a51ec13-a7cd-4524-9a95-be38093dafee_birthmarks+16x9.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c17ef0747b2be73715cb0ba94fd7b5dec55924d6_birthmarks-16x9.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WnCaRSoAACoA6GWM",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WnCZ5ioAACgA6GPr",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fb22b1614-4d37-43ca-aa82-dd8e5ad8d9de_boddysquabbles-birthmarks.jpg",
+                "width": 2484,
+                "height": 2452
+              },
+              "width": 2484,
+              "height": 2452,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/562000a49b1559bf54e03012f8235740f1f58fe9_boddysquabbles-birthmarks.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "A hand drawn comic exploring the meaning of birthmarks on the body.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

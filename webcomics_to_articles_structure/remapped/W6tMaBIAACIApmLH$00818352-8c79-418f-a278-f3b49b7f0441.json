@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Clothes",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W6tL1hIAACIApmBI",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F888e2835-38a5-4223-9f2d-77cbcb5f6880_clothes_web.jpg",
+      "width": 2483,
+      "height": 2459
+    },
+    "width": 2483,
+    "height": 2459,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b6b2b79dfd1c28efef9e4e691d2296c070d90acd_clothes_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Clothes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Clothes comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$2cb7fb78-7d82-4fe9-94d2-9a787ff1a7c7",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wearing someone's clothes is the closest you'll get to wearing their skin. Hopefully. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W6tL0xIAACIApmA5",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F413734de-57f2-4481-a9af-a9e9cf58c86d_clothes_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ab7d4a32f30979c909c1edbbe17ae8de53b46868_clothes_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Clothes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Clothes comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W6tL0xIAACIApmA5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F413734de-57f2-4481-a9af-a9e9cf58c86d_clothes_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ff3e0114014024472b50cc1b5482ac92d0f3f82b_clothes_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Clothes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Clothes comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W6tL0xIAACIApmA5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F413734de-57f2-4481-a9af-a9e9cf58c86d_clothes_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/921eca22fc07f7530a00124431481c9ca9755058_clothes_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Clothes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Clothes comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W6tMaBIAACIApmLJ",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W6tL1hIAACIApmBI",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F888e2835-38a5-4223-9f2d-77cbcb5f6880_clothes_web.jpg",
+                "width": 2483,
+                "height": 2459
+              },
+              "width": 2483,
+              "height": 2459,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b6b2b79dfd1c28efef9e4e691d2296c070d90acd_clothes_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Clothes|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Clothes comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

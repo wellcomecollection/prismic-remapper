@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Mouth",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WwaJ1CAAAFvzGIMV",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F77f23936-a924-4318-aa14-a04382f697c5_mouth.jpg",
+      "width": 2000,
+      "height": 1978
+    },
+    "width": 2000,
+    "height": 1978,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ea8dd70b8788468e6fbcf4bd2e232539851533c2_mouth.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Mouth|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Mouth webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$96255853-6049-4a5e-a5e4-2b7326dcc495",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What kinds of flora and fauna do you cultivate in your mouth?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WwaJmCAAAPgHGIIR",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fad02dbfc-7a34-465c-ac67-eff992fe8c80_mouth_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7630b765aa1c72e6f75cc5a48eed82bf0fe36802_mouth_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Mouth|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Mouth webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WwaJmCAAAPgHGIIR",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fad02dbfc-7a34-465c-ac67-eff992fe8c80_mouth_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9a50607c5a5ea8630bad2245f76f7ad8b3b31675_mouth_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Mouth|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Mouth webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WwaJmCAAAPgHGIIR",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fad02dbfc-7a34-465c-ac67-eff992fe8c80_mouth_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/cdcd6233e15e6ca29249668a6c4cd04f5ac12c9f_mouth_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Mouth|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Mouth webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WwaLyyAAAPkHGIvS",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WwaJ1CAAAFvzGIMV",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F77f23936-a924-4318-aa14-a04382f697c5_mouth.jpg",
+                "width": 2000,
+                "height": 1978
+              },
+              "width": 2000,
+              "height": 1978,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ea8dd70b8788468e6fbcf4bd2e232539851533c2_mouth.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Mouth|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Mouth webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

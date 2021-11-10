@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Gym",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XU0wBRMAACAAirx4",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F28d7bc51-1e8e-46e9-a0ab-4f58d2fadd70_gym.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/73c7277f0f14b29d70633f99e70f3dc2590ae707_gym.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Gym, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Gym comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$eb0e42cc-245a-4cac-8fac-1a82fe212a98",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You run, you lift, you sweat, you gym. You are a human generator. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XU0v5RMAACMAirvn",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5e348788-8160-4806-8537-51ec23d059a6_gym_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1dfb0c946cf971b18e6864df0da4e4737e1cd231_gym_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Gym, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "Gym comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XU0v5RMAACMAirvn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5e348788-8160-4806-8537-51ec23d059a6_gym_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2c63522523f1980f0760abd62fe96bf54dcc7937_gym_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Gym, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Gym comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XU0v5RMAACMAirvn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5e348788-8160-4806-8537-51ec23d059a6_gym_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/69d4431087c1307029703e3a4d2ac4f7450b6f6d_gym_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Gym, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Gym comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XU0v5RMAACMAirvn",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5e348788-8160-4806-8537-51ec23d059a6_gym_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1906f64b79d1eae0c8736539932b8e99d6616207_gym_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Gym, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "Gym comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XU0y9BMAACEAisld"
+}

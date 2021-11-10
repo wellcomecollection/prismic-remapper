@@ -1,0 +1,140 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Blood",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WjJRAysAAJCKhcaJ",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F033e0037-62f0-4eec-8c34-14ee475f0630_blood-main.jpg",
+      "width": 2000,
+      "height": 1990
+    },
+    "width": 2000,
+    "height": 1990,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02a72d28437b4f72e30c94ef67422c8f11b675e8_blood-main.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Blood|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Four drawings of blood circulating, red blood cells and bleeding fingers.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b4b7e5ae-31a7-4882-ab06-670136395fe9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Helpful redness alerting you to leaks.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WjJRtSsAAI6Khcmp",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F23f4a27e-6f9e-457b-84a9-bd52fd9a55ba_blood-feat.jpg",
+              "width": 2000,
+              "height": 1120
+            },
+            "width": 2000,
+            "height": 1120,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b613ce04affa0426aeb874bd331199fb0bfce36d_blood-feat.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Blood|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Drawing of the blood flowing from a finger with the tip cut off.",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WjJSQCsAAI6Khcwc",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WjJRAysAAJCKhcaJ",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F033e0037-62f0-4eec-8c34-14ee475f0630_blood-main.jpg",
+                "width": 2000,
+                "height": 1990
+              },
+              "width": 2000,
+              "height": 1990,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/02a72d28437b4f72e30c94ef67422c8f11b675e8_blood-main.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Blood|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Four drawings of blood circulating, red blood cells and bleeding fingers.",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

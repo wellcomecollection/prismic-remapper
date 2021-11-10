@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Heart",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wth2VSAAAOObLZyR",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fed94069b-afa0-4d00-ac32-e1ab08785521_heart.jpg",
+      "width": 2484,
+      "height": 2466
+    },
+    "width": 2484,
+    "height": 2466,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/30d6fac863e84576f92b779cff055a6d37688a9c_heart.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Heart|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Heart comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$78cb30ff-c2c2-4093-ab4a-9073c6c5b125",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tune in to the beat of your heart. What does it say?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wth2JSAAAOSbLZu-",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5b364799-3c93-49ea-86ee-01f97716d50f_heart_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/062bfe1d9c48dba9a5b2caf02d9d6902e023aeb7_heart_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Heart|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Heart comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "Wth2JSAAAOSbLZu-",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5b364799-3c93-49ea-86ee-01f97716d50f_heart_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2b7490354179c8b08f3bc0669d8cbbf178eaa016_heart_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Heart|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Heart comic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "Wth2JSAAAOSbLZu-",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5b364799-3c93-49ea-86ee-01f97716d50f_heart_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3d398a9ea46d5dc7079722107ce306819d48eb34_heart_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Heart|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Heart comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wth5NSAAAOabLak_",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "Wth2VSAAAOObLZyR",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fed94069b-afa0-4d00-ac32-e1ab08785521_heart.jpg",
+                "width": 2484,
+                "height": 2466
+              },
+              "width": 2484,
+              "height": 2466,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/30d6fac863e84576f92b779cff055a6d37688a9c_heart.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Heart|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Heart comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

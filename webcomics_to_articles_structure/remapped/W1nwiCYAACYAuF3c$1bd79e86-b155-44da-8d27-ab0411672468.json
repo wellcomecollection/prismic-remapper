@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Intelligence",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W1neaSYAACcAuA5C",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6fe06314-3fac-4bdc-9441-ebc1cb74225f_intelligence_web.jpg",
+      "width": 2481,
+      "height": 2470
+    },
+    "width": 2481,
+    "height": 2470,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c322f27de966171110ea10c53c7ea7956f9859d3_intelligence_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Intelligence|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Intelligence webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3865737f-fdc1-4de3-89e2-0e02f891301a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Intelligence might improve your social status, but social approval all depends on your attitude to it. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W1nebSYAACcAuA5R",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5f576bbf-1f22-4146-94e0-6943bc5b0c8b_intelligence_promo.jpg",
+              "width": 1232,
+              "height": 693
+            },
+            "width": 1232,
+            "height": 693,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/4656cefee499089fe96e3dd69cbeede56ca0c266_intelligence_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Intelligence|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Intelligence webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W1nebSYAACcAuA5R",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5f576bbf-1f22-4146-94e0-6943bc5b0c8b_intelligence_promo.jpg",
+                  "width": 1232,
+                  "height": 693
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/67d66e671a5b04cb4c0c8fec1432300a0c13952f_intelligence_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.5974025974025974,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Intelligence|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Intelligence webcomic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W1nebSYAACcAuA5R",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F5f576bbf-1f22-4146-94e0-6943bc5b0c8b_intelligence_promo.jpg",
+                  "width": 1232,
+                  "height": 693
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6949aa6f8ed256c80a5a35617655335282c9ae23_intelligence_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.617604617604617,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Intelligence|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Intelligence webcomic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W1nwiCYAACYAuF3e",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "W1neaSYAACcAuA5C",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6fe06314-3fac-4bdc-9441-ebc1cb74225f_intelligence_web.jpg",
+                "width": 2481,
+                "height": 2470
+              },
+              "width": 2481,
+              "height": 2470,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c322f27de966171110ea10c53c7ea7956f9859d3_intelligence_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Intelligence|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Intelligence webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

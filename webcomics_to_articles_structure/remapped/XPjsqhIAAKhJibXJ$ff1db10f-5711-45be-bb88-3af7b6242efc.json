@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Happiness",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XPjrwhIAAJhHibG2",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F26cf79ea-675a-4693-8b91-57c6695ca8b4_happiness_web.jpg",
+      "width": 2500,
+      "height": 2457
+    },
+    "width": 2500,
+    "height": 2457,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8c5cbabdd8aedab35e3d3aa4d5526fd5aee911e4_happiness_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Happiness comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$98866045-4d1f-439b-8db2-61588cabcc8a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If happiness had a flavour, what would it taste like? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XPjrvxIAAKhJibGm",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7b103830-74de-4dc0-a6dc-e0a7cd6bc5d2_happiness_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/664440dab5fb060d7c0ad989de9493259fb89a0c_happiness_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Happiness comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XPjrvxIAAKhJibGm",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7b103830-74de-4dc0-a6dc-e0a7cd6bc5d2_happiness_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6e537cafdec5f3a439b61c2a853586eee271dd6a_happiness_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Happiness comic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XPjrvxIAAKhJibGm",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7b103830-74de-4dc0-a6dc-e0a7cd6bc5d2_happiness_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8bf1aebf186dfc4d964a475712827d49a68f7602_happiness_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Happiness comic by Rob Bidder",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XPjrvxIAAKhJibGm",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F7b103830-74de-4dc0-a6dc-e0a7cd6bc5d2_happiness_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a0f5e8f90593e9ca00415b52a67c17720ff4f5cf_happiness_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Happiness comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XPjsqhIAAKhJibXL",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XPjrwhIAAJhHibG2",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F26cf79ea-675a-4693-8b91-57c6695ca8b4_happiness_web.jpg",
+                "width": 2500,
+                "height": 2457
+              },
+              "width": 2500,
+              "height": 2457,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8c5cbabdd8aedab35e3d3aa4d5526fd5aee911e4_happiness_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Happiness|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Happiness comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

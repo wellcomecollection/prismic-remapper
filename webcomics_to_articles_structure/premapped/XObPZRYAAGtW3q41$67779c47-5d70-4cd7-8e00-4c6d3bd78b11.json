@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Infant",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XObO6RYAAHdU3qwK",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8734a9f7-4d87-45cb-939a-3038fede08fa_infant_web.jpg",
+      "width": 1500,
+      "height": 1480
+    },
+    "width": 1500,
+    "height": 1480,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/382c05ca0b708a056ab52d4ae1b3b2b2ab94109b_infant_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Infant|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Infant comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$792bddba-0f07-46b6-93ad-238b3136c3b6",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sniffing, touching, poking, prodding. What if adults were treated like babies?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XObO6BYAAHZV3qwB",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe9d45dfa-e7ea-4a83-845f-9a438cb127ed_infant_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a79f38f548ce822195ec6196680ee347d5f39fc4_infant_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Infant|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Infant comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XObO6BYAAHZV3qwB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe9d45dfa-e7ea-4a83-845f-9a438cb127ed_infant_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/9d19660b7bcf0b59acde2a6b58986048765185c8_infant_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Infant|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Infant comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XObO6BYAAHZV3qwB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe9d45dfa-e7ea-4a83-845f-9a438cb127ed_infant_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e4ca82a39b5a327a771a2035c741b1649f69fe78_infant_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Infant|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Infant comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XObO6BYAAHZV3qwB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fe9d45dfa-e7ea-4a83-845f-9a438cb127ed_infant_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/58954b37c4951d58cd8d865893b84ccf3735db60_infant_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Infant|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Infant comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XObPZRYAAGtW3q43"
+}

@@ -1,0 +1,151 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hierarchy",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WvRgYSIAAKZfAUlx",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fc55cf31f-95a4-4ce1-af77-dd9433edaead_hierarchy1.jpg",
+      "width": 2475,
+      "height": 2468
+    },
+    "width": 2475,
+    "height": 2468,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/46eab671fb85c600fdbbc4f7a0d3930647374c17_hierarchy1.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Hierarchy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Hierarchy web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$14a2c378-6b2d-4a17-8e46-bdecb5555fa8",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ranked, graded and ordered into a structure that bestows and denies authority. But for who?",
+                "spans": [
+                  {
+                    "start": 43,
+                    "end": 44,
+                    "type": "em"
+                  }
+                ]
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WvRhdyIAAB5oAU5K",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa8c72b46-5fd1-486a-8119-be55ecbaa81a_hierarchy1_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5473a30a51b35cc6bb04849ece77dd800a9a890b_hierarchy1_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Hierarchy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Hierarchy webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WvRhdyIAAB5oAU5K",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa8c72b46-5fd1-486a-8119-be55ecbaa81a_hierarchy1_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c59c1031d6e6092215e43ace4740747175ee8618_hierarchy1_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Hierarchy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hierarchy webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WvRhdyIAAB5oAU5K",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa8c72b46-5fd1-486a-8119-be55ecbaa81a_hierarchy1_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5cbb9c74c25abb89ee335a71fb2950bad670841a_hierarchy1_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Hierarchy|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Hierarchy webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WvRjLyIAAKZfAVYE"
+}

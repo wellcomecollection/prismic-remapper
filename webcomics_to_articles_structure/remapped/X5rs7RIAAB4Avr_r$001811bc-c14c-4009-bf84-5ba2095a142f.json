@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "What distinguishes the human?",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X5rpghIAAB0AvrBp",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/592beb64-bc28-4924-91c9-962b10b398cf_WorryLines.png",
+      "width": 3512,
+      "height": 3639
+    },
+    "width": 3512,
+    "height": 3639,
+    "url": "https://images.prismic.io/wellcomecollection/592beb64-bc28-4924-91c9-962b10b398cf_WorryLines.png?auto=compress,format",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Line drawing in nine frames showing a human holding a potato and questioning what distinguishes a human from the vegetable.",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$546bc851-5c47-4ff7-a474-47fe43985877",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are we human, or are we just potatoes with feelings?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X5rpQxIAAB8Avq9K",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png",
+              "width": 1600,
+              "height": 901
+            },
+            "width": 1600,
+            "height": 901,
+            "url": "https://images.prismic.io/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Line drawing of a human holding a potato",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X5rpQxIAAB8Avq9K",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png?auto=compress,format&rect=0,76,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -151
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Line drawing of a human holding a potato",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X5rpQxIAAB8Avq9K",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png?auto=compress,format&rect=0,1,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -1
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Line drawing of a human holding a potato",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X5rpQxIAAB8Avq9K",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/fd1ce5a8-3bbe-4ea4-a430-93ec1050d842_WorryLines_promo.png?auto=compress,format&rect=349,0,901,901&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.551609322974473,
+                  "crop": {
+                    "x": -1241,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Line drawing of a human holding a potato",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X5rs7RIAAB4Avr_t",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X5rpghIAAB0AvrBp",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/592beb64-bc28-4924-91c9-962b10b398cf_WorryLines.png",
+                "width": 3512,
+                "height": 3639
+              },
+              "width": 3512,
+              "height": 3639,
+              "url": "https://images.prismic.io/wellcomecollection/592beb64-bc28-4924-91c9-962b10b398cf_WorryLines.png?auto=compress,format",
+              "edit": {
+                "background": "transparent",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "© Worry Lines for Wellcome Collection",
+              "alt": "Line drawing in nine frames showing a human holding a potato and questioning what distinguishes a human from the vegetable.",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Moon",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wh7LFSkAACsAoOFc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcce45bde-1c8c-4039-9b95-c369cb836366_moon.jpg",
+      "width": 2000,
+      "height": 1979
+    },
+    "width": 2000,
+    "height": 1979,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ea28d135268bc42dfd0f8c36effd282ecf6b16eb_moon.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Moon|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "The moon has some kind of effect on the tide. Some people say that it effects human behaviour too. Apparently this has been scientifically disproven. But I like to believe it anyway. ",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$d8a8aacf-24a2-45a3-9682-7c88fb166af9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The moon has some kind of effect on the tides, but does it really affect you?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wh7LYikAACkAoOKr",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F723b1319-a77b-4b44-9720-9841556a007a_moon_promo.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f6e99bfb6a0646d7900f6fe0f9c3ba2c96d84eed_moon_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wh7MNykAACoAoOZa"
+}

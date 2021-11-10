@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ornaments",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XMMNshEAAFsH16lS",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F998990e0-8232-4352-b793-c7265535cd3f_ornaments_web.jpg",
+      "width": 2474,
+      "height": 2446
+    },
+    "width": 2474,
+    "height": 2446,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/270ede59f0dae06728ebc82b76e2477e9cc6fdca_ornaments_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Ornaments comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$27e661fe-b2b1-4557-b385-95e73112a8ab",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Body ornamentation helps us feel unique; a little more like 'us' and a little less like 'you'. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XMMNrxEAADPm16lF",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcf5cdf90-c8f2-4127-9da3-89451ea8e58a_ornaments_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b94b3d8fde83caeb822988b928d4df40e6b3e78c_ornaments_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Ornaments comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XMMNrxEAADPm16lF",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcf5cdf90-c8f2-4127-9da3-89451ea8e58a_ornaments_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/97d00bc28cb49cac794196b1f5d56d85a30ccb7c_ornaments_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ornaments comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XMMNrxEAADPm16lF",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcf5cdf90-c8f2-4127-9da3-89451ea8e58a_ornaments_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/80ab084140bb631a32b84390f0fcc8c8038e5089_ornaments_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ornaments comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XMMNrxEAADPm16lF",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fcf5cdf90-c8f2-4127-9da3-89451ea8e58a_ornaments_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/817660b839a33cf4a49aa313314d4e3378254569_ornaments_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Ornaments comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XMMPFREAAOrQ169g",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XMMNshEAAFsH16lS",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F998990e0-8232-4352-b793-c7265535cd3f_ornaments_web.jpg",
+                "width": 2474,
+                "height": 2446
+              },
+              "width": 2474,
+              "height": 2446,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/270ede59f0dae06728ebc82b76e2477e9cc6fdca_ornaments_web.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Ornaments|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Ornaments comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Spine",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Ww_rdSEAAGpwlS06",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F62790a7e-56c3-4b45-8769-32451bf8b02f_spine.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1fdd25728b7a2ac10d62aa28fc4c60a5d2c98f43_spine.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Spine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Spine webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$63f9338b-eabc-4553-91d1-22dd6dd433d6",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bend it, shake it, move it. Just don't break it.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Ww_rgSEAAGpwlS1v",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdd0563f1-c130-4e3d-bbe1-37c9e8b3ac02_spine_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d7a92a87113d33a04319906feb5e6d421e3e2db8_spine_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Spine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Spine webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "Ww_rgSEAAGpwlS1v",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdd0563f1-c130-4e3d-bbe1-37c9e8b3ac02_spine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/8d321b5db9841ab33762a081f875b0ce2ffb38d5_spine_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Spine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Spine webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Ww_rgSEAAGpwlS1v",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdd0563f1-c130-4e3d-bbe1-37c9e8b3ac02_spine_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ee0c3979e7fb29fd6605afeb7fa25868d29c21bc_spine_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Spine|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Spine webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Ww_3LSEAACGnlVG0"
+}

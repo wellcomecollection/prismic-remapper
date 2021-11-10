@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Healing",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W9GrMRIAAPmb2chG",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fea6c204b-1e35-48aa-b157-49a7919dd824_healing_web.jpg",
+      "width": 2486,
+      "height": 2467
+    },
+    "width": 2486,
+    "height": 2467,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3139e3321dbe64d6c57b002c331d1ad18b9a8b5b_healing_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Healing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Healing comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$0406b6f8-2695-446d-8a8f-df24bfbc226b",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Airing our wounds and cleaning our psyches are just some of the ways we heal ourselves, says illustrator Rob Bidder.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W9GrKRIAAF-k2cgj",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff3c2e76b-865b-45b5-8b1b-de72f2152b15_healing_detail.jpg",
+              "width": 1196,
+              "height": 673
+            },
+            "width": 1196,
+            "height": 673,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/2694de1e8ab65212182090757ee3e642083b7c6d_healing_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Healing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Healing comic by Rob Bidder (detail) ",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "W9GrKRIAAF-k2cgj",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff3c2e76b-865b-45b5-8b1b-de72f2152b15_healing_detail.jpg",
+                  "width": 1196,
+                  "height": 673
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/620ac76a48361321188ba573f3fe0f691c7eb8ad_healing_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.6755852842809364,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "Healing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Healing comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W9GrKRIAAF-k2cgj",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff3c2e76b-865b-45b5-8b1b-de72f2152b15_healing_detail.jpg",
+                  "width": 1196,
+                  "height": 673
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/38c8c90e08b72f1f55d68ec336c70e382f3faf97_healing_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.75482912332838,
+                  "crop": {
+                    "x": -1243,
+                    "y": 0
+                  }
+                },
+                "credits": "Healing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Healing comic by Rob Bidder (detail) ",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "W9GrKRIAAF-k2cgj",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff3c2e76b-865b-45b5-8b1b-de72f2152b15_healing_detail.jpg",
+                  "width": 1196,
+                  "height": 673
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6da25a4dbf83cf19df9093b8443c569148f2bea0_healing_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2.6755852842809364,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Healing|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Healing comic by Rob Bidder (detail) ",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W9GsghIAAF6k2cv_"
+}

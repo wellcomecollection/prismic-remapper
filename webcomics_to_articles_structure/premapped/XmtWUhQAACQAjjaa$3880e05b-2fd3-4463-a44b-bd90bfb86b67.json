@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Embarrassment",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XmtTHRQAACEAjigN",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3879820d-1f6f-4b2e-8cd7-f88e24795062_shame.jpg",
+      "width": 2477,
+      "height": 2476
+    },
+    "width": 2477,
+    "height": 2476,
+    "url": "https://images.prismic.io/wellcomecollection/3879820d-1f6f-4b2e-8cd7-f88e24795062_shame.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Embarrassment, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Embarrassment comic by Rob Bidder in four frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$ddde3246-0560-4170-9f45-2ab682824890",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dealing with embarrassment can be hard. Turning it on yourself is harder. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XmtUUhQAACEAji15",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg",
+              "width": 1600,
+              "height": 901
+            },
+            "width": 1600,
+            "height": 901,
+            "url": "https://images.prismic.io/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Embarrassment, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Embarrassment comic by Rob Bidder (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XmtUUhQAACEAji15",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg?auto=compress,format&rect=0,76,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -151
+                  }
+                },
+                "credits": "Embarrassment, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Embarrassment comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XmtUUhQAACEAji15",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg?auto=compress,format&rect=0,1,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -1
+                  }
+                },
+                "credits": "Embarrassment, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Embarrassment comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "XmtUUhQAACEAji15",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg",
+                  "width": 1600,
+                  "height": 901
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/bc1e306d-6f84-43a7-b287-349d0bce4231_shame_promo.jpg?auto=compress,format&rect=349,0,901,901&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.551609322974473,
+                  "crop": {
+                    "x": -1241,
+                    "y": 0
+                  }
+                },
+                "credits": "Embarrassment, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Embarrassment comic by Rob Bidder (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XmtWUhQAACQAjjac"
+}

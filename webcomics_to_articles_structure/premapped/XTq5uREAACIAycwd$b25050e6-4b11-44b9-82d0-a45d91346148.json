@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hello",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XTq8eREAACMAydh7",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F26d93b30-78d1-4f9d-8d88-3ba51ad5aaf1_hello.jpg",
+      "width": 2950,
+      "height": 2940
+    },
+    "width": 2950,
+    "height": 2940,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/f24165996c65833731506eb25ff7ff549393f772_hello.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Hello, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$75946c9d-260f-4725-93fe-0d6e9782b722",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Chatting with nature is easier than we think",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XTq93xEAACIAyd7j",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F02fe7371-3910-4cc9-8f1e-05377b0dc434_hello-sample.png",
+              "width": 895,
+              "height": 503
+            },
+            "width": 895,
+            "height": 503,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/13817bc049ce36b849a462705f49544b65979e0a_hello-sample.png",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "XTq93xEAACIAyd7j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F02fe7371-3910-4cc9-8f1e-05377b0dc434_hello-sample.png",
+                  "width": 895,
+                  "height": 503
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/753dcfa6b1f221ed72391aedf3071e33d894b94a_hello-sample.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5785288270377733,
+                  "crop": {
+                    "x": -1,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XTq93xEAACIAyd7j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F02fe7371-3910-4cc9-8f1e-05377b0dc434_hello-sample.png",
+                  "width": 895,
+                  "height": 503
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7c1aaf1f2ad2e9d01f5eb5b1fcd8dc90dadf1f8e_hello-sample.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 6.361829025844931,
+                  "crop": {
+                    "x": -1247,
+                    "y": 0
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              },
+              "32:15": {
+                "origin": {
+                  "id": "XTq93xEAACIAyd7j",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F02fe7371-3910-4cc9-8f1e-05377b0dc434_hello-sample.png",
+                  "width": 895,
+                  "height": 503
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d4a01e15f0313b2886a90e25388e95163f696d80_hello-sample.png",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5754189944134076,
+                  "crop": {
+                    "x": 0,
+                    "y": -149
+                  }
+                },
+                "credits": null,
+                "alt": null,
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XTq5uREAACIAycwf"
+}

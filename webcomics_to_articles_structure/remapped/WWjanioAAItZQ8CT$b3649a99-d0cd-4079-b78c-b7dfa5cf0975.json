@@ -1,0 +1,141 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Size",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjayyoAAAF0Q8Fc",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff8d535db-ea87-4f8b-82ff-ab8334cc5680_bodysquabbles-11-size.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0df159936d9a2dc969f5a9bc4ab6f0c046300d17_bodysquabbles-11-size.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Size: a webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "I am huge.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjayyoAAL65Q8Fd",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6b571c4a-c213-4827-a502-aad798cf906c_bodysquabbles-11-size-thumb.jpg",
+              "width": 2000,
+              "height": 1124
+            },
+            "width": 2000,
+            "height": 1124,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7573125549587513f518ac09589f9a3d3591a7e6_bodysquabbles-11-size-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Size: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-07-13T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjanioAAItZQ8CV",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WWjayyoAAAF0Q8Fc",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Ff8d535db-ea87-4f8b-82ff-ab8334cc5680_bodysquabbles-11-size.jpg",
+                "width": 2000,
+                "height": 1982
+              },
+              "width": 2000,
+              "height": 1982,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0df159936d9a2dc969f5a9bc4ab6f0c046300d17_bodysquabbles-11-size.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Rob Bidder",
+              "alt": "Size: a webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

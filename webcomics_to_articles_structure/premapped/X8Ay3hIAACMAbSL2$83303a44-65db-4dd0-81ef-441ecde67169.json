@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Stuff Humans Don't Like",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X8AyTxIAACQAbSEN",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a73e9a9d-670f-48e1-a423-a89aec19f10c_Stuff+humans+don%E2%80%99t+like.png",
+      "width": 3512,
+      "height": 3769
+    },
+    "width": 3512,
+    "height": 3769,
+    "url": "https://images.prismic.io/wellcomecollection/a73e9a9d-670f-48e1-a423-a89aec19f10c_Stuff+humans+don%E2%80%99t+like.png?auto=compress,format",
+    "edit": {
+      "background": "transparent",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Stuff Humans Don't Like. Line drawing in 7 frames",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$9beb83f4-8b69-437c-b472-0dcab027f6e9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is it that you don't like?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X8AyTBIAACUAbSEB",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Worry Lines comic (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X8AyTBIAACUAbSEB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X8AyTBIAACUAbSEB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X8AyTBIAACUAbSEB",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/b0af5390-d5ce-4b60-9d48-b1f160d5eea0_Humans_promo.png?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Worry Lines comic (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X8Ay3hIAACMAbSL4"
+}

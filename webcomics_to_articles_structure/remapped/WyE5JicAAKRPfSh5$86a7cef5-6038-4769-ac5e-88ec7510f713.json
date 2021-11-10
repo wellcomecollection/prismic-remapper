@@ -1,0 +1,185 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Meditation",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WyE4eScAACNSfSV9",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa7cd1621-3095-477d-908f-0af7cde2b7bc_meditation.jpg",
+      "width": 2500,
+      "height": 2490
+    },
+    "width": 2500,
+    "height": 2490,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c57402bb986f85bf1975fc0efc448dfafc70b5fd_meditation.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Meditation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Meditation webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$20ab1bc2-9eb0-4c4a-8859-fe8937f511c5",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empty your mind, stay calm, breathe and ignore the annoying s**t",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WyE46CcAAKZPfSds",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F30fb5c85-73c8-4f94-971b-8fad5aa4c8df_meditation_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/382bd133d6041b9b1b591decf0549026b4b28df2_meditation_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Meditation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Meditation webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "WyE46CcAAKZPfSds",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F30fb5c85-73c8-4f94-971b-8fad5aa4c8df_meditation_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/684292b5658bbab6ab870c5323b853184b4b90d7_meditation_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Meditation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Meditation webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "WyE46CcAAKZPfSds",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F30fb5c85-73c8-4f94-971b-8fad5aa4c8df_meditation_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/35778dcd1bbcc9aa06e0964fc3abddbde6cd2d36_meditation_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Meditation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Meditation webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WyE5JicAAKRPfSh7",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "WyE4eScAACNSfSV9",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa7cd1621-3095-477d-908f-0af7cde2b7bc_meditation.jpg",
+                "width": 2500,
+                "height": 2490
+              },
+              "width": 2500,
+              "height": 2490,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c57402bb986f85bf1975fc0efc448dfafc70b5fd_meditation.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Meditation|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+              "alt": "Meditation webcomic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

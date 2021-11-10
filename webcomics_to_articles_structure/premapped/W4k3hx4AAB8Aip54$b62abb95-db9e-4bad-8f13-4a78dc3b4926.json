@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Anger",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W4fJyR4AAB4AhE0Y",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fee8ebb02-e99e-435a-a56b-51d32f2faefb_anger.jpg",
+      "width": 2486,
+      "height": 2464
+    },
+    "width": 2486,
+    "height": 2464,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0e01c330e5601a34150cdae68f36af2c630056cf_anger.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Anger|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Anger web comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$cff7fc14-5c10-4923-84d0-d75f0a8d54ef",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Don't let anger spoil your posh ice cream. ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W4fJzB4AACEAhE0i",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd3124aec-112b-4487-869e-32ad6927b887_anger_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e8a8e083fa4588fad8d59161baa6cf79bffe7c93_anger_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Anger|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Anger web comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W4fJzB4AACEAhE0i",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd3124aec-112b-4487-869e-32ad6927b887_anger_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d60c7dd145234143ae41f17560644a5aca524d20_anger_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Anger|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Anger web comic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W4fJzB4AACEAhE0i",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fd3124aec-112b-4487-869e-32ad6927b887_anger_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d62a65e13c93fb25689542ef93fcb82621e75250_anger_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Anger|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Anger web comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W4k3hx4AAB8Aip56"
+}

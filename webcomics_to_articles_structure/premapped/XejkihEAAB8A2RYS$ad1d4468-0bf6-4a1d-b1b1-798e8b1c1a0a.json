@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Roots",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XejkrhEAANba2Ra3",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d20253f0-a085-4151-9e1c-de3ea621e50d_roots+comic+Rob.jpg",
+      "width": 1688,
+      "height": 1661
+    },
+    "width": 1688,
+    "height": 1661,
+    "url": "https://images.prismic.io/wellcomecollection/d20253f0-a085-4151-9e1c-de3ea621e50d_roots+comic+Rob.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Roots, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Roots comic by Rob Bidder",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$632a082c-a8d1-4369-9014-a809a8e88ea9",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What would your houseplants say to you? ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xejk3REAANba2ReM",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg",
+              "width": 2424,
+              "height": 1885
+            },
+            "width": 2424,
+            "height": 1885,
+            "url": "https://images.prismic.io/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Roots, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+            "alt": "A slice of Roots comic by Rob Bidder. A figure is checking the soil of a houseplant with their finger. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xejk3REAANba2ReM",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg",
+                  "width": 2424,
+                  "height": 1885
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg?auto=compress,format&rect=0,374,2424,1136&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3201320132013201,
+                  "crop": {
+                    "x": 0,
+                    "y": -494
+                  }
+                },
+                "credits": "Roots, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Roots comic by Rob Bidder. A figure is checking the soil of a houseplant with their finger. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xejk3REAANba2ReM",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg",
+                  "width": 2424,
+                  "height": 1885
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg?auto=compress,format&rect=0,261,2424,1364&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3201320132013201,
+                  "crop": {
+                    "x": 0,
+                    "y": -344
+                  }
+                },
+                "credits": "Roots, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Roots comic by Rob Bidder. A figure is checking the soil of a houseplant with their finger. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xejk3REAANba2ReM",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg",
+                  "width": 2424,
+                  "height": 1885
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/1a3cfc6c-ef6d-4833-83dc-e714f80d0551_roots+crop.jpg?auto=compress,format&rect=270,0,1885,1885&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.6976127320954908,
+                  "crop": {
+                    "x": -458,
+                    "y": 0
+                  }
+                },
+                "credits": "Roots, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+                "alt": "A slice of Roots comic by Rob Bidder. A figure is checking the soil of a houseplant with their finger. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XejkihEAAB8A2RYU"
+}

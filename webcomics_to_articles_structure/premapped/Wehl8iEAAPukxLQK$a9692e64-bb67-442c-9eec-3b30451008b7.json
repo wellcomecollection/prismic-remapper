@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Turds",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WehkfiEAAKKkxK2j",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6c1efe86-13de-48d8-a9c5-f62b34b1f084_bodysquabbles-23-turds.jpg",
+      "width": 2000,
+      "height": 1978
+    },
+    "width": 2000,
+    "height": 1978,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3231b5e5d3e8ffed4103365f92fc10cb3022b8c4_bodysquabbles-23-turds.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Turds|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Sometimes you expel a turd so  huge or so beautiful that you can't quite fathom how it came out of your body. Do you have a trusted friend that you can show these special turds to?",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$1c511185-06be-453e-959b-917d04cdcc0b",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You can’t quite fathom how it came out of your body.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WehlXCEAAPukxLF3",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8941a5e3-ec84-4860-911d-2968a573268f_bodysquabbles-23-turds-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/3f48e3a6a5dd2db4bb87f9def62e1997efdc7579_bodysquabbles-23-turds-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wehl8iEAAPukxLQM"
+}

@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Exhausted",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "XbFpuhAAAJO1yzMW",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6ac474a8-4024-4450-a674-e2821862a2fd_exhausted+rob.jpg",
+      "width": 1671,
+      "height": 1661
+    },
+    "width": 1671,
+    "height": 1661,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ad611eef1d3f73fe38f5248be839a81042987a68_exhausted-rob.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+    "alt": "Exhausted comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$fa7face1-29bb-48a9-95ba-51e5fe8868d6",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Absolutely exhausted. Totally knackered. Really done-in. Dead. How tired are you feeling?",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "XbFqOhAAAJG1yzVc",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbef7abac-c943-4229-a42a-b01f764c6345_exhausted+comic+promo.jpg",
+              "width": 2427,
+              "height": 1811
+            },
+            "width": 2427,
+            "height": 1811,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b7ebd52d429cdec6e90285ca051531291f88997e_exhausted-comic-promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "Exhausted comic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "XbFqOhAAAJG1yzVc",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbef7abac-c943-4229-a42a-b01f764c6345_exhausted+comic+promo.jpg",
+                  "width": 2427,
+                  "height": 1811
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/fcf7c761ea79c5d2cb6901afa92d3d62a3722826_exhausted-comic-promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3185002060156572,
+                  "crop": {
+                    "x": 0,
+                    "y": -444
+                  }
+                },
+                "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Exhausted comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "XbFqOhAAAJG1yzVc",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbef7abac-c943-4229-a42a-b01f764c6345_exhausted+comic+promo.jpg",
+                  "width": 2427,
+                  "height": 1811
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/686ee7a1b037aab01b6609dd4806ca8bf8f0d495_exhausted-comic-promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.76697956929873,
+                  "crop": {
+                    "x": -544,
+                    "y": 0
+                  }
+                },
+                "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Exhausted comic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "XbFqOhAAAJG1yzVc",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbef7abac-c943-4229-a42a-b01f764c6345_exhausted+comic+promo.jpg",
+                  "width": 2427,
+                  "height": 1811
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1af7d4839a19d2de55989c76dda77ac8605951e1_exhausted-comic-promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 1.3185002060156572,
+                  "crop": {
+                    "x": 0,
+                    "y": -294
+                  }
+                },
+                "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "Exhausted comic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "XbFloxAAAG-0yyDh",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "XbFpuhAAAJO1yzMW",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F6ac474a8-4024-4450-a674-e2821862a2fd_exhausted+rob.jpg",
+                "width": 1671,
+                "height": 1661
+              },
+              "width": 1671,
+              "height": 1661,
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/ad611eef1d3f73fe38f5248be839a81042987a68_exhausted-rob.jpg",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "Exhausted, Rob Bidder | | | | CC-BY-NC | Rob Bidder |",
+              "alt": "Exhausted comic by Rob Bidder",
+              "provider": null,
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

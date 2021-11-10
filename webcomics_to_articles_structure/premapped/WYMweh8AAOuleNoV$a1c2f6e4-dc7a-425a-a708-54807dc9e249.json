@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Breath",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WYMwBB8AAKyjeNgJ",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F28bad6d1-bc96-4b56-8bfb-a9b75c3e2115_bodysquabbles-14-breath.jpg",
+      "width": 2000,
+      "height": 1977
+    },
+    "width": 2000,
+    "height": 1977,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/5e03cb5595e1c50dd4dfc80600f62924c75cca54_bodysquabbles-14-breath.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Licensed under Creative Commons: CC-BY-NC 4.0",
+    "alt": "Imagine a blow-hole in your crown. Breathe in through the hole. Feel the breath fill up your stomach and exhale through the ends of your toes.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$9a0b7797-3c6c-438d-8449-dd17f037504a",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Imagine a blow-hole in your crown.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WYMvyR8AAA2neNcC",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F0171705f-4756-4812-96b4-ecfd89c9a24e_bodysquabbles-14-breath-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b10f59db7bf02122b112a4a06dadc94c50b3eeca_bodysquabbles-14-breath-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WYMweh8AAOuleNoX"
+}

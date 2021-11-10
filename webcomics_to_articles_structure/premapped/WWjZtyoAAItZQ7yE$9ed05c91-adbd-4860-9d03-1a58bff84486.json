@@ -1,0 +1,101 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pots",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WWjTuioAAAF0Q6Hh",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fbd37d370-b7da-4be6-828b-285327c77dc3_bodysquabbles-08-pots.jpg",
+      "width": 2000,
+      "height": 1982
+    },
+    "width": 2000,
+    "height": 1982,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/da156db97545a625355792ead35563c2598d0bbc_bodysquabbles-08-pots.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Rob Bidder",
+    "alt": "Pots: A webcomic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$3cfed53f-0009-44ba-89cb-a1899388036c",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You are clay and you were formed from the earth.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WWjTtioAAItZQ6HF",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F8328930a-f5b7-41e4-8006-057e20db299f_bodysquabbles-08-pots-thumb.jpg",
+              "width": 1000,
+              "height": 562
+            },
+            "width": 1000,
+            "height": 562,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e09cdc649a706f5c92a4e6395e5ebc4ce42c69c3_bodysquabbles-08-pots-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Pots: A webcomic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "publishDate": "2017-06-22T23:00:00+00:00",
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WWjZtyoAAItZQ7yG"
+}

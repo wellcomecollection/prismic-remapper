@@ -1,0 +1,167 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Knots",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Xk-t7REAACQAgY59",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/b1163e0d-a58a-4717-a1fc-f87ddf5fa644_knots+comic.jpg",
+      "width": 1500,
+      "height": 1499
+    },
+    "width": 1500,
+    "height": 1499,
+    "url": "https://images.prismic.io/wellcomecollection/b1163e0d-a58a-4717-a1fc-f87ddf5fa644_knots+comic.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Knots, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+    "alt": "Knots comic by Rob Bidder with four frames. Two figures are depicted tangled in knots. ",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "Wux6DyIAAO5n3lzk",
+        "wioUrl": "wio://documents/Wux6DyIAAO5n3lzk"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$fbbced8b-bdce-4d8e-b152-b7897ab1bd72",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Imagine a life free of knots.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Xk-ubBEAACMAgZC5",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg",
+              "width": 708,
+              "height": 398
+            },
+            "width": 708,
+            "height": 398,
+            "url": "https://images.prismic.io/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg?auto=compress,format",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Knots, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+            "alt": "A figure is depicted tangled in a mass of knots with a speech bubble that reads: 'Every time I untie a couple of knots, I find bigger, tighter ones underneath'. ",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "Xk-ubBEAACMAgZC5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg",
+                  "width": 708,
+                  "height": 398
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg?auto=compress,format&rect=0,33,708,332&w=3200&h=1500",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.519774011299435,
+                  "crop": {
+                    "x": 0,
+                    "y": -149
+                  }
+                },
+                "credits": "Knots, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "A figure is depicted tangled in a mass of knots with a speech bubble that reads: 'Every time I untie a couple of knots, I find bigger, tighter ones underneath'. ",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Xk-ubBEAACMAgZC5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg",
+                  "width": 708,
+                  "height": 398
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg?auto=compress,format&rect=0,0,708,398&w=3200&h=1800",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 4.522613065326633,
+                  "crop": {
+                    "x": -1,
+                    "y": 0
+                  }
+                },
+                "credits": "Knots, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "A figure is depicted tangled in a mass of knots with a speech bubble that reads: 'Every time I untie a couple of knots, I find bigger, tighter ones underneath'. ",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "Xk-ubBEAACMAgZC5",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg",
+                  "width": 708,
+                  "height": 398
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/7b24181f-3e51-4a86-8db1-69c8ad0443bd_knots+comic+crop.jpg?auto=compress,format&rect=155,0,398,398&w=3200&h=3200",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 8.040201005025125,
+                  "crop": {
+                    "x": -1246,
+                    "y": 0
+                  }
+                },
+                "credits": "Knots, Rob Bidder | | | | CC-BY-NC | Rob Bidder ",
+                "alt": "A figure is depicted tangled in a mass of knots with a speech bubble that reads: 'Every time I untie a couple of knots, I find bigger, tighter ones underneath'. ",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Xk-tihEAACUAgYy8"
+}

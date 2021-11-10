@@ -1,0 +1,207 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Being human",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "X9x3GBIAACIA6deX",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6586633c-ec1a-4238-8d62-fddc62a53c76_Wellcome+8.jpg",
+      "width": 6338,
+      "height": 6319
+    },
+    "width": 6338,
+    "height": 6319,
+    "url": "https://images.prismic.io/wellcomecollection/6586633c-ec1a-4238-8d62-fddc62a53c76_Wellcome+8.jpg?auto=compress,format",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "© Worry Lines for Wellcome Collection",
+    "alt": "Web comic in 4 frames by Worry Lines",
+    "provider": "imgix",
+    "thumbnails": {}
+  },
+  "series": [
+    {
+      "series": {
+        "id": "X8D9qxIAACIAcKSf",
+        "wioUrl": "wio://documents/X8D9qxIAACIAcKSf"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "role": {
+        "id": "XVQa_xMAACMAqbwo",
+        "wioUrl": "wio://documents/XVQa_xMAACMAqbwo"
+      },
+      "contributor": {
+        "id": "X5ruAxIAAB0AvsTc",
+        "wioUrl": "wio://documents/X5ruAxIAAB0AvsTc"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$2b59cbea-f717-4de8-80f2-3cf616b21059",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drop the list and just exist.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "X9x3jhIAACMA6dmt",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://images.prismic.io/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png?auto=compress,format",
+            "edit": {
+              "background": "transparent",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "© Worry Lines for Wellcome Collection",
+            "alt": "Web comic (detail)",
+            "provider": "imgix",
+            "thumbnails": {
+              "32:15": {
+                "origin": {
+                  "id": "X9x3jhIAACMA6dmt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1500,
+                "url": "https://images.prismic.io/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png?auto=compress,format&rect=0,75,1600,750&w=3200&h=1500",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": -150
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Web comic (detail)",
+                "provider": "imgix"
+              },
+              "16:9": {
+                "origin": {
+                  "id": "X9x3jhIAACMA6dmt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://images.prismic.io/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png?auto=compress,format&rect=0,0,1600,900&w=3200&h=1800",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Web comic (detail)",
+                "provider": "imgix"
+              },
+              "square": {
+                "origin": {
+                  "id": "X9x3jhIAACMA6dmt",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://images.prismic.io/wellcomecollection/d5f6f03b-2761-491d-af2d-57d23defe324_humanbeing_promo.png?auto=compress,format&rect=350,0,900,900&w=3200&h=3200",
+                "edit": {
+                  "background": "transparent",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "© Worry Lines for Wellcome Collection",
+                "alt": "Web comic (detail)",
+                "provider": "imgix"
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "X9x3zRIAACMA6drL",
+  "body": [
+    {
+      "key": "editorialImageGallery",
+      "value": {
+        "repeat": [
+          {
+            "image": {
+              "origin": {
+                "id": "X9x3GBIAACIA6deX",
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/6586633c-ec1a-4238-8d62-fddc62a53c76_Wellcome+8.jpg",
+                "width": 6338,
+                "height": 6319
+              },
+              "width": 6338,
+              "height": 6319,
+              "url": "https://images.prismic.io/wellcomecollection/6586633c-ec1a-4238-8d62-fddc62a53c76_Wellcome+8.jpg?auto=compress,format",
+              "edit": {
+                "background": "#fff",
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              "credits": "© Worry Lines for Wellcome Collection",
+              "alt": "Web comic in 4 frames by Worry Lines",
+              "provider": "imgix",
+              "thumbnails": {}
+            }
+          }
+        ],
+        "non-repeat": {}
+      },
+      "label": "standalone"
+    }
+  ],
+  "format": {
+    "id": "W7d_ghAAALWY3Ujc",
+    "wioUrl": "wio://documents/W7d_ghAAALWY3Ujc"
+  }
+}

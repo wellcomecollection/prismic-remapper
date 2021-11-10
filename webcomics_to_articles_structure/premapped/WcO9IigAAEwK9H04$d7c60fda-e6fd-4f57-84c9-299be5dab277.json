@@ -1,0 +1,100 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Facts",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "WcO8rSgAAEoK9Hsv",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F08e8f0d3-39ba-46ef-b167-14571a8d2078_bodysquabbles-20-facts.jpg",
+      "width": 2000,
+      "height": 1997
+    },
+    "width": 2000,
+    "height": 1997,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1ad9ded046816715f0ae7149e33160ab7ae64760_bodysquabbles-20-facts.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Facts|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Four unbelievable body facts!!! You are 97.3% genetically idential to a  chestnut. More hair grows on your eyeball than your armpit. You can fit 312 tins of beans into the 'average' body. Your intestines can stretch once around Mount Fuji.",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$268330b7-d197-4ab8-b5a8-5c8fa7f8a09b",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "More hair grows on your eyeball than your armpit.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "WcO9ACgAAEwK9Hye",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F98ee891f-9997-49d5-8ea2-5141eb88a08e_bodysquabbles-20-facts-thumb.jpg",
+              "width": 2000,
+              "height": 1125
+            },
+            "width": 2000,
+            "height": 1125,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/dd09022d2679d7472a3dd0bbea62c2155b478c38_bodysquabbles-20-facts-thumb.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": null,
+            "alt": null,
+            "provider": null,
+            "thumbnails": {}
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "WcO9IigAAEwK9H06"
+}

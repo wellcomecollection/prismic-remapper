@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Therapy",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "Wo6fKioAACoAafbU",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F4ddb85ce-b1a8-4687-ba62-cc52a1eabb7c_therapy.jpg",
+      "width": 2479,
+      "height": 2466
+    },
+    "width": 2479,
+    "height": 2466,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/aa73d98cd2dd94b4e3620982d737a8516a9b6ee2_therapy.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": null,
+    "alt": null,
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$b45a4ace-43e2-4081-b0d9-b1dbaab810f2",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Letting it all out can often feel better than keeping it all in.",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "Wo6itCoAAMLuagZp",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa50ef853-733e-46b1-a793-4ca809e2a67f_therapy_detail.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/a55c96803c7538bdce9f1f8057abb3a0f26a7295_therapy_detail.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Rob Bidder",
+            "alt": "Therapy: A webcomic by Rob Bidder (detail)",
+            "provider": null,
+            "thumbnails": {
+              "square": {
+                "origin": {
+                  "id": "Wo6itCoAAMLuagZp",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa50ef853-733e-46b1-a793-4ca809e2a67f_therapy_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/0f92f7a8043a8df6ea7db0e2ca26cc60c6ccc746_therapy_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Therapy: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              },
+              "16:9": {
+                "origin": {
+                  "id": "Wo6itCoAAMLuagZp",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fa50ef853-733e-46b1-a793-4ca809e2a67f_therapy_detail.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/19176d9b734093dc157342bb97718634b2d6e1d6_therapy_detail.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Rob Bidder",
+                "alt": "Therapy: A webcomic by Rob Bidder (detail)",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "Wo6lMCoAAMLuahFZ"
+}

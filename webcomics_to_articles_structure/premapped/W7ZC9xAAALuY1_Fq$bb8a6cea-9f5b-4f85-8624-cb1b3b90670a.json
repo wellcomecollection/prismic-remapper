@@ -1,0 +1,145 @@
+{
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sport",
+        "spans": []
+      }
+    }
+  ],
+  "image": {
+    "origin": {
+      "id": "W7Y_IxAAALiY1-CU",
+      "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2Fdd8d4696-baec-4b97-840a-a0e3f3d2c596_sport_web.jpg",
+      "width": 2483,
+      "height": 2456
+    },
+    "width": 2483,
+    "height": 2456,
+    "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/e4b97772dc84cd591a307d36419066de2d40b96a_sport_web.jpg",
+    "edit": {
+      "background": "#fff",
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "credits": "Sport|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+    "alt": "Sport comic by Rob Bidder",
+    "provider": null,
+    "thumbnails": {}
+  },
+  "contributors": [
+    {
+      "role": {
+        "id": "WcUWeCgAAFws-nGh",
+        "wioUrl": "wio://documents/WcUWeCgAAFws-nGh"
+      },
+      "contributor": {
+        "id": "WSQ9rygAAA9xtwfy",
+        "wioUrl": "wio://documents/WSQ9rygAAA9xtwfy"
+      }
+    }
+  ],
+  "series": [
+    {
+      "series": {
+        "id": "WleP3iQAACUAYEoN",
+        "wioUrl": "wio://documents/WleP3iQAACUAYEoN"
+      }
+    }
+  ],
+  "promo": [
+    {
+      "key": "editorialImage$09ea5d44-330b-436e-aa0e-aa843963d364",
+      "value": {
+        "repeat": [],
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are you a sporting legend or an athletic disaster? World peace might depend on it! ",
+                "spans": []
+              }
+            }
+          ],
+          "image": {
+            "origin": {
+              "id": "W7Y_HxAAADp-1-CE",
+              "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F39f39aae-1357-428b-95bb-8a8f2a3f680b_sport_web_promo.jpg",
+              "width": 1600,
+              "height": 900
+            },
+            "width": 1600,
+            "height": 900,
+            "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/c9348c09bc988ed08394f073097780f7f4287221_sport_web_promo.jpg",
+            "edit": {
+              "background": "#fff",
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 0
+              }
+            },
+            "credits": "Sport|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+            "alt": "Sport Comic by Rob Bidder",
+            "provider": null,
+            "thumbnails": {
+              "16:9": {
+                "origin": {
+                  "id": "W7Y_HxAAADp-1-CE",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F39f39aae-1357-428b-95bb-8a8f2a3f680b_sport_web_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 1800,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/72f5c4510f4c3680045bd360b6df0889eab8e13c_sport_web_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 2,
+                  "crop": {
+                    "x": 0,
+                    "y": 0
+                  }
+                },
+                "credits": "Sport|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sport Comic by Rob Bidder",
+                "provider": null
+              },
+              "square": {
+                "origin": {
+                  "id": "W7Y_HxAAADp-1-CE",
+                  "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection%2F39f39aae-1357-428b-95bb-8a8f2a3f680b_sport_web_promo.jpg",
+                  "width": 1600,
+                  "height": 900
+                },
+                "width": 3200,
+                "height": 3200,
+                "url": "https://prismic-io.s3.amazonaws.com/wellcomecollection/1bd301135620b924ef9e03a10cabee9f3a52ef34_sport_web_promo.jpg",
+                "edit": {
+                  "background": "#fff",
+                  "zoom": 3.5555555555555554,
+                  "crop": {
+                    "x": -1244,
+                    "y": 0
+                  }
+                },
+                "credits": "Sport|Rob Bidder|||CC-BY-NC|Rob Bidder| ",
+                "alt": "Sport Comic by Rob Bidder",
+                "provider": null
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "type": "webcomics",
+  "tags": [],
+  "lang": "en-gb",
+  "grouplang": "W7ZC9xAAALuY1_Fs"
+}
