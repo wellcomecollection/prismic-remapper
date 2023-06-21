@@ -2,12 +2,15 @@
   "name": "@weco/prismic-remapper",
   "license": "MIT",
   "scripts": {
-    "remap": "ts-node remap"
+    "remap": "ts-node remap",
+    "legacyRemap": "ts-node legacyRemap"
   },
   "dependencies": {
     "@types/node": "^16.11.7",
+    "@types/yargs": "^17.0.24",
     "ts-node": "^10.4.0",
-    "typescript": "^4.4.4"
+    "typescript": "^4.4.4",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.3.1",

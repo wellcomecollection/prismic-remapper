@@ -6,23 +6,18 @@ const { id } = yargs(process.argv.slice(2)).options({
   logIds: { type: 'boolean', default: false }
 }).parseSync()
 
-export type PrismicDocData = {
-  type: string
-  tags: string[]
-  lang: string
-  [key: string]: any
-  body: {
-    slice_type: string //eslint-disable-line
+type PrismicDoc = {
+  filename: string
+  data: {
+    type: string
+    tags: string[]
+    lang: string
+    [key: string]: any
   }
 }
 
-type PrismicDoc = {
-  filename: string
-  data: PrismicDocData[]
-}
-
 export type Remapper = {
-  filter: (doc: PrismicDocData) => boolean
+  filter: (doc: PrismicDoc) => boolean
   map: (doc: PrismicDoc) => PrismicDoc
 }
 
@@ -43,18 +38,18 @@ async function run () {
     }))
 
   // We write the premapped data in case we need to revert
-  const filteredDocs = docs[0].data.filter(filter)
+  const filteredDocs = docs.filter(filter)
   await fs.rm(`./${id}/premapped`, { recursive: true, force: true })
   await fs.mkdir(`./${id}/premapped`)
-  await Promise.all(filteredDocs.map(doc => fs.writeFile(`./${id}/premapped/${docs[0].filename}`, json(doc.data))))
+  await Promise.all(filteredDocs.map(doc => fs.writeFile(`./${id}/premapped/${doc.filename}`, json(doc.data))))
 
-  const mappedDocs = ([{ filename: docs[0].filename, data: filteredDocs }]).map(map)
+  const mappedDocs = filteredDocs.map(map)
   await fs.rm(`./${id}/remapped`, { recursive: true, force: true })
   await fs.mkdir(`./${id}/remapped`)
   await Promise.all(mappedDocs.map(doc => fs.writeFile(`./${id}/remapped/${doc.filename}`, json(doc.data))))
 
-  await fs.writeFile(`./${id}/before.json`, json(filteredDocs))
-  await fs.writeFile(`./${id}/after.json`, json(mappedDocs))
+  await fs.writeFile(`./${id}/before.json`, json(filteredDocs[0].data))
+  await fs.writeFile(`./${id}/after.json`, json(mappedDocs[0].data))
 
   console.info(`remapped ${mappedDocs.length}`)
 }

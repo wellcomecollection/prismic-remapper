@@ -1,4 +1,4 @@
-import { Remapper } from "../remap";
+import { Remapper } from '../remap'
 
 const remapper: Remapper = {
   filter: (doc) => doc.data.type === 'webcomics',
@@ -16,13 +16,13 @@ const remapper: Remapper = {
               }],
               'non-repeat': {}
             },
-            label: "standalone"
+            label: 'standalone'
           }
         ],
         format: {
           id: 'W7d_ghAAALWY3Ujc',
           wioUrl: 'wio://documents/W7d_ghAAALWY3Ujc'
-        },
+        }
       }
     }
   }
