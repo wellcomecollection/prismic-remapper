@@ -1,27 +1,22 @@
 // Merge legacy "Quote" slice with currently used "QuoteV2" slice
 import { PrismicDocData, Remapper } from '../remap'
 
+// WIP
 const remapper: Remapper = {
-  filter: (data: PrismicDocData): boolean => {
-    return data.data?.body && data.data.body.find((slice:any) => slice.slice_type === 'quote')
-  },
-  map: ({ filename, data }) => {
-    const newData = data.map((node, i) => {
-      const newSliceId = JSON.parse(JSON.stringify(node.data.body).replace(/quote\$/g, 'quoteV2$'))
-      const newSliceType = JSON.parse(JSON.stringify(newSliceId).replace(/slice_type":"quote"/g, 'slice_type":"quoteV2"'))
-
-      return {
-        ...node,
-        data: {
-          ...node.data,
-          body: newSliceType
-        }
-      }
+  filter: ({ data } : { filename: string, data: PrismicDocData }): boolean => {
+    return data.body && data.body.find(({ key } : { key: string }) => {
+      return !key.indexOf('quote$')
     })
-    console.log(newData.map(n => n.data.body), newData.length)
+  },
+  map: ({ filename, data }: { filename: string, data: PrismicDocData }) => {
+    const newSliceType = data.body.map((slice:any) => {
+      const newSliceId = JSON.parse(JSON.stringify(slice).replace(/quote\$/g, 'quoteV2$'))
+      return JSON.parse(JSON.stringify(newSliceId).replace(/slice_type":"quote"/g, 'slice_type":"quoteV2"'))
+    })
+
     return {
       filename,
-      data: newData
+      data: newSliceType
     }
   }
 }
