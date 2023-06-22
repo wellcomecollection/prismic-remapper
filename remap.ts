@@ -6,19 +6,14 @@ const { id } = yargs(process.argv.slice(2)).options({
   logIds: { type: 'boolean', default: false }
 }).parseSync()
 
-export type PrismicDocData = {
-  type: string
-  tags: string[]
-  lang: string
-  body: {
+type PrismicDoc = {
+  filename: string
+  data: {
+    type: string
+    tags: string[]
+    lang: string
     [key: string]: any
   }
-  [key: string]: any
-}
-
-export type PrismicDoc = {
-  filename: string
-  data: PrismicDocData
 }
 
 export type Remapper = {

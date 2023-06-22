@@ -2,8 +2,7 @@
   "name": "@weco/prismic-remapper",
   "license": "MIT",
   "scripts": {
-    "remap": "ts-node remap",
-    "legacyRemap": "ts-node legacyRemap"
+    "remap": "ts-node remap"
   },
   "dependencies": {
     "@types/node": "^16.11.7",
