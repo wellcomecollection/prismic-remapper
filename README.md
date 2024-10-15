@@ -1,3 +1,5 @@
+Deprecated see https://wellcome.slack.com/archives/CUA669WHH/p1714653914527719
+
 # Prismic Remapper
 
 To remap content, export the documents from Prismic using https://prismic.io/docs/import-export#export-tool, and dump them all into `./.dist`.
